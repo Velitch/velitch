@@ -15,9 +15,9 @@ author: Gabriela Krassimirova Velitchkova
 
 navbar-links:
   About Me:
-    - Education: "Education"
-    - Experience: "Experience"
-  Projects: "Projects"
+    - Education: "/pages/Education"
+    - Experience: "/pages/Experience"
+  Projects: "/pages/Projects"
 
 # --- Logo --- #
 
@@ -47,7 +47,7 @@ social-network-links:
 #  youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: Gabriela Velitch
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
