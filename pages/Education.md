@@ -5,7 +5,7 @@ subtitle:
 ---
 
 ## Electroacoustic Composition
-###  Bachelor's degree & Master's degree (to date)
+###  Bachelor's degree & Master's degree
 
 ###### 2016 - (to date)
 
