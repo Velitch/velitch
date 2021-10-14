@@ -49,7 +49,7 @@ ______________
 
 ###### 2021 - (to date)
 
-Johns Hopkins University,
+Johns Hopkins University
 
 [](https://www.coursera.org/specializations/computational-neuroscience)
 
