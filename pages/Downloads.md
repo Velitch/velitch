@@ -1,5 +1,5 @@
 ---
-layout: Downloads
+layout: downloads
 title: Downloads
 subtitle:
 ---
