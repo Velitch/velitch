@@ -155,10 +155,10 @@ mobile-theme-col: "#1E1E30"
 # --- Comments --- #
 
 # To use Disqus comments, sign up to https://disqus.com and fill in your Disqus shortname (NOT the userid)
-disqus: "https-velitch-github-io-velitch"
+# disqus: "https-velitch-github-io-velitch"
 
 # To use Facebook Comments, create a Facebook app and fill in the Facebook App ID
-#fb_comment_id: ""
+fb_comment_id: "2004620389706680"
 
 # To use Utterances comments: (0) uncomment the following section, (1) fill in
 # "repository" (make sure the repository is public), (2) Enable Issues in your repository,
