@@ -101,9 +101,9 @@ keywords: "gabriela, krassimirova, velitchkova, portfolio, music, electroacousti
 
 navbar-col: "#1E1E30"
 navbar-text-col: "F9F9F9"
-navbar-border-col: "F9F9F9" #"#1E1E30"
+navbar-border-col: "#1E1E30"
 page-col: "#FFFFFF"
-text-col: "F9F9F9" #"#404040"
+text-col: "#404040"
 link-col: "#404040"
 hover-col: "#0085A1"
 footer-col: "#1E1E30"
