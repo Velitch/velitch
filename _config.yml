@@ -253,5 +253,4 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
-  collections:
-  - _downloads
+include: ["_pages"]
