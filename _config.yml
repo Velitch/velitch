@@ -252,3 +252,7 @@ exclude:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+
+collections:
+  authors:
+    output: true
