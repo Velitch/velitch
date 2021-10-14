@@ -224,11 +224,6 @@ kramdown:
 
 # Default YAML values (more information on Jekyll's site)
 defaults:
-    - scope:
-        path: ""
-        type: "authors"
-      values:
-        layout: "author"
   -
     scope:
       path: ""
