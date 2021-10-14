@@ -4,7 +4,7 @@ title: Education
 subtitle:
 ---
 
-## Electroacoustic composition
+## Electroacoustic Composition
 ###  Bachelor's degree & Master's degree (to date)
 
 Conservatory of Santa Ceclia, Rome
@@ -24,7 +24,7 @@ Conservatory of Santa Ceclia, Rome
 
 ______________
 
-## Teaching qualification
+## Teaching Qualification
 ###  24 CFA (to date)
 
 Conservatory of Santa Ceclia, Rome
