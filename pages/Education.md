@@ -5,8 +5,10 @@ subtitle:
 ---
 
 ###  Bachelor's degree
-    Conservatory of Santa Ceclia, Rome
-    [www.conservatoriosantacecilia.it](https://www.conservatoriosantacecilia.it)
+
+Conservatory of Santa Ceclia, Rome
+[www.conservatoriosantacecilia.it](https://www.conservatoriosantacecilia.it)
+
 
 |COURSES|INSTRUCTORS|
 |:---:|:---:|
