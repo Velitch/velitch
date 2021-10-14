@@ -20,4 +20,20 @@ Conservatory of Santa Ceclia, Rome
 |Acoustic & Maths|Marco Giordano|
 |Performance and interpretation of electroacoustic music|Giuseppe Silvi|
 |History of music|Luigino Pizzaleo, Antonietta Cerocchi|
-|Compositional analysis|Luigino Pizzaleo,Stefno Bracci|
+|Compositional analysis|Luigino Pizzaleo, Stefno Bracci|
+
+______________
+
+## Teaching qualification
+###  24 CFA
+
+Conservatory of Santa Ceclia, Rome
+
+[www.conservatoriosantacecilia.it](https://www.conservatoriosantacecilia.it)
+
+|COURSES|INSTRUCTORS|
+|:---:|:---:|
+|Musical psychology|Franca Ferrari|
+|Pedagogy, special pedagogy and inclusion teaching|Franca Ferrari|
+|Direction of choir and choral repertoire|Carla Conti|
+|composition elements|Franco Mirenzi|
