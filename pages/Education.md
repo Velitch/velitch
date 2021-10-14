@@ -14,10 +14,10 @@ Conservatory of Santa Ceclia, Rome
 
 |COURSES|INSTRUCTORS|
 |:---:|:---:|
-|Composition|Michelangelo Lupone, Nicola Bernardini, Pasquale Citera, Stefano Bracci|
+|Composition|[Michelangelo Lupone](https://www.linkedin.com/in/michelangelo-lupone-3462b85b/?originalSubdomain=it), Nicola Bernardini, Pasquale Citera, Stefano Bracci|
 |Computer music science|Riccardo Santoboni, Nicola Bernardini, Pasquale Citera|
 |Electroacoustic|Federico Scalas|
-|Acoustic & Maths|Marco Giordano|
+|Acoustic & Maths|[Marco Giordano](https://www.linkedin.com/in/marco-giordano-2069721/?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAABSAaYBPASp7VwurWHgwgqPZCVT_5DPBec)|
 |Performance and interpretation of electroacoustic music|Giuseppe Silvi|
 |History of music|Luigino Pizzaleo, Antonietta Cerocchi|
 |Compositional analysis|Luigino Pizzaleo, Stefano Bracci|
