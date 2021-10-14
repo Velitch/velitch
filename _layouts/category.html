@@ -2,8 +2,6 @@
 layout: page
 ---
 
-{% include post-categories.html %}
-
 {{ content }}
 
 {% assign posts = paginator.posts | default: site.posts %}
