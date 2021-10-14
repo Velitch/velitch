@@ -1,4 +1,4 @@
 ---
-layout: author
-title: Staff
+layout: projects
+title: Downloads
 ---
