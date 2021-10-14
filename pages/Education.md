@@ -44,7 +44,7 @@ Conservatory of Santa Ceclia, Rome
 
 ______________
 
-## Neuroscience and Neuroimaging Specialization
+## Neuroscience and Neuroimaging
 #### Specialization
 
 ###### 2021 - (to date)
