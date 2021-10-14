@@ -7,6 +7,8 @@ subtitle:
 ## Electroacoustic Composition
 ###  Bachelor's degree & Master's degree (to date)
 
+2016-(to date)
+
 Conservatory of Santa Ceclia, Rome
 
 [www.conservatoriosantacecilia.it](https://www.conservatoriosantacecilia.it)
@@ -25,7 +27,9 @@ Conservatory of Santa Ceclia, Rome
 ______________
 
 ## Teaching Qualification
-###  24 CFA (to date)
+###  24 CFA
+
+2021-(to date)
 
 Conservatory of Santa Ceclia, Rome
 
@@ -41,7 +45,9 @@ Conservatory of Santa Ceclia, Rome
 ______________
 
 ## Neuroscience and Neuroimaging Specialization
-### Specialization (to date)
+### Specialization
+
+2021-(to date)
 
 Johns Hopkins University,
 
