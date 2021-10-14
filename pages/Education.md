@@ -17,5 +17,5 @@ Conservatory of Santa Ceclia, Rome
 |Composition|Michelangelo Lupone, Nicola Bernardini, Pasquale Citera, Stefano Bracci|
 |Computer music science|Riccardo Santoboni, Nicola Bernardini, Pasquale Citera|
 |Electroacoustic|Federico Scalas|
-|COURSES|INSTRUCTORS|
-|COURSES|INSTRUCTORS|
+|History of music|Luigino Pizzaleo, Antonietta Cerocchi|
+|Compositional analysis|Luigino Pizzaleo|
