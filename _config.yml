@@ -14,10 +14,12 @@ author: Gabriela Krassimirova Velitchkova
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+
+  Projects: "/pages/Projects"
   About Me:
     - Education: "/pages/Education"
     - Experience: "/pages/Experience"
-  Projects: "/pages/Projects"
+  
 
 # --- Logo --- #
 
