@@ -51,7 +51,7 @@ ______________
 
 Johns Hopkins University
 
-[](https://www.coursera.org/specializations/computational-neuroscience)
+[website](https://www.coursera.org/specializations/computational-neuroscience)
 
 |COURSES|INSTRUCTORS|
 |:---:|:---:|
@@ -61,3 +61,21 @@ Johns Hopkins University
 |Introduction to Neurohacking In R|[Elizabeth Sweeney](https://www.coursera.org/instructor/~2888342), [Ciprian M. Crainiceanu](https://www.coursera.org/instructor/~19543713),  [Tor Wager](https://www.coursera.org/instructor/~7303121)|
 
 ______________
+
+## Biennale Collage – CIMM 2019
+ 
+#### International Masterclass in Computer and Multimedia
+
+###### 2019
+
+La biennale, Venezia
+
+[website](https://www.labiennale.org/it/musica/2019/biennale-college-cimm-masterclass)
+
+|COURSES|INSTRUCTORS|
+|:---:|:---:|
+|Presentation of the FAUST program - Electronic instruments and audio plug-ins design using the Faust language|Yann Orlarey|
+|Poetics and techniques of Feed-back for augmenting instruments|[Michelangelo Lupone](https://www.linkedin.com/in/michelangelo-lupone-3462b85b/?originalSubdomain=it)|
+
+______________
+
