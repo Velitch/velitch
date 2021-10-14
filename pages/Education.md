@@ -20,7 +20,7 @@ Conservatory of Santa Ceclia, Rome
 |Acoustic & Maths|Marco Giordano|
 |Performance and interpretation of electroacoustic music|Giuseppe Silvi|
 |History of music|Luigino Pizzaleo, Antonietta Cerocchi|
-|Compositional analysis|Luigino Pizzaleo, Stefno Bracci|
+|Compositional analysis|Luigino Pizzaleo, Stefano Bracci|
 
 ______________
 
