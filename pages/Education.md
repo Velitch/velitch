@@ -61,3 +61,5 @@ Johns Hopkins University,
 |Introduction to Neurohacking In R|[Elizabeth Sweeney](https://www.coursera.org/instructor/~2888342), [Ciprian M. Crainiceanu](https://www.coursera.org/instructor/~19543713),  [Tor Wager](https://www.coursera.org/instructor/~7303121)|
 
 ______________
+
+[<img src="https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png" width="25"/>](https://github.com/user/repository/subscription)
