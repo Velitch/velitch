@@ -2,12 +2,25 @@
 layout: page
 ---
 
+{% for category in site.categories %}
+  <h3>{{ category[0] }}</h3>
+  <ul>
+    {% for post in category[1] %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+{% endfor %}
+
+---
+layout: page
+---
+
 {{ content }}
 
-{% assign category = paginator.posts | default: site.categories %}
+{% assign posts = paginator.posts | default: site.posts %}
 
 <div class="posts-list">
-  {% for category in site.categories %}
+  {% for post in posts %}
   <article class="post-preview">
 
     {%- capture thumbnail -%}
