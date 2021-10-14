@@ -191,7 +191,7 @@ img {
 .navbar-custom .navbar-brand,
 .navbar-custom .navbar-nav .nav-link {
   font-weight: 800;
-  color: {{ site.white-col | default: "#F9F9F9" }};
+  color: {{ site.navbar-text-col | default: "#404040" }};
 }
 
 .navbar-toggler {
@@ -200,7 +200,7 @@ img {
 }
 .navbar-custom .navbar-toggler:focus,
 .navbar-custom .navbar-toggler:hover {
-  background-color: {{ site.white-col | default: "#F9F9F9" }};
+  background-color: initial;
 }
 
 .navbar-custom .navbar-toggler[aria-expanded="true"] {
@@ -262,7 +262,7 @@ img {
   text-decoration: none !important;
   border-width: 0 1px 1px 1px;
   font-weight: normal;
-  color: {{ site.white-col | default: "#F9F9F9" }};
+  color: {{ site.navbar-text-col | default: "#404040" }};
 }
 
 @media (min-width: 1200px) {
