@@ -2,5 +2,5 @@
 layout: category
 title: Downloads
 subtitle:
-category: maxmsp
+tag: maxmsp
 ---
