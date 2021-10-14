@@ -4,10 +4,10 @@ layout: page
 
 {{ content }}
 
-{% assign posts = paginator.posts | default: site.downloads %}
+{% assign downloads = paginator.posts | default: site.downloads %}
 
 <div class="posts-list">
-  {% for post in posts %}
+  {% for post in downloads %}
   <article class="post-preview">
 
     {%- capture thumbnail -%}
