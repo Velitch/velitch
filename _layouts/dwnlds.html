@@ -4,7 +4,7 @@ layout: page
 
 {{ content }}
 
-{% assign dwnlds = paginator.posts | default: site.downnloads %}
+{% assign dwnlds = paginator.posts | default: site.downloads %}
 
 <div class="posts-list">
   {% for post in downloads %}
