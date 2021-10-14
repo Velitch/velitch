@@ -1,5 +1,5 @@
 ---
-layout: downloads
+layout: projects
 title: Downloads
 subtitle:
 ---
