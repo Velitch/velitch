@@ -1,5 +1,5 @@
 ---
-layout: downloads
+layout: dwnlds
 title: Downloads
 subtitle:
 ---
