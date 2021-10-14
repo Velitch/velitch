@@ -1,4 +1,4 @@
 ---
-layout: staff
+layout: author
 title: Staff
 ---
