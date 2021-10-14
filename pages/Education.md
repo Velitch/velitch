@@ -4,6 +4,7 @@ title: Education
 subtitle:
 ---
 
+## Electroacoustic composition
 ###  Bachelor's degree
 
 Conservatory of Santa Ceclia, Rome
@@ -18,5 +19,3 @@ Conservatory of Santa Ceclia, Rome
 |Electroacoustic|Federico Scalas|
 |COURSES|INSTRUCTORS|
 |COURSES|INSTRUCTORS|
-
-|QUALIFICATION|INSTITUTE
