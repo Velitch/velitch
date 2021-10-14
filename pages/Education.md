@@ -49,7 +49,7 @@ Johns Hopkins University,
 |COURSES|INSTRUCTORS|
 |:---:|:---:|
 |Fundamental Neuroscience for Neuroimaging|[Arnold Bakker](https://www.coursera.org/instructor/~27713092)|
-|Principles of fMRI 1Principles of fMRI 1|[Martin Lindquist](https://www.coursera.org/instructor/martinlindquist), [Tor Wager](https://www.coursera.org/instructor/~7303121)|
+|Principles of fMRI 1|[Martin Lindquist](https://www.coursera.org/instructor/martinlindquist), [Tor Wager](https://www.coursera.org/instructor/~7303121)|
 |Principles of fMRI 2|[Martin Lindquist](https://www.coursera.org/instructor/martinlindquist), [Tor Wager](https://www.coursera.org/instructor/~7303121)|
 |Introduction to Neurohacking In R|[Elizabeth Sweeney](https://www.coursera.org/instructor/~2888342), [Ciprian M. Crainiceanu](https://www.coursera.org/instructor/~19543713),  [Tor Wager](https://www.coursera.org/instructor/~7303121)|
 
