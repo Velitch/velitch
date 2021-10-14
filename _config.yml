@@ -15,9 +15,11 @@ author: Gabriela Krassimirova Velitchkova
 
 navbar-links:
   Projects: "/pages/Projects"
+  Downlods: "/pages/Downlods"
   About Me:
     - Education: "/pages/Education"
     - Experience: "/pages/Experience"
+
 
 # --- Logo --- #
 
