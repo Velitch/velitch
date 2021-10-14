@@ -13,5 +13,9 @@ Conservatory of Santa Ceclia, Rome
 |COURSES|INSTRUCTORS|
 |:---:|:---:|
 |composition|Michelangelo Lupone, Nicola Bernardini, Pasquale Citera, Stefano Bracci|
+|computer music science|Riccardo Santoboni, Pasquale Citera|
+|COURSES|INSTRUCTORS|
+|COURSES|INSTRUCTORS|
+|COURSES|INSTRUCTORS|
 
 |QUALIFICATION|INSTITUTE
