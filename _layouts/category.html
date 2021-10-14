@@ -4,7 +4,7 @@ layout: page
 
 {{ content }}
 
-{% assign posts = paginator.posts | default: site.posts %}
+{% assign category = paginator.posts | default: site.categories %}
 
 <div class="posts-list">
   {% for category in site.categories %}
