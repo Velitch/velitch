@@ -24,8 +24,8 @@ Conservatory of Santa Ceclia, Rome
 
 ______________
 
-## Teaching qualification (to date)
-###  24 CFA
+## Teaching qualification
+###  24 CFA (to date)
 
 Conservatory of Santa Ceclia, Rome
 
@@ -40,7 +40,8 @@ Conservatory of Santa Ceclia, Rome
 
 ______________
 
-## Neuroscience and Neuroimaging Specialization (to date)
+## Neuroscience and Neuroimaging Specialization
+### Specialization (to date)
 
 Johns Hopkins University,
 
