@@ -18,5 +18,6 @@ Conservatory of Santa Ceclia, Rome
 |Computer music science|Riccardo Santoboni, Nicola Bernardini, Pasquale Citera|
 |Electroacoustic|Federico Scalas|
 |Acoustic & Maths|Marco Giordano|
+|Performance and interpretation of electroacoustic music|Giuseppe Silvi|
 |History of music|Luigino Pizzaleo, Antonietta Cerocchi|
 |Compositional analysis|Luigino Pizzaleo,Stefno Bracci|
