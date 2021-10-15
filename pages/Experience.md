@@ -7,7 +7,7 @@ subtitle:
 _______
 
 #### Composer and Sound Designer
-###### Freelancer
+###### [Freelancer](https://www.upwork.com/freelancers/~012af1b30a17910815)
 2019 - (to date)
 
 _______
