@@ -77,7 +77,7 @@ La biennale, Venezia
 |Presentation of the FAUST program - Electronic instruments and audio plug-ins design using the Faust language|Yann Orlarey|
 |Poetics and techniques of Feed-back for augmenting instruments|[Michelangelo Lupone](https://www.linkedin.com/in/michelangelo-lupone-3462b85b/?originalSubdomain=it)|
 |Creation-Experience. Innovative forms in the art of music|[Laura Bianchini](https://www.linkedin.com/in/bianchini-laura-9333a219)
-|Presentation of the IRCAM’s research program on Sound-Movement Interaction & Collective Interaction|Frédéric Bevilacqua,Michelle Agnes Magalhaes|
+|Presentation of the IRCAM’s research program on Sound-Movement Interaction & Collective Interaction|Frédéric Bevilacqua, Michelle Agnes Magalhaes|
 |Extensions of gesture. Workshop for composing and developing Live Electronics using Motion Capture techniques|Alvise Vidolin, Luca Richelli|
 |TouchDesigner - Audio reactive visual, Videomapping and Interactive LED|Andrew Quinn|
 |MMixte - a new Max package for the mixed music with Max|Maurilio Cacciatore|
