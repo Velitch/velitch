@@ -20,7 +20,7 @@ February 2021 - October 2021
 _______
 
 #### Musical Technical Support and Recording
-###### [Conservatory of Santa Cecilia, Rome](https://www.conservatoriosantacecilia.it/)
+###### [Conservatory of Santa Cecilia](https://www.conservatoriosantacecilia.it/)
 November 2018 - (to date)
 
 _______
