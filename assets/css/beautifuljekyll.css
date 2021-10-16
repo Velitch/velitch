@@ -24,7 +24,7 @@ body {
 }
 p {
   line-height: 1.5;
-  margin: 0rem 0;
+  margin: 1.875rem 0;
 }
 h1,h2,h3,h4,h5,h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
@@ -511,7 +511,7 @@ footer .footer-custom-content {
 .post-preview .post-image-short {
   margin-top: -2.1875rem;
 }
-@media (max-width: 767px) {
+@media (max-width: 1200px) {
   .post-preview .post-image {
     height: 9rem;
     width: 9rem;
