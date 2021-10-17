@@ -18,7 +18,7 @@ body {
   background-color: {{ site.page-col | default: "#FFFFFF" }};
   {% if site.page-img %}
   background-image: url({{ site.page-img | relative_url }});
-  background-attachment: inherit;
+  background-attachment: inherit; /*cambiato recentemente */
   {% endif %}
   overflow-wrap: break-word;
 }
@@ -33,7 +33,7 @@ height: 100%;
 
 }
 
-html,body{margin:0px; height:100%; }#id { background-color:#CCC; width:150px;height:100%; }
+html,body{margin:0px; height:100%; }#id { background-color:#CCC; width:1500px;height:100%; }
 
 p {
   line-height: 1.5;
