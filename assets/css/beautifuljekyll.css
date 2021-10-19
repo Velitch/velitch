@@ -704,6 +704,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
 .intro-header.big-img .img-desc {
   background: rgba(30, 30, 30, 0.6);
   position: absolute;
+  text-align: center;
   padding: 0.3125rem 0.625rem;
   font-size: 0.6875rem;
   color: #EEE;
