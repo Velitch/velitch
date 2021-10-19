@@ -2,9 +2,8 @@
 layout: post
 title: corkino UI
 subtitle: MaxMSP controller
-category: maxmsp
-cover-img: "assets/img/manual_cover.png"
-thumbnail-img: "assets/img/sketch_controller_colorato_Tavola%20disegno%201.png"
+#cover-img: "assets/img/manual_cover.png"
+#thumbnail-img: "assets/img/sketch_controller_colorato_Tavola%20disegno%201.png"
 tags: [arduino, MaxMSP, software, controller]
 comments: true
 ---
