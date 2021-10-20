@@ -49,6 +49,7 @@ ____________
 |2|Python|
 |3|HTML|
 |3|CSS|
+|2|JavaScript|
 |1|R|
 
 #### Audio Softwares
