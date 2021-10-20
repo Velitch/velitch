@@ -8,6 +8,8 @@ tags: [MaxMSP, gen, fir, filter]
 comments: true
 ---
 
+![](https://www.dsprelated.com/josimages_new/pasp/img482.png){: .mx-auto.d-block :}
+
 ![](https://github.com/Velitch/velitch/blob/main/assets/img/img_maxmsp/gen~%20fir.gif?raw=true){: .mx-auto.d-block :}
 
 ![](https://github.com/Velitch/velitch/blob/main/assets/img/img_maxmsp/dsp~%20fir.png?raw=true){: .mx-auto.d-block :}
