@@ -492,7 +492,7 @@ footer .footer-custom-content {
   font-family: 'Lora', 'Times New Roman', serif;
 }
 .post-heading .post-meta {
-  display: inline-block;
+  display: inline;
 }
 @media (max-width: 767px) {
   .post-heading .post-meta {
