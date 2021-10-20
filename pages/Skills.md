@@ -17,7 +17,7 @@ Experience levels:
 ```
 ____________
 
-|LANGUAGE|LEVEL|
+|LEVEL|LANGUAGE|
 |:---:|:---:|
 |4|English|
 |5|Italian|
