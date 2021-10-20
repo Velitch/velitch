@@ -8,6 +8,8 @@ tags: [MaxMSP, gen, fir, filter]
 comments: true
 ---
 
+**Feedforward Comb Filter** - The direct signal ``feeds forward'' around the delay line. The output is a linear combination of the direct and delayed signal. The FIR filter is one instance of a [comb filter](https://velitch.github.io/velitch/2021-10-19-tool_gen_combfilter/). 
+
 ![](https://www.dsprelated.com/josimages_new/pasp/img482.png){: .mx-auto.d-block :}
 
 ![](https://github.com/Velitch/velitch/blob/main/assets/img/img_maxmsp/gen~%20fir.gif?raw=true){: .mx-auto.d-block :}
