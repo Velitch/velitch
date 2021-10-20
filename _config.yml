@@ -19,7 +19,7 @@ navbar-links:
   About Me:
     - Education: "/pages/Education"
     - Experience: "/pages/Experience"
-
+    - Skills: "/pages/Skills"
 
 # --- Logo --- #
 
