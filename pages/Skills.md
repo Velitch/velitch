@@ -47,6 +47,7 @@ ____________
 |3|Csound|
 |2|Faust|
 |2|Python|
+|4|arduino|
 |3|HTML|
 |3|CSS|
 |2|JavaScript|
