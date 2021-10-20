@@ -12,11 +12,11 @@ comments: true
 
 ![](https://upload.wikimedia.org/wikipedia/commons/2/2a/Comb_filter_feedback.svg){: .mx-auto.d-block :}
 
-Similarly, the general structure of a feedback comb filter is described by the difference equation:
-
-![](https://github.com/Velitch/velitch/blob/main/assets/img/img_maxmsp/gen~%20iir.gif?raw=true){: .mx-auto.d-block :}
+General structure of a feedback comb filter is described by the difference equation:
 
 ![](https://wikimedia.org/api/rest_v1/media/math/render/svg/aab660dee16e819787a26d5de6162532f6da0da3){: .mx-auto.d-block :}
+
+![](https://github.com/Velitch/velitch/blob/main/assets/img/img_maxmsp/gen~%20iir.gif?raw=true){: .mx-auto.d-block :}
 
 #### genDSP
 
