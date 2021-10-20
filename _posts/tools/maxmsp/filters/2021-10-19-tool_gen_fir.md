@@ -16,6 +16,8 @@ The general structure of a feedforward comb filter is described by the differenc
 
 ![](https://wikimedia.org/api/rest_v1/media/math/render/svg/407d8d32def12f79789bde99eccb4d859fd98281){: .mx-auto.d-block :}
 
+where _K_ is the delay length (measured in samples), and α is a scaling factor applied to the delayed signal.
+
 ![](https://github.com/Velitch/velitch/blob/main/assets/img/img_maxmsp/gen~%20fir.gif?raw=true){: .mx-auto.d-block :}
 
 ![](https://github.com/Velitch/velitch/blob/main/assets/img/img_maxmsp/dsp~%20fir.png?raw=true){: .mx-auto.d-block :}
