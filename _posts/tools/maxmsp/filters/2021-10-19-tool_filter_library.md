@@ -1,6 +1,6 @@
 ---
 layout: post
-title: gen~ Filters Library
+title: Filters Library
 subtitle: MaxMSP Tools
 #cover-img: "assets/img/manual_cover.png"
 #thumbnail-img: "assets/img/sketch_controller_colorato_Tavola%20disegno%201.png"
