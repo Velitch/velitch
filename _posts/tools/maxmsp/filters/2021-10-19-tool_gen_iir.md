@@ -8,6 +8,9 @@ tags: [MaxMSP, gen, iir, fir, filter]
 comments: true
 ---
 
+Infinite Impulse Response - The direct signal “feeds back” around the delay line. The feedback comb filter is a special case of an Infinite Impulse Response (IIR), since there is feedback from the delayed output to the input.
+
+![](https://upload.wikimedia.org/wikipedia/commons/2/2a/Comb_filter_feedback.svg){: .mx-auto.d-block :}
 
 ![](https://github.com/Velitch/velitch/blob/main/assets/img/img_maxmsp/gen~%20iir.gif?raw=true){: .mx-auto.d-block :}
 
