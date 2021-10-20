@@ -475,20 +475,17 @@ footer .footer-custom-content {
 
 .post-preview .post-title {
   font-size: 1.875rem;
-  text-align: center;
   margin-top: 0;
 }
 .post-preview .post-subtitle {
   margin: 0;
   font-weight: 300;
-  text-align: center;
   margin-bottom: 0.625rem;
 }
 .post-preview .post-meta,
 .post-heading .post-meta {
   color: #808080;
   font-size: 1.125rem;
-  text-align: center;
   font-style: italic;
   margin: 0 0 0.625rem;
   font-family: 'Lora', 'Times New Roman', serif;
