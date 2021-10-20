@@ -10,7 +10,7 @@ comments: true
 
 **Finite Impulse Response** - The direct signal "feeds forward" around the delay line. The output is a linear combination of the direct and delayed signal. The FIR filter is one instance of a [comb filter](https://velitch.github.io/velitch/2021-10-19-tool_gen_combfilter/). 
 
-![](https://en.m.wikipedia.org/wiki/File:Comb_filter_feedforward.svg){: .mx-auto.d-block :}
+![](https://en.m.wikipedia.org/wiki/Comb_filter#/media/File%3AComb_filter_feedforward.svg){: .mx-auto.d-block :}
 
 The general structure of a feedforward comb filter is described by the difference equation:
 
