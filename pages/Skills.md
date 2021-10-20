@@ -7,7 +7,7 @@ subtitle:
 ```
 Experience levels:
 
-5 - Native / Bilingual Proficiency
+5 - Native/Bilingual Proficiency
 4 - Full Professional Proficiency
 3 - Professional Working Proficiency
 2 - Limited Working Proficiency
