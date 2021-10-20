@@ -9,7 +9,7 @@ subtitle:
 
 ###### 2016 - (to date)
 
-Conservatory of Santa Ceclia, Rome
+Conservatory of Santa Cecilia, Rome
 
 [www.conservatoriosantacecilia.it](https://www.conservatoriosantacecilia.it)
 
@@ -31,7 +31,7 @@ ______________
 
 ###### 2021 - (to date)
 
-Conservatory of Santa Ceclia, Rome
+Conservatory of Santa Cecilia, Rome
 
 [www.conservatoriosantacecilia.it](https://www.conservatoriosantacecilia.it)
 
@@ -63,7 +63,7 @@ Johns Hopkins University
 ______________
 
 ## Biennale Collage – CIMM 2019
- 
+
 #### International Masterclass in Computer and Multimedia
 
 ###### 2019
@@ -84,4 +84,3 @@ La biennale, Venezia
 
 
 _____________
-
