@@ -20,7 +20,7 @@ ____________
 |LANGUAGE|LEVEL|
 |:---:|:---:|
 |4|English|
-|5|Italin|
+|5|Italian|
 |5|Russian|
 |5|Bulgarian|
 
