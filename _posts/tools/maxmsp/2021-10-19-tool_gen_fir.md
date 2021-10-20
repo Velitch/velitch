@@ -1,0 +1,19 @@
+---
+layout: post
+title: gen~ IIR
+subtitle: MaxMSP Tools
+#cover-img: "assets/img/manual_cover.png"
+#thumbnail-img: "assets/img/sketch_controller_colorato_Tavola%20disegno%201.png"
+tags: [MaxMSP, gen, iir, fir, filter]
+comments: true
+---
+
+
+
+![](https://github.com/Velitch/velitch/blob/main/assets/img/img_maxmsp/gen~%20iir.gif?raw=true){: .mx-auto.d-block :}
+
+![](https://github.com/Velitch/velitch/blob/main/assets/img/img_maxmsp/dsp~%20iir.png?raw=true){: .mx-auto.d-block :}
+
+**DOWNLOADS**
+
+  - [gen~ IIR.maxpat](https://github.com/Velitch/BN_Musica_Elettronica/tree/main/IBN/COME-05-informatica-musicale-IBN/Filtri_gen/comb_iir)
