@@ -13,6 +13,7 @@ Experience levels:
 2 - Limited Working Proficiency
 1 - Elementary Proficiency
 ```
+____________
 
 #### Languages
 
@@ -23,6 +24,8 @@ Experience levels:
 |5|Russian|
 |5|Bulgarian|
 
+____________
+
 ```
 Experience levels:
 
@@ -32,6 +35,8 @@ Experience levels:
 2 - Amateur
 1 - Beginner
 ```
+
+____________
 
 #### Coding
 
@@ -63,3 +68,5 @@ Experience levels:
 |5|Adobe InDesign|
 |5|Adobe Premiere Pro|
 |4|Adobe Photoshop|
+
+____________
