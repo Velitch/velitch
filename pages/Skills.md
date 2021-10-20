@@ -52,15 +52,16 @@ ____________
 |2|JavaScript|
 |1|R|
 
-#### Audio Softwares
+#### Audio/Video Softwares
 
 |LEVEL|NAME|
 |:---:|:---:|
 |5|MaxMSP|
 |5|Ableton Live|
+|5|other DAWs|
 |5|Audacity|
 |4|LilyPond|
-|5|other DAWs|
+|2|TouchDesigner|
 
 #### Adobe Softwares
 
