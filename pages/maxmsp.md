@@ -15,4 +15,4 @@ subtitle: Tools
 
 ### Plugins
 
-- [**corkino**](https://velitch.github.io/velitch/2021-10-13-corkino/)
+- [**corkino**](https://velitch.github.io/velitch/2021-10-13-ui_corkino/)
