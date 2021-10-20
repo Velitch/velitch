@@ -8,10 +8,9 @@ tags: [MaxMSP, gen, onepole, filter]
 comments: true
 ---
 
+![](https://github.com/Velitch/velitch/blob/main/assets/img/img_maxmsp/gen~%20onepole.gif?raw=true){: .mx-auto.d-block :}
 
-
-
-
+![](https://github.com/Velitch/velitch/blob/main/assets/img/img_maxmsp/dsp~%20onepole.png?raw=true){: .mx-auto.d-block :}
 
 
 **DOWNLOADS**
