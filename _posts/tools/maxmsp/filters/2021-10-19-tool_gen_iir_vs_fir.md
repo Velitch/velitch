@@ -8,7 +8,7 @@ tags: [MaxMSP, gen, iir, fir, filter]
 comments: true
 ---
 
-This patch shows the comparison between IIR and FIR filters.
+This patch shows the comparison between [Infinite Impulse Response](https://velitch.github.io/velitch/2021-10-19-tool_gen_iir/) and [Finite Impulse Response](https://velitch.github.io/velitch/2021-10-19-tool_gen_fir/) filters.
 
 ![](https://github.com/Velitch/velitch/blob/main/assets/img/img_maxmsp/gen~%20iir%20vs%20fir.gif?raw=true){: .mx-auto.d-block :}
 
