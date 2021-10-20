@@ -18,10 +18,10 @@ Experience levels:
 
 |LANGUAGE|LEVEL|
 |:---:|:---:|
-|English|4|
-|Italin|5|
-|Russian|5|
-|Bulgarian|5|
+|4|English|
+|5|Italin|
+|5|Russian|
+|5|Bulgarian|
 
 ```
 Experience levels:
@@ -35,31 +35,31 @@ Experience levels:
 
 #### Coding
 
-|NAME|LEVEL|
+|LEVEL|NAME|
 |:---:|:---:|
-|Csound|Intermediate|
-|Faust|Amateur|
-|Python|Amateur|
-|HTML|Intermediate|
-|CSS|Intermediate|
-|R|Beginner|
+|3|Csound|
+|2|Faust|
+|2|Python|
+|3|HTML|
+|3|CSS|
+|1|R|
 
 #### Audio Softwares
 
-|NAME|LEVEL|
+|LEVEL|NAME|
 |:---:|:---:|
-|MaxMSP|Professional|
-|Ableton Live|Professional|
-|Audacity|Professional|
-|LilyPond|Experienced|
-|other DAWs|Experienced|
+|5|MaxMSP|
+|5|Ableton Live|
+|5|Audacity|
+|4|LilyPond|
+|5|other DAWs|
 
 #### Adobe Softwares
 
-|NAME|LEVEL|
+|LEVEL|NAME|
 |:---:|:---:|
-|Adobe Audition|Professional|
-|Adobe Illustrator|Professional|
-|Adobe InDesign|Professional|
-|Adobe Premiere Pro|Professional|
-|Adobe Photoshop|Experienced|
+|5|Adobe Audition|
+|5|Adobe Illustrator|
+|5|Adobe InDesign|
+|5|Adobe Premiere Pro|
+|4|Adobe Photoshop|
