@@ -4,6 +4,8 @@ title: Skills
 subtitle:
 ---
 
+## Languages
+
 ```
 Experience levels:
 
@@ -15,8 +17,6 @@ Experience levels:
 ```
 ____________
 
-#### Languages
-
 |LANGUAGE|LEVEL|
 |:---:|:---:|
 |4|English|
@@ -25,6 +25,8 @@ ____________
 |5|Bulgarian|
 
 ____________
+
+## Coding and Softwares
 
 ```
 Experience levels:
