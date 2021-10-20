@@ -12,7 +12,7 @@ Biquad filter is a second order recursive linear filter, containing two poles an
 
 ![](https://wikimedia.org/api/rest_v1/media/math/render/svg/81dadce574579cea71332be128dc15811fb738a7){: .mx-auto.d-block :}
 
-![](https://github.com/Velitch/velitch/blob/main/assets/img/img_maxmsp/gen~%20biquad.png?raw=true){: .mx-auto.d-block :}
+![](https://github.com/Velitch/velitch/blob/main/assets/img/img_maxmsp/gen~%20biquad.gif?raw=true){: .mx-auto.d-block :}
 
 ![](https://github.com/Velitch/velitch/blob/main/assets/img/img_maxmsp/dsp~%20biquad.png?raw=true){: .mx-auto.d-block :}
 
