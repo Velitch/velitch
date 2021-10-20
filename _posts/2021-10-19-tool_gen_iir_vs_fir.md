@@ -8,6 +8,7 @@ tags: [MaxMSP, gen, iir, fir, filter]
 comments: true
 ---
 
+Comparison between IIR and FIR filters. 
 
 ![](https://github.com/Velitch/velitch/blob/main/assets/img/img_maxmsp/gen~%20iir%20vs%20fir.gif?raw=true){: .mx-auto.d-block :}
 
