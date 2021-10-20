@@ -8,9 +8,9 @@ tags: [MaxMSP, gen, combfilter, filter]
 comments: true
 ---
 
-![](https://github.com/Velitch/velitch/blob/main/assets/img/img_maxmsp/gen~%20svf.gif?raw=true){: .mx-auto.d-block :}
+![](https://github.com/Velitch/velitch/blob/main/assets/img/img_maxmsp/gen~%20combfilter.png?raw=true){: .mx-auto.d-block :}
 
-![](https://github.com/Velitch/velitch/blob/main/assets/img/img_maxmsp/dsp~%20svf.png?raw=true){: .mx-auto.d-block :}
+![](https://github.com/Velitch/velitch/blob/main/assets/img/img_maxmsp/dsp~%20combfilter.png?raw=true){: .mx-auto.d-block :}
 
 **DOWNLOADS**
 
