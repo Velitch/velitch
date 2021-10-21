@@ -37,4 +37,4 @@ ________
 
 **DOWNLOADS**
 
-  - [gen~ svf.maxpat](https://github.com/Velitch/BN_Musica_Elettronica/tree/main/IBN/COME-05-informatica-musicale-IBN/Filtri_gen/svf)
+  - [gen~ schroeder JCRev.maxpat](https://github.com/Velitch/BN_Musica_Elettronica/tree/main/IBN/COME-05-informatica-musicale-IBN/Filtri_gen/schroeder JCRev)
