@@ -22,9 +22,9 @@ ______
 
 
 **DOWNLOADS**
+ download="proposed_file_name">gen~ freeverb.maxpat
 
-
-- <a href="https://github.com/Velitch/velitch/blob/main/assets/maxmsp_tools/reverb/freeverb.zip">Download ZIP download="proposed_file_name">gen~ freeverb.maxpat<a/>
+- <a href="https://github.com/Velitch/velitch/blob/main/assets/maxmsp_tools/reverb/freeverb.zip">Download ZIP<a/>
 
 
   - [gen~ freeverb.maxpat](https://github.com/Velitch/BN_Musica_Elettronica/tree/main/IBN/COME-05-informatica-musicale-IBN/maxmsp_tools/reverb/freeverb)
