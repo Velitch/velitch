@@ -18,7 +18,7 @@ comments: true
 
 MM denotes the mixing matrix:
 
-![](http://www.dsprelated.com/josimages_new/pasp/img709.png){: .mx-auto.d-block :}
+<img align="right" src="http://www.dsprelated.com/josimages_new/pasp/img709.png">{: .mx-auto.d-block :}
 
 which can be efficiently implemented using four adders and two negations:
 
