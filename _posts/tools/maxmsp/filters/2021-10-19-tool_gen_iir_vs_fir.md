@@ -16,4 +16,4 @@ This patch shows the comparison between [Infinite Impulse Response](https://veli
 
 **DOWNLOADS**
 
-  - [gen~ IIR vs FIR.maxpat](https://github.com/Velitch/BN_Musica_Elettronica/tree/main/IBN/COME-05-informatica-musicale-IBN/Filtri_gen/comb_fir_irr)
+  - [gen~ IIR vs FIR.maxpat](https://github.com/Velitch/BN_Musica_Elettronica/tree/main/IBN/COME-05-informatica-musicale-IBN/maxmsp_tools/filters/comb_iir_vs_fir)

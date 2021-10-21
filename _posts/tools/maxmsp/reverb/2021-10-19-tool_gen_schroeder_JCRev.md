@@ -37,4 +37,4 @@ ________
 
 **DOWNLOADS**
 
-  - [gen~ schroeder JCRev.maxpat](https://github.com/Velitch/BN_Musica_Elettronica/schroeder JCRev)
+  - [gen~ schroeder JCRev.maxpat](https://github.com/Velitch/BN_Musica_Elettronica/tree/main/IBN/COME-05-informatica-musicale-IBN/maxmsp_tools/reverb/schroeder_JCRev)

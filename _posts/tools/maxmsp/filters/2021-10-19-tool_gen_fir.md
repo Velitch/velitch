@@ -8,7 +8,7 @@ tags: [MaxMSP, gen, fir, filter]
 comments: true
 ---
 
-**Finite Impulse Response** - The direct signal "feeds forward" around the delay line. The output is a linear combination of the direct and delayed signal. The FIR filter is one instance of a [comb filter](https://velitch.github.io/velitch/2021-10-19-tool_gen_combfilter/). 
+**Finite Impulse Response** - The direct signal "feeds forward" around the delay line. The output is a linear combination of the direct and delayed signal. The FIR filter is one instance of a [comb filter](https://velitch.github.io/velitch/2021-10-19-tool_gen_combfilter/).
 
 ![](https://upload.wikimedia.org/wikipedia/commons/1/13/Comb_filter_feedforward.svg){: .mx-auto.d-block :}
 
@@ -25,4 +25,4 @@ where _K_ is the delay length (measured in samples), and α is a scaling factor 
 
 **DOWNLOADS**
 
-  - [gen~ FIR.maxpat](https://github.com/Velitch/BN_Musica_Elettronica/tree/main/IBN/COME-05-informatica-musicale-IBN/Filtri_gen/comb_iir)
+  - [gen~ FIR.maxpat](https://github.com/Velitch/BN_Musica_Elettronica/tree/main/IBN/COME-05-informatica-musicale-IBN/maxmsp_tools/filters/comb_fir)

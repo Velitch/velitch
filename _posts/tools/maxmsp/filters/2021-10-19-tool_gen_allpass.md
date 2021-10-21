@@ -20,4 +20,4 @@ It is well known that the series combination of a feedforward and feedback [comb
 
 **DOWNLOADS**
 
-  - [gen~ allpass.maxpat](https://github.com/Velitch/BN_Musica_Elettronica/tree/main/IBN/COME-05-informatica-musicale-IBN/Filtri_gen/allpass)
+  - [gen~ allpass.maxpat](https://github.com/Velitch/BN_Musica_Elettronica/tree/main/IBN/COME-05-informatica-musicale-IBN/maxmsp_tools/filters/allpass)

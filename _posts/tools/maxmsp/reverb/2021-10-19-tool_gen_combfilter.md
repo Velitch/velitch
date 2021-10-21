@@ -17,4 +17,4 @@ Comb filters exist in two forms, [Infinite Impulse Response](https://velitch.git
 
 **DOWNLOADS**
 
-  - [gen~ combfilter.maxpat](https://github.com/Velitch/BN_Musica_Elettronica/tree/main/IBN/COME-05-informatica-musicale-IBN/Filtri_gen/Combfilter)
+  - [gen~ combfilter.maxpat](https://github.com/Velitch/BN_Musica_Elettronica/tree/main/IBN/COME-05-informatica-musicale-IBN/maxmsp_tools/reverb/combfilter)

@@ -28,4 +28,4 @@ General structure of a feedback comb filter is described by the difference equat
 
 **DOWNLOADS**
 
-  - [gen~ IIR.maxpat](https://github.com/Velitch/BN_Musica_Elettronica/tree/main/IBN/COME-05-informatica-musicale-IBN/Filtri_gen/comb_iir)
+  - [gen~ IIR.maxpat](https://github.com/Velitch/BN_Musica_Elettronica/tree/main/IBN/COME-05-informatica-musicale-IBN/maxmsp_tools/filters/comb_iir)

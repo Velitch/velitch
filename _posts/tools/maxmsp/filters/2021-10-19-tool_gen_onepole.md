@@ -21,4 +21,4 @@ comments: true
 
 **DOWNLOADS**
 
-  - [gen~ onepole.maxpat](https://github.com/Velitch/BN_Musica_Elettronica/tree/main/IBN/COME-05-informatica-musicale-IBN/Filtri_gen/onepole)
+  - [gen~ onepole.maxpat](https://github.com/Velitch/BN_Musica_Elettronica/tree/main/IBN/COME-05-informatica-musicale-IBN/maxmsp_tools/filters/onepole)
