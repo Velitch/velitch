@@ -23,4 +23,8 @@ ______
 
 **DOWNLOADS**
 
+
+<a href="https://github.com/Velitch/BN_Musica_Elettronica/tree/main/IBN/COME-05-informatica-musicale-IBN/maxmsp_tools/reverb/freeverb" download="filename">- gen~ freeverb.maxpat</a>
+
+
   - [gen~ freeverb.maxpat](https://github.com/Velitch/BN_Musica_Elettronica/tree/main/IBN/COME-05-informatica-musicale-IBN/maxmsp_tools/reverb/freeverb)
