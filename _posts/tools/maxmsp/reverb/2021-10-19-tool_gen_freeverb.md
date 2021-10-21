@@ -8,9 +8,7 @@ tags: [MaxMSP, gen, svf, filter]
 comments: true
 ---
 
-**Freeverb** -
-
-A more recently developed Schroeder reverberator is "Freeverb" -- a public domain C++ program by "Jezar at Dreampoint" used extensively in the free-software world. It uses four Schroeder [allpasses](https://velitch.github.io/velitch/2021-10-19-tool_gen_allpass/) in series and eight parallel Schroeder-Moorer filtered-feedback [comb filters](https://velitch.github.io/velitch/2021-10-19-tool_gen_combfilter/) for each audio channel, and is said to be especially well tuned.
+**Freeverb** - A more recently developed Schroeder reverberator is "Freeverb" -- a public domain C++ program by "Jezar at Dreampoint" used extensively in the free-software world. It uses four Schroeder [allpasses](https://velitch.github.io/velitch/2021-10-19-tool_gen_allpass/) in series and eight parallel Schroeder-Moorer filtered-feedback [comb filters](https://velitch.github.io/velitch/2021-10-19-tool_gen_combfilter/) for each audio channel, and is said to be especially well tuned.
 
 ![](http://www.dsprelated.com/josimages_new/pasp/img724.png){: .mx-auto.d-block :}
 
