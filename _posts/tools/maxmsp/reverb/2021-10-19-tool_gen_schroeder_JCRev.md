@@ -10,8 +10,8 @@ comments: true
 
 **Schroeder JCRev** - developed by Prof. John Chowning, consists of the following elements:
 
-- A series connection of several allpass filters
-- A parallel bank of feedback comb filters
+- A series connection of several [allpass filters](https://velitch.github.io/velitch/2021-10-19-tool_gen_allpass/)
+- A parallel bank of [feedback comb filters](https://velitch.github.io/velitch/2021-10-19-tool_gen_combfilter/)
 - A mixing matrix
 
 ![Schroeder JCRev (drawn from a 1972 MUS10 software listing, where MUS10 was an acoustic compiler language descended from Music V)](http://www.dsprelated.com/josimages_new/pasp/img706.png){: .mx-auto.d-block :}
