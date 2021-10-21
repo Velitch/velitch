@@ -16,13 +16,17 @@ comments: true
 
 ![Schroeder JCRev (drawn from a 1972 MUS10 software listing, where MUS10 was an acoustic compiler language descended from Music V)](http://www.dsprelated.com/josimages_new/pasp/img706.png){: .mx-auto.d-block :}
 
-MM denotes the mixing matrix:
+________
 
 <img align="right" src="http://www.dsprelated.com/josimages_new/pasp/img709.png">{: .mx-auto.d-block :}
 
+MM denotes the mixing matrix
+
+<img align="right" src="http://www.dsprelated.com/josimages_new/pasp/img710.png">{: .mx-auto.d-block :}
+
 which can be efficiently implemented using four adders and two negations:
 
-![](http://www.dsprelated.com/josimages_new/pasp/img710.png){: .mx-auto.d-block :}
+________
 
 ![](https://github.com/Velitch/velitch/blob/main/assets/img/img_maxmsp/gen~%20svf.gif?raw=true){: .mx-auto.d-block :}
 
