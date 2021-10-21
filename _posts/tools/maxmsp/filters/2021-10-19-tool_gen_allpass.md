@@ -8,7 +8,7 @@ tags: [MaxMSP, gen, allpass, filter]
 comments: true
 ---
 
-**Allpass** -
+**Allpass** - is a signal processing filter that passes all frequencies equally in gain, but changes the phase relationship among various frequencies.
 
 ![](https://github.com/Velitch/velitch/blob/main/assets/img/img_maxmsp/gen~%20allpass.gif?raw=true){: .mx-auto.d-block :}
 
