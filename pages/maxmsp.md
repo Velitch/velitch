@@ -19,7 +19,7 @@ subtitle: Tools
 
 - [**gen~ combfilter** (gen, codebox, genexpr)](https://velitch.github.io/velitch/2021-10-19-tool_gen_combfilter/)
 - [**gen~ freeverb** (gen, codebox)](https://velitch.github.io/velitch/2021-10-19-tool_gen_freeverb/)
-- [**gen~ schroeder** (gen)](https://velitch.github.io/velitch/2021-10-19-tool_gen_schroeder/)
+- [**gen~ schroeder JCRev** (gen)](https://velitch.github.io/velitch/2021-10-19-tool_gen_schroeder/)
 
 
 ### Effects
