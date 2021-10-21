@@ -16,4 +16,4 @@ comments: true
 
 **DOWNLOADS**
 
-  - [gen~ allpas.maxpat](https://github.com/Velitch/BN_Musica_Elettronica/tree/main/IBN/COME-05-informatica-musicale-IBN/Filtri_gen/allpass)
+  - [gen~ allpass.maxpat](https://github.com/Velitch/BN_Musica_Elettronica/tree/main/IBN/COME-05-informatica-musicale-IBN/Filtri_gen/allpass)
