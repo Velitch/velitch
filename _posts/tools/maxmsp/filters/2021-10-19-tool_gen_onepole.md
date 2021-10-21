@@ -12,7 +12,7 @@ The filter has a pole at _Z = -a1_ , in the _Z_ plane (and a zero at _Z_ = 0). N
 
 ![](https://ccrma.stanford.edu/~jos/fp/img1357_2x.png){: .mx-auto.d-block :}
 
-![](https://ccrma.stanford.edu/~jos/fp/img54_2x.png){: .mx-auto.d-block :}
+![](https://ccrma.stanford.edu/~jos/fp/img53_2x.png){: .mx-auto.d-block :}
 
 ![](https://github.com/Velitch/velitch/blob/main/assets/img/img_maxmsp/gen~%20onepole.gif?raw=true){: .mx-auto.d-block :}
 
