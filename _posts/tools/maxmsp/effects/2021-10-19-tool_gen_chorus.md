@@ -1,23 +1,22 @@
 ---
 layout: post
-title: gen~ svf
+title: gen~ chorus
 subtitle: MaxMSP Tools
 #cover-img: "assets/img/manual_cover.png"
 #thumbnail-img: "assets/img/sketch_controller_colorato_Tavola%20disegno%201.png"
-tags: [MaxMSP, gen, svf, filter]
+tags: [MaxMSP, gen, chorus, effect]
 comments: true
 ---
 
-**Chorus** - (or ``choralizer'') is any signal processor which makes one sound source (such as a voice) sound like many such sources singing (or playing) in unison. 
+**Chorus** - (or "choralizer") is any signal processor which makes one sound source (such as a voice) sound like many such sources singing (or playing) in unison. 
 Since performance in unison is never exact, chorus effects simulate this by making independently modified copies of the input signal. 
 Modifications may include:
 
-(1)
-delay,
-(2)
-frequency shift, and
-(3)
-amplitude modulation.
+
+- (1) delay,
+- (2) frequency shift, and
+- (3) amplitude modulation.
+
 
 The typical chorus effect today is based on several time-varying delay lines which accomplishes (1) and (2) in a qualitative fashion. 
 Reverb generally provides (3) incidentally. 
