@@ -25,6 +25,10 @@ subtitle: Tools
 - [**gen~ flanger** (gen, codebox)]()
 - [**gen~ doppler** (gen, codebox)]()
 
+### Synthesis
+
+- [**gen~ karplus strong** (gen, codebox)]()
+
 ### Plugins
 
 - [**corkino**](https://velitch.github.io/velitch/2021-10-13-ui_corkino/)
