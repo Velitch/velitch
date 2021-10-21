@@ -14,7 +14,7 @@ A more recently developed Schroeder reverberator is "Freeverb" -- a public domai
 
 ![](http://www.dsprelated.com/josimages_new/pasp/img724.png){: .mx-auto.d-block :}
 
-The figure shows the default signal-processing settings for the Freeverb left stereo channel. Processing for the right channel is obtained by adding an integer to each of the twelve delay-line lengths.
+The figure shows the default signal-processing settings for the Freeverb left stereo channel. Processing for the right channel is obtained by adding an integer to each of the twelve delay-line lengths. This integer is called stereospread, and its default value is 23.
 
 ![](https://github.com/Velitch/velitch/blob/main/assets/img/img_maxmsp/dsp~%20svf.png?raw=true){: .mx-auto.d-block :}
 
