@@ -8,7 +8,24 @@ tags: [MaxMSP, gen, svf, filter]
 comments: true
 ---
 
-**State Variable Filter** - this filter implements some [onepole filters](https://velitch.github.io/velitch/2021-10-19-tool_gen_onepole/) correlated between them that produce lowpass, highpass, bandpass, and notch output simultaneously.
+**Chorus** - (or ``choralizer'') is any signal processor which makes one sound source (such as a voice) sound like many such sources singing (or playing) in unison. 
+Since performance in unison is never exact, chorus effects simulate this by making independently modified copies of the input signal. 
+Modifications may include:
+
+(1)
+delay,
+(2)
+frequency shift, and
+(3)
+amplitude modulation.
+
+The typical chorus effect today is based on several time-varying delay lines which accomplishes (1) and (2) in a qualitative fashion. 
+Reverb generally provides (3) incidentally. 
+
+An efficient chorus-effect implementation may be based on multiple interpolating taps working on a single delay line. 
+The taps oscillate back and forth about the positions they would have while implementing a fixed tapped delay line. 
+The tap modulation frequency may be set to achieve a prescribed frequency-shift via the Doppler effect. 
+Each tap should be individually spatialized; in the case of stereo, each tap can be panned to its own stereo position.
 
 ![](https://github.com/Velitch/velitch/blob/main/assets/img/img_maxmsp/gen~%20svf.gif?raw=true){: .mx-auto.d-block :}
 
@@ -16,4 +33,4 @@ comments: true
 
 **DOWNLOADS**
 
-  - [gen~ svf.maxpat](https://github.com/Velitch/BN_Musica_Elettronica/tree/main/IBN/COME-05-informatica-musicale-IBN/Filtri_gen/svf)
+  - [gen~ chorus.maxpat](https://github.com/Velitch/BN_Musica_Elettronica/tree/main/IBN/COME-05-informatica-musicale-IBN/Filtri_gen/svf)
