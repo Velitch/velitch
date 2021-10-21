@@ -18,4 +18,4 @@ comments: true
 
 **DOWNLOADS**
 
-  - [gen~ biquad.maxpat](https://github.com/Velitch/BN_Musica_Elettronica/tree/main/IBN/COME-05-informatica-musicale-IBN/maxmsp_tools/filters/biquad)
+- <a href="https://velitch.github.io/velitch/assets/maxmsp_tools/reverb/biquad.zip">**gen~ biquad.maxpat** (5KB)<a/>

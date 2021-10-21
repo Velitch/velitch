@@ -22,6 +22,5 @@ ______
 
 
 **DOWNLOADS**
- download="proposed_file_name">gen~ freeverb.maxpat
 
-- <a href="https://velitch.github.io/velitch/assets/maxmsp_tools/reverb/freeverb.zip">**gen~ freeverb.maxpat** *(6KB)<a/>
+- <a href="https://velitch.github.io/velitch/assets/maxmsp_tools/reverb/freeverb.zip">**gen~ freeverb.maxpat** (6KB)<a/>
