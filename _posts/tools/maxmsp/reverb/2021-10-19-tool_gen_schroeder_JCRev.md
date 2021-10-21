@@ -18,13 +18,17 @@ comments: true
 
 ________
 
+
 <img align="right" src="http://www.dsprelated.com/josimages_new/pasp/img709.png">{: .mx-auto.d-block :}
 
 MM denotes the mixing matrix
 
+
 <img align="right" src="http://www.dsprelated.com/josimages_new/pasp/img710.png">{: .mx-auto.d-block :}
 
+
 which can be efficiently implemented using four adders and two negations:
+
 
 ________
 
