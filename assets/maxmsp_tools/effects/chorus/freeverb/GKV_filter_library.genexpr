@@ -25,8 +25,6 @@
 //   4.3 - fbcomb_lp_g (Xn, ms, gain, freqcut)
 //   4.4 - fbcomb_lp_T60 (Xn, ms, T60, freqcut)
 //   4.5 - fbcomb_lp_samp (Xn, samp, gain, freqcut)
-// 5. DELAY LINE
-//  5.1 delay_line (Xn, samp)
 //=====================================
 //=====================================
 //  1.
@@ -338,46 +336,4 @@ history_1 = history_1_2;
 delay_1.write(feedback);
 
     return Yn;
-}
-
-//=====================================
-//  5.1 chorus (Xn, samp, gain, freqcut, fq)
-//=====================================
-
-chorus (Xn, ratio)
-
-{
-Delay delay_1(4800);
-phasor_2 = phasor(ratio, 0);
-add_3 = phasor_2 + 0.;
-mod_4 = add_3 % 1.;
-sub_5 = mod_4 - 0.5;
-mul_6 = sub_5 * pi;
-cos_7 = cos(mul_6);
-
-
-mul_8 = mod_4 * samplerate;
-mul_9 = mul_8 * 0.1;
-add_10 = phasor_2 + 0.5;
-mod_11 = add_10 % 1.;
-mul_12 = mod_11 * samplerate;
-mul_13 = mul_12 * 0.1;
-tap_14 = delay_1.read(mul_9);
-tap_15 = delay_1.read(mul_13);
-mul_16 = tap_14 * cos_7;
-sub_17 = mod_11 - 0.5;
-mul_18 = sub_17 * pi;
-cos_19 = cos(mul_18);
-mul_20 = tap_15 * cos_19;
-
-
-Yn = mul_20 + mul_16;
-
-history_1_2 = fixdenorm(Yn);
-history_1 = history_1_2;
-delay_1.write(Xn);
-
-    return Yn;
-
-
 }

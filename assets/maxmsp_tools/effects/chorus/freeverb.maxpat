@@ -40,136 +40,13 @@
 		"assistshowspatchername" : 0,
 		"boxes" : [ 			{
 				"box" : 				{
-					"id" : "obj-18",
-					"maxclass" : "newobj",
-					"numinlets" : 1,
-					"numoutlets" : 2,
-					"outlettype" : [ "signal", "signal" ],
-					"patching_rect" : [ 928.0, 176.411383500000056, 83.0, 23.0 ],
-					"text" : "gen~ freeverb"
-				}
-
-			}
-, 			{
-				"box" : 				{
-					"id" : "obj-17",
-					"maxclass" : "newobj",
-					"numinlets" : 1,
-					"numoutlets" : 2,
-					"outlettype" : [ "signal", "signal" ],
-					"patching_rect" : [ 694.0, 176.411383500000056, 83.0, 23.0 ],
-					"text" : "gen~ freeverb"
-				}
-
-			}
-, 			{
-				"box" : 				{
-					"basictuning" : 440,
-					"data" : 					{
-						"clips" : [ 							{
-								"absolutepath" : "FemVoice.aif",
-								"filename" : "FemVoice.aif",
-								"filekind" : "audiofile",
-								"id" : "u135000478",
-								"selection" : [ 0.0, 1.0 ],
-								"loop" : 1,
-								"content_state" : 								{
-									"loop" : 1
-								}
-
-							}
- ]
-					}
-,
-					"followglobaltempo" : 0,
-					"formantcorrection" : 0,
-					"id" : "obj-8",
-					"maxclass" : "playlist~",
-					"mode" : "basic",
-					"numinlets" : 1,
-					"numoutlets" : 5,
-					"originallength" : [ 0.0, "ticks" ],
-					"originaltempo" : 120.0,
-					"outlettype" : [ "signal", "signal", "signal", "", "dictionary" ],
-					"parameter_enable" : 0,
-					"patching_rect" : [ 470.0, 22.0, 150.0, 30.0 ],
-					"pitchcorrection" : 0,
-					"quality" : "basic",
-					"timestretch" : [ 0 ]
-				}
-
-			}
-, 			{
-				"box" : 				{
-					"id" : "obj-10",
-					"maxclass" : "newobj",
-					"numinlets" : 2,
-					"numoutlets" : 1,
-					"outlettype" : [ "signal" ],
-					"patching_rect" : [ 635.0, 279.0, 29.5, 23.0 ],
-					"text" : "/~"
-				}
-
-			}
-, 			{
-				"box" : 				{
-					"id" : "obj-11",
-					"maxclass" : "comment",
-					"numinlets" : 1,
-					"numoutlets" : 0,
-					"patching_rect" : [ 683.0, 40.0, 289.0, 21.0 ],
-					"text" : "(Xn, samp, gain, freqcut, rmgain, rmfreq)"
-				}
-
-			}
-, 			{
-				"box" : 				{
-					"format" : 6,
-					"id" : "obj-26",
-					"maxclass" : "flonum",
-					"numinlets" : 1,
-					"numoutlets" : 2,
-					"outlettype" : [ "", "bang" ],
-					"parameter_enable" : 0,
-					"patching_rect" : [ 928.0, 105.0, 50.0, 23.0 ]
-				}
-
-			}
-, 			{
-				"box" : 				{
-					"format" : 6,
-					"id" : "obj-24",
-					"maxclass" : "flonum",
-					"numinlets" : 1,
-					"numoutlets" : 2,
-					"outlettype" : [ "", "bang" ],
-					"parameter_enable" : 0,
-					"patching_rect" : [ 850.0, 105.0, 50.0, 23.0 ]
-				}
-
-			}
-, 			{
-				"box" : 				{
-					"format" : 6,
-					"id" : "obj-20",
-					"maxclass" : "flonum",
-					"numinlets" : 1,
-					"numoutlets" : 2,
-					"outlettype" : [ "", "bang" ],
-					"parameter_enable" : 0,
-					"patching_rect" : [ 772.0, 105.0, 50.0, 23.0 ]
-				}
-
-			}
-, 			{
-				"box" : 				{
 					"color" : [ 0.384313725490196, 0.682352941176471, 0.698039215686274, 1.0 ],
 					"id" : "obj-12",
 					"maxclass" : "newobj",
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
-					"patching_rect" : [ 1088.0, 524.411383500000056, 73.0, 23.0 ],
+					"patching_rect" : [ 1088.0, 468.411383500000056, 73.0, 23.0 ],
 					"text" : "receive~ sig"
 				}
 
@@ -182,7 +59,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
-					"patching_rect" : [ 868.0, 524.411383500000056, 86.0, 23.0 ],
+					"patching_rect" : [ 868.0, 468.411383500000056, 86.0, 23.0 ],
 					"text" : "receive~ Right"
 				}
 
@@ -195,7 +72,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
-					"patching_rect" : [ 694.0, 524.411383500000056, 78.0, 23.0 ],
+					"patching_rect" : [ 694.0, 468.411383500000056, 78.0, 23.0 ],
 					"text" : "receive~ Left"
 				}
 
@@ -210,7 +87,7 @@
 					"orientation" : 1,
 					"outlettype" : [ "signal", "signal", "", "float", "list" ],
 					"parameter_enable" : 1,
-					"patching_rect" : [ 1088.0, 560.411383500000056, 193.0, 47.0 ],
+					"patching_rect" : [ 1088.0, 504.411383500000056, 193.0, 47.0 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_longname" : "DIRECT",
@@ -237,7 +114,7 @@
 					"orientation" : 1,
 					"outlettype" : [ "signal", "signal", "", "float", "list" ],
 					"parameter_enable" : 1,
-					"patching_rect" : [ 694.0, 560.411383500000056, 193.0, 47.0 ],
+					"patching_rect" : [ 694.0, 504.411383500000056, 193.0, 47.0 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_longname" : "REVERB",
@@ -262,7 +139,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
-					"patching_rect" : [ 856.0, 275.411383500000056, 86.0, 23.0 ],
+					"patching_rect" : [ 856.0, 219.411383500000056, 86.0, 23.0 ],
 					"text" : "receive~ Right"
 				}
 
@@ -275,7 +152,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
-					"patching_rect" : [ 772.0, 275.411383500000056, 78.0, 23.0 ],
+					"patching_rect" : [ 772.0, 219.411383500000056, 78.0, 23.0 ],
 					"text" : "receive~ Left"
 				}
 
@@ -287,7 +164,7 @@
 					"maxclass" : "newobj",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 928.0, 217.411383500000056, 73.0, 23.0 ],
+					"patching_rect" : [ 772.0, 179.411383500000056, 73.0, 23.0 ],
 					"text" : "send~ Right"
 				}
 
@@ -299,7 +176,7 @@
 					"maxclass" : "newobj",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 694.0, 217.411383500000056, 65.0, 23.0 ],
+					"patching_rect" : [ 694.0, 179.411383500000056, 65.0, 23.0 ],
 					"text" : "send~ Left"
 				}
 
@@ -312,7 +189,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
-					"patching_rect" : [ 694.0, 275.411383500000056, 73.0, 23.0 ],
+					"patching_rect" : [ 694.0, 219.411383500000056, 73.0, 23.0 ],
 					"text" : "receive~ sig"
 				}
 
@@ -325,7 +202,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
-					"patching_rect" : [ 694.0, 76.411383500000056, 73.0, 23.0 ],
+					"patching_rect" : [ 694.0, 109.411383500000056, 73.0, 23.0 ],
 					"text" : "receive~ sig"
 				}
 
@@ -337,7 +214,7 @@
 					"maxclass" : "newobj",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 470.0, 119.411383500000056, 60.0, 23.0 ],
+					"patching_rect" : [ 977.0, 150.411383500000056, 60.0, 23.0 ],
 					"text" : "send~ sig"
 				}
 
@@ -350,7 +227,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 694.0, 317.411383500000056, 44.0, 21.0 ],
+					"patching_rect" : [ 694.0, 261.411383500000056, 44.0, 21.0 ],
 					"text" : "Left",
 					"textcolor" : [ 0.925490196078431, 0.925490196078431, 0.925490196078431, 0.4 ],
 					"textjustification" : 1
@@ -365,7 +242,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 1066.0, 317.411383500000056, 55.0, 26.0 ],
+					"patching_rect" : [ 1066.0, 261.411383500000056, 55.0, 26.0 ],
 					"text" : "Direct",
 					"textcolor" : [ 1.0, 0.733333333333333, 0.086274509803922, 1.0 ],
 					"textjustification" : 1
@@ -380,7 +257,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 1066.0, 373.411383500000056, 55.0, 26.0 ],
+					"patching_rect" : [ 1066.0, 317.411383500000056, 55.0, 26.0 ],
 					"text" : "Right",
 					"textcolor" : [ 0.384313725490196, 0.682352941176471, 0.698039215686274, 1.0 ],
 					"textjustification" : 1
@@ -395,7 +272,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 1066.0, 345.411383500000056, 55.0, 26.0 ],
+					"patching_rect" : [ 1066.0, 289.411383500000056, 55.0, 26.0 ],
 					"text" : "Left",
 					"textcolor" : [ 0.949019607843137, 0.019607843137255, 0.392156862745098, 1.0 ],
 					"textjustification" : 1
@@ -412,7 +289,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 694.0, 317.411383500000056, 433.0, 191.0 ]
+					"patching_rect" : [ 694.0, 261.411383500000056, 433.0, 191.0 ]
 				}
 
 			}
@@ -426,7 +303,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 694.0, 317.411383500000056, 433.0, 191.0 ]
+					"patching_rect" : [ 694.0, 261.411383500000056, 433.0, 191.0 ]
 				}
 
 			}
@@ -439,7 +316,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "int" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 668.0, 677.411383500000056, 24.0, 24.0 ]
+					"patching_rect" : [ 668.0, 621.411383500000056, 24.0, 24.0 ]
 				}
 
 			}
@@ -449,7 +326,7 @@
 					"maxclass" : "newobj",
 					"numinlets" : 2,
 					"numoutlets" : 0,
-					"patching_rect" : [ 694.0, 677.411383500000056, 48.25, 23.0 ],
+					"patching_rect" : [ 694.0, 621.411383500000056, 48.25, 23.0 ],
 					"text" : "dac~"
 				}
 
@@ -464,7 +341,7 @@
 					"orientation" : 1,
 					"outlettype" : [ "signal", "signal", "", "float", "list" ],
 					"parameter_enable" : 1,
-					"patching_rect" : [ 694.0, 624.411383500000056, 443.0, 47.0 ],
+					"patching_rect" : [ 694.0, 568.411383500000056, 443.0, 47.0 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_longname" : "live.gain~",
@@ -483,14 +360,54 @@
 			}
 , 			{
 				"box" : 				{
+					"accentcolor" : [ 1.0, 0.733333333333333, 0.086274509803922, 1.0 ],
+					"basictuning" : 440,
+					"color" : [ 0.019607843137255, 0.949019607843137, 0.317647058823529, 1.0 ],
+					"data" : 					{
+						"clips" : [ 							{
+								"absolutepath" : "FemVoice.aif",
+								"filename" : "FemVoice.aif",
+								"filekind" : "audiofile",
+								"id" : "u994000563",
+								"selection" : [ 0.0, 1.0 ],
+								"loop" : 0,
+								"content_state" : 								{
+
+								}
+
+							}
+ ]
+					}
+,
+					"followglobaltempo" : 0,
+					"formantcorrection" : 0,
+					"id" : "obj-8",
+					"maxclass" : "playlist~",
+					"mode" : "basic",
+					"numinlets" : 1,
+					"numoutlets" : 5,
+					"originallength" : [ 0.0, "ticks" ],
+					"originaltempo" : 120.0,
+					"outlettype" : [ "signal", "signal", "signal", "", "dictionary" ],
+					"parameter_enable" : 0,
+					"patching_rect" : [ 977.0, 109.411383500000056, 150.0, 30.0 ],
+					"pitchcorrection" : 0,
+					"quality" : "basic",
+					"selectioncolor" : [ 1.0, 0.733333333333333, 0.086274509803922, 1.0 ],
+					"timestretch" : [ 0 ]
+				}
+
+			}
+, 			{
+				"box" : 				{
 					"color" : [ 1.0, 0.733333333333333, 0.086274509803922, 1.0 ],
 					"id" : "obj-1",
 					"maxclass" : "newobj",
-					"numinlets" : 4,
+					"numinlets" : 1,
 					"numoutlets" : 2,
 					"outlettype" : [ "signal", "signal" ],
-					"patching_rect" : [ 694.0, 142.411383500000056, 253.0, 23.0 ],
-					"text" : "gen~ chorus"
+					"patching_rect" : [ 694.0, 142.411383500000056, 97.0, 23.0 ],
+					"text" : "gen~ freeverb"
 				}
 
 			}
@@ -503,7 +420,7 @@
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 18.800000000000011, 27.832853240633995, 426.399999999999977, 660.65706051873201 ],
 					"rendermode" : 0,
-					"url" : "https://velitch.github.io/velitch/2021-10-19-tool_gen_chorus/"
+					"url" : "https://velitch.github.io/velitch/2021-10-19-tool_gen_freeverb/"
 				}
 
 			}
@@ -531,21 +448,21 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 694.0, 317.411383500000056, 433.0, 191.0 ]
+					"patching_rect" : [ 694.0, 261.411383500000056, 433.0, 191.0 ]
 				}
 
 			}
  ],
 		"lines" : [ 			{
 				"patchline" : 				{
-					"destination" : [ "obj-17", 0 ],
+					"destination" : [ "obj-39", 0 ],
 					"source" : [ "obj-1", 0 ]
 				}
 
 			}
 , 			{
 				"patchline" : 				{
-					"destination" : [ "obj-18", 0 ],
+					"destination" : [ "obj-40", 0 ],
 					"source" : [ "obj-1", 1 ]
 				}
 
@@ -575,55 +492,6 @@
 				"patchline" : 				{
 					"destination" : [ "obj-3", 0 ],
 					"source" : [ "obj-16", 0 ]
-				}
-
-			}
-, 			{
-				"patchline" : 				{
-					"destination" : [ "obj-39", 0 ],
-					"source" : [ "obj-17", 0 ]
-				}
-
-			}
-, 			{
-				"patchline" : 				{
-					"destination" : [ "obj-40", 0 ],
-					"source" : [ "obj-17", 1 ]
-				}
-
-			}
-, 			{
-				"patchline" : 				{
-					"destination" : [ "obj-39", 0 ],
-					"source" : [ "obj-18", 1 ]
-				}
-
-			}
-, 			{
-				"patchline" : 				{
-					"destination" : [ "obj-40", 0 ],
-					"source" : [ "obj-18", 0 ]
-				}
-
-			}
-, 			{
-				"patchline" : 				{
-					"destination" : [ "obj-1", 1 ],
-					"source" : [ "obj-20", 0 ]
-				}
-
-			}
-, 			{
-				"patchline" : 				{
-					"destination" : [ "obj-1", 2 ],
-					"source" : [ "obj-24", 0 ]
-				}
-
-			}
-, 			{
-				"patchline" : 				{
-					"destination" : [ "obj-1", 3 ],
-					"source" : [ "obj-26", 0 ]
 				}
 
 			}
@@ -719,15 +587,22 @@
 		}
 ,
 		"dependency_cache" : [ 			{
-				"name" : "chorus.gendsp",
-				"bootpath" : "~/Desktop/velitch/velitch/assets/maxmsp_tools/effects/chorus",
+				"name" : "freeverb.gendsp",
+				"bootpath" : "D:/Git BN_Musica_Elettronica/IBN/COME-05-informatica-musicale-IBN/maxmsp_tools/reverb/freeverb",
 				"patcherrelativepath" : ".",
 				"type" : "gDSP",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "GKV_filter_library.genexpr",
-				"bootpath" : "~/Desktop/velitch/velitch/assets/maxmsp_tools/effects/chorus",
+				"bootpath" : "D:/Git BN_Musica_Elettronica/IBN/COME-05-informatica-musicale-IBN/maxmsp_tools/reverb/freeverb",
+				"patcherrelativepath" : ".",
+				"type" : "GenX",
+				"implicit" : 1
+			}
+, 			{
+				"name" : "GKV_filter_library.genexpr",
+				"bootpath" : "D:/Git BN_Musica_Elettronica/IBN/COME-05-informatica-musicale-IBN/maxmsp_tools/reverb/freeverb",
 				"patcherrelativepath" : ".",
 				"type" : "GenX",
 				"implicit" : 1
@@ -736,41 +611,6 @@
 				"name" : "FemVoice.aif",
 				"bootpath" : "C74:/patchers/m4l/Pluggo for Live resources/samples",
 				"type" : "AIFF",
-				"implicit" : 1
-			}
-, 			{
-				"name" : "freeverb.gendsp",
-				"bootpath" : "~/Desktop/velitch/velitch/assets/maxmsp_tools/effects/chorus",
-				"patcherrelativepath" : ".",
-				"type" : "gDSP",
-				"implicit" : 1
-			}
-, 			{
-				"name" : "GKV_filter_library.genexpr",
-				"bootpath" : "~/Desktop/velitch/velitch/assets/maxmsp_tools/effects/chorus",
-				"patcherrelativepath" : ".",
-				"type" : "GenX",
-				"implicit" : 1
-			}
-, 			{
-				"name" : "GKV_filter_library.genexpr",
-				"bootpath" : "~/Desktop/velitch/velitch/assets/maxmsp_tools/effects/chorus",
-				"patcherrelativepath" : ".",
-				"type" : "GenX",
-				"implicit" : 1
-			}
-, 			{
-				"name" : "GKV_filter_library.genexpr",
-				"bootpath" : "~/Desktop/velitch/velitch/assets/maxmsp_tools/effects/chorus",
-				"patcherrelativepath" : ".",
-				"type" : "GenX",
-				"implicit" : 1
-			}
-, 			{
-				"name" : "GKV_filter_library.genexpr",
-				"bootpath" : "~/Desktop/velitch/velitch/assets/maxmsp_tools/effects/chorus",
-				"patcherrelativepath" : ".",
-				"type" : "GenX",
 				"implicit" : 1
 			}
  ],
@@ -815,9 +655,9 @@
 , 			{
 				"name" : "helpfile_label-1",
 				"default" : 				{
+					"fontsize" : [ 13.0 ],
 					"fontname" : [ "Arial" ],
-					"textcolor" : [ 0.501961, 0.501961, 0.501961, 1.0 ],
-					"fontsize" : [ 13.0 ]
+					"textcolor" : [ 0.501961, 0.501961, 0.501961, 1.0 ]
 				}
 ,
 				"parentstyle" : "",
@@ -826,7 +666,8 @@
 , 			{
 				"name" : "jpatcher001",
 				"default" : 				{
-					"fontname" : [ "Verdana" ],
+					"selectioncolor" : [ 0.466667, 0.254902, 0.607843, 1.0 ],
+					"bgcolor" : [ 0.461105, 0.492646, 0.591878, 1.0 ],
 					"bgfillcolor" : 					{
 						"type" : "gradient",
 						"color" : [ 0.290196, 0.309804, 0.301961, 1.0 ],
@@ -837,12 +678,11 @@
 						"autogradient" : 0
 					}
 ,
-					"fontface" : [ 0 ],
-					"bgcolor" : [ 0.461105, 0.492646, 0.591878, 1.0 ],
+					"fontname" : [ "Verdana" ],
 					"accentcolor" : [ 0.0, 0.0, 0.0, 1.0 ],
 					"color" : [ 0.031373, 0.541176, 0.498039, 1.0 ],
 					"elementcolor" : [ 0.37684, 0.398617, 0.461834, 1.0 ],
-					"selectioncolor" : [ 0.466667, 0.254902, 0.607843, 1.0 ]
+					"fontface" : [ 0 ]
 				}
 ,
 				"parentstyle" : "asd",
@@ -910,8 +750,8 @@
 , 			{
 				"name" : "newobjYellow-1",
 				"default" : 				{
-					"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ],
-					"fontsize" : [ 12.059008 ]
+					"fontsize" : [ 12.059008 ],
+					"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ]
 				}
 ,
 				"parentstyle" : "",
@@ -948,10 +788,10 @@
 , 			{
 				"name" : "tap-dark",
 				"default" : 				{
-					"fontname" : [ "Ableton Sans Light Regular" ],
+					"locked_bgcolor" : [ 0.133333, 0.133333, 0.133333, 1.0 ],
 					"editing_bgcolor" : [ 0.133333, 0.133333, 0.133333, 1.0 ],
-					"textcolor" : [ 0.847058823529412, 0.847058823529412, 0.847058823529412, 1.0 ],
-					"locked_bgcolor" : [ 0.133333, 0.133333, 0.133333, 1.0 ]
+					"fontname" : [ "Ableton Sans Light Regular" ],
+					"textcolor" : [ 0.847058823529412, 0.847058823529412, 0.847058823529412, 1.0 ]
 				}
 ,
 				"parentstyle" : "",
@@ -960,6 +800,8 @@
 , 			{
 				"name" : "vibrato",
 				"default" : 				{
+					"selectioncolor" : [ 0.929412, 0.929412, 0.352941, 1.0 ],
+					"bgcolor" : [ 0.0, 0.0, 0.0, 1.0 ],
 					"bgfillcolor" : 					{
 						"type" : "gradient",
 						"color" : [ 0.2, 0.2, 0.2, 1.0 ],
@@ -970,11 +812,9 @@
 						"autogradient" : 0.0
 					}
 ,
-					"patchlinecolor" : [ 0.501960784313725, 0.0, 0.501960784313725, 1.0 ],
-					"bgcolor" : [ 0.0, 0.0, 0.0, 1.0 ],
 					"accentcolor" : [ 0.501961, 0.501961, 0.501961, 1.0 ],
-					"color" : [ 0.0, 0.749019607843137, 0.501960784313725, 1.0 ],
-					"selectioncolor" : [ 0.929412, 0.929412, 0.352941, 1.0 ]
+					"patchlinecolor" : [ 0.501960784313725, 0.0, 0.501960784313725, 1.0 ],
+					"color" : [ 0.0, 0.749019607843137, 0.501960784313725, 1.0 ]
 				}
 ,
 				"parentstyle" : "",

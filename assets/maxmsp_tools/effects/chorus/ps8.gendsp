@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "dsp.gen",
-		"rect" : [ 34.0, 77.0, 1468.0, 713.0 ],
+		"rect" : [ 311.0, 84.0, 884.0, 635.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -45,7 +45,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 861.0, 565.0, 25.0, 22.0 ],
+					"patching_rect" : [ 660.0, 565.0, 25.0, 22.0 ],
 					"text" : "/ 8."
 				}
 
@@ -57,7 +57,7 @@
 					"maxclass" : "newobj",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 861.0, 603.0, 129.0, 22.0 ],
+					"patching_rect" : [ 660.0, 603.0, 129.0, 22.0 ],
 					"text" : "out 2 @comment Rght"
 				}
 
@@ -70,7 +70,7 @@
 					"numinlets" : 0,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 753.133333333333326, 30.0, 77.0, 22.0 ],
+					"patching_rect" : [ 660.0, 30.0, 77.0, 22.0 ],
 					"text" : "in 4 fb_samp"
 				}
 
@@ -83,7 +83,7 @@
 					"numinlets" : 0,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 483.466666666666697, 30.0, 54.0, 22.0 ],
+					"patching_rect" : [ 457.333333333333314, 30.0, 54.0, 22.0 ],
 					"text" : "in 3 gain"
 				}
 
@@ -96,7 +96,7 @@
 					"numinlets" : 0,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 213.800000000000011, 30.0, 61.0, 22.0 ],
+					"patching_rect" : [ 254.666666666666629, 30.0, 61.0, 22.0 ],
 					"text" : "in 2 samp"
 				}
 
@@ -115,7 +115,7 @@
 			}
 , 			{
 				"box" : 				{
-					"code" : "require \"GKV_filter_library\";\r\n\r\n\r\n//chorus (Xn, samp, gain, freqcut, fq)\r\nlbcf1 = chorus (in1, in4 + 0.8785);\r\nlbcf2 = chorus (in1, in4 + 0.15788);\r\nlbcf3 = chorus (in1, in4 + 0.2655);\r\nlbcf4 = chorus (in1, in4 + 0.33473);\r\nlbcf5 = chorus (in1, in4 + 0.73743);\r\nlbcf6 = chorus (in1, in4 + 0.2656);\r\nlbcf7 = chorus (in1, in4 + 0.5262);\r\nlbcf8 = chorus (in1, in4 + 0.422757);\r\n\r\nlbcfp1 = onepole (lbcf1, 8000.);\r\nlbcfp2 = onepole (lbcf2, 8000.);\r\nlbcfp3 = onepole (lbcf3, 8000.);\r\nlbcfp4 = onepole (lbcf4, 8000.);\r\nlbcfp5 = onepole (lbcf5, 8000.);\r\nlbcfp6 = onepole (lbcf6, 8000.);\r\nlbcfp7 = onepole (lbcf7, 8000.);\r\nlbcfp8 = onepole (lbcf8, 8000.);\r\n\r\n//allpass_g (Xn, ms, gain)\r\nap1 = allpass_samp (lbcfp1, in2 + 23, in3);\r\nap2 = allpass_samp (lbcfp2, in2 + 41, in3);\r\nap3 = allpass_samp (lbcfp3, in2 + 27, in3);\r\nap4 = allpass_samp (lbcfp4, in2 + 29, in3);\r\nap5 = allpass_samp (lbcfp5, in2 + 13, in3);\r\nap6 = allpass_samp (lbcfp6, in2 + 21, in3);\r\nap7 = allpass_samp (lbcfp7, in2 + 7, in3);\r\nap8 = allpass_samp (lbcfp8, in2 + 39, in3);\r\n\r\n\r\n//panning\r\nlbcf1L = sqrt(0.3) * (ap1+lbcf1);\r\nlbcf1R = sqrt(1. - 0.3) * (ap1+lbcf1);\r\nlbcf2L = sqrt(0.9) * (ap2+lbcf2);\r\nlbcf2R = sqrt(1. - 0.9) * (ap2+lbcf2);\r\nlbcf3L = sqrt(0.5) * (ap3+lbcf3);\r\nlbcf3R = sqrt(1. - 0.5) * (ap3+lbcf3);\r\nlbcf4L = sqrt(0.1) * (ap4+lbcf4);\r\nlbcf4R = sqrt(1. - 0.1) * (ap4+lbcf4);\r\nlbcf5L = sqrt(0.45) * (ap5+lbcf5);\r\nlbcf5R = sqrt(1. - 0.45) * (ap5+lbcf5);\r\nlbcf6L = sqrt(0.15) * (ap6+lbcf6);\r\nlbcf6R = sqrt(1. - 0.15) * (ap6+lbcf6);\r\nlbcf7L = sqrt(0.49) * (ap7+lbcf7);\r\nlbcf7R = sqrt(1. - 0.49) * (ap7+lbcf7);\r\nlbcf8L = sqrt(0.82) * (ap8+lbcf8);\r\nlbcf8R = sqrt(1. - 0.82) * (ap8+lbcf8);\r\n\r\noutL = lbcf1L + lbcf2L + lbcf3L + lbcf4L + lbcf5L + lbcf6L + lbcf7L + lbcf8L;\r\noutR = lbcf1R + lbcf2R + lbcf3R + lbcf4R + lbcf5R + lbcf6R + lbcf7R + lbcf8R;;\r\n\r\n\r\n//out\r\nout1 = outL;\r\nout2 = outR;",
+					"code" : "require \"GKV_filter_library\";\r\n\r\n\r\n//chorus (Xn, samp, gain, freqcut, fq)\r\nlbcf1 = chorus (in1, in4 + (-0.8785));\r\nlbcf2 = chorus (in1, in4 + (-0.157898));\r\nlbcf3 = chorus (in1, in4 + (-0.2655));\r\nlbcf4 = chorus (in1, in4 + (-0.33473));\r\nlbcf5 = chorus (in1, in4 + 0.703743);\r\nlbcf6 = chorus (in1, in4 + 0.2656);\r\nlbcf7 = chorus (in1, in4 + 0.5262);\r\nlbcf8 = chorus (in1, in4 + 0.422757);\r\n\r\nlbcfp1 = onepole (lbcf1, 8000.);\r\nlbcfp2 = onepole (lbcf2, 8000.);\r\nlbcfp3 = onepole (lbcf3, 8000.);\r\nlbcfp4 = onepole (lbcf4, 8000.);\r\nlbcfp5 = onepole (lbcf5, 8000.);\r\nlbcfp6 = onepole (lbcf6, 8000.);\r\nlbcfp7 = onepole (lbcf7, 8000.);\r\nlbcfp8 = onepole (lbcf8, 8000.);\r\n\r\n//allpass_g (Xn, ms, gain)\r\nap1 = allpass_samp (lbcfp1, in2 + 23, in3);\r\nap2 = allpass_samp (lbcfp2, in2 + 41, in3);\r\nap3 = allpass_samp (lbcfp3, in2 + 27, in3);\r\nap4 = allpass_samp (lbcfp4, in2 + 29, in3);\r\nap5 = allpass_samp (lbcfp5, in2 + 13, in3);\r\nap6 = allpass_samp (lbcfp6, in2 + 21, in3);\r\nap7 = allpass_samp (lbcfp7, in2 + 7, in3);\r\nap8 = allpass_samp (lbcfp8, in2 + 39, in3);\r\n\r\n\r\n//panning\r\nlbcf1L = sqrt(0.3) * (ap1+lbcf1);\r\nlbcf1R = sqrt(1. - 0.3) * (ap1+lbcf1);\r\nlbcf2L = sqrt(0.9) * (ap2+lbcf2);\r\nlbcf2R = sqrt(1. - 0.9) * (ap2+lbcf2);\r\nlbcf3L = sqrt(0.5) * (ap3+lbcf3);\r\nlbcf3R = sqrt(1. - 0.5) * (ap3+lbcf3);\r\nlbcf4L = sqrt(0.1) * (ap4+lbcf4);\r\nlbcf4R = sqrt(1. - 0.1) * (ap4+lbcf4);\r\nlbcf5L = sqrt(0.45) * (ap5+lbcf5);\r\nlbcf5R = sqrt(1. - 0.45) * (ap5+lbcf5);\r\nlbcf6L = sqrt(0.15) * (ap6+lbcf6);\r\nlbcf6R = sqrt(1. - 0.15) * (ap6+lbcf6);\r\nlbcf7L = sqrt(0.49) * (ap7+lbcf7);\r\nlbcf7R = sqrt(1. - 0.49) * (ap7+lbcf7);\r\nlbcf8L = sqrt(0.82) * (ap8+lbcf8);\r\nlbcf8R = sqrt(1. - 0.82) * (ap8+lbcf8);\r\n\r\noutL = lbcf1L + lbcf2L + lbcf3L + lbcf4L + lbcf5L + lbcf6L + lbcf7L + lbcf8L;\r\noutR = lbcf1R + lbcf2R + lbcf3R + lbcf4R + lbcf5R + lbcf6R + lbcf7R + lbcf8R;\r\n\r\n\r\n//out\r\nout1 = outL;\r\nout2 = outR;",
 					"fontface" : 0,
 					"fontname" : "<Monospaced>",
 					"fontsize" : 12.0,
@@ -124,7 +124,7 @@
 					"numinlets" : 4,
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
-					"patching_rect" : [ 52.0, 104.0, 828.0, 446.0 ]
+					"patching_rect" : [ 52.0, 71.0, 627.0, 479.0 ]
 				}
 
 			}
@@ -210,7 +210,8 @@
 				}
 
 			}
- ]
+ ],
+		"autosave" : 0
 	}
 
 }

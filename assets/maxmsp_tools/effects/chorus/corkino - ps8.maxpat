@@ -57,7 +57,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 2,
 					"outlettype" : [ "signal", "signal" ],
-					"patching_rect" : [ 694.0, 176.411383500000056, 83.0, 23.0 ],
+					"patching_rect" : [ 749.0, 176.411383500000056, 83.0, 23.0 ],
 					"text" : "gen~ freeverb"
 				}
 
@@ -67,14 +67,14 @@
 					"basictuning" : 440,
 					"data" : 					{
 						"clips" : [ 							{
-								"absolutepath" : "FemVoice.aif",
-								"filename" : "FemVoice.aif",
+								"absolutepath" : "D:/Git BN_Musica_Elettronica/IBN/COME-05-informatica-musicale-IBN/corkino/maxmsp/internals/D_Roccato_test_1.wav",
+								"filename" : "D_Roccato_test_1.wav",
 								"filekind" : "audiofile",
-								"id" : "u135000478",
+								"id" : "u699000917",
 								"selection" : [ 0.0, 1.0 ],
-								"loop" : 1,
+								"loop" : 0,
 								"content_state" : 								{
-									"loop" : 1
+
 								}
 
 							}
@@ -108,17 +108,6 @@
 					"outlettype" : [ "signal" ],
 					"patching_rect" : [ 635.0, 279.0, 29.5, 23.0 ],
 					"text" : "/~"
-				}
-
-			}
-, 			{
-				"box" : 				{
-					"id" : "obj-11",
-					"maxclass" : "comment",
-					"numinlets" : 1,
-					"numoutlets" : 0,
-					"patching_rect" : [ 683.0, 40.0, 289.0, 21.0 ],
-					"text" : "(Xn, samp, gain, freqcut, rmgain, rmfreq)"
 				}
 
 			}
@@ -490,7 +479,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "signal", "signal" ],
 					"patching_rect" : [ 694.0, 142.411383500000056, 253.0, 23.0 ],
-					"text" : "gen~ chorus"
+					"text" : "gen~ ps8"
 				}
 
 			}
@@ -539,6 +528,7 @@
 		"lines" : [ 			{
 				"patchline" : 				{
 					"destination" : [ "obj-17", 0 ],
+					"order" : 0,
 					"source" : [ "obj-1", 0 ]
 				}
 
@@ -546,6 +536,23 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-18", 0 ],
+					"order" : 1,
+					"source" : [ "obj-1", 1 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-39", 0 ],
+					"order" : 1,
+					"source" : [ "obj-1", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-40", 0 ],
+					"order" : 0,
 					"source" : [ "obj-1", 1 ]
 				}
 
@@ -719,7 +726,7 @@
 		}
 ,
 		"dependency_cache" : [ 			{
-				"name" : "chorus.gendsp",
+				"name" : "ps8.gendsp",
 				"bootpath" : "~/Desktop/velitch/velitch/assets/maxmsp_tools/effects/chorus",
 				"patcherrelativepath" : ".",
 				"type" : "gDSP",
@@ -733,9 +740,9 @@
 				"implicit" : 1
 			}
 , 			{
-				"name" : "FemVoice.aif",
-				"bootpath" : "C74:/patchers/m4l/Pluggo for Live resources/samples",
-				"type" : "AIFF",
+				"name" : "D_Roccato_test_1.wav",
+				"bootpath" : "D:/Git BN_Musica_Elettronica/IBN/COME-05-informatica-musicale-IBN/corkino/maxmsp/internals",
+				"type" : "WAVE",
 				"implicit" : 1
 			}
 , 			{
