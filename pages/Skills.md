@@ -44,15 +44,15 @@ ____________
 
 |LEVEL|NAME|
 |:---:|:---:|
-|3|Csound|
-|2|Faust|
-|2|Python|
-|4|arduino|
-|3|HTML|
-|3|CSS|
+|3|[Csound](https://csound.com/)|
+|2|[Faust](https://faust.grame.fr/)|
+|2|[Python](https://www.python.org/)|
+|4|[arduino](https://www.arduino.cc/)|
+|3|[HTML](https://en.m.wikipedia.org/wiki/HTML)|
+|3|[CSS](https://en.m.wikipedia.org/wiki/CSS)|
 |5|[Markdown](https://en.m.wikipedia.org/wiki/Markdown)|
-|2|JavaScript|
-|1|R|
+|2|[JavaScript](https://en.m.wikipedia.org/wiki/JavaScript)|
+|1|[R](https://en.m.wikipedia.org/wiki/R_(programming_language))|
 
 #### Audio/Video Softwares
 
