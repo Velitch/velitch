@@ -69,10 +69,10 @@ ____________
 
 |LEVEL|NAME|
 |:---:|:---:|
-|5|[Adobe Audition](aaa)|
-|5|[Adobe Illustrator](aaa)|
-|5|[Adobe InDesign](aaa)|
-|5|[Adobe Premiere Pro](aaa)|
-|4|[Adobe Photoshop](aaa)|
+|5|[Adobe Audition](https://www.adobe.com/products/audition.html)|
+|5|[Adobe Illustrator](https://www.adobe.com/products/photoshop.html)|
+|5|[Adobe InDesign](https://www.adobe.com/products/indesign.html)|
+|5|[Adobe Premiere Pro](https://www.adobe.com/products/premiere.html)|
+|4|[Adobe Photoshop](https://www.adobe.com/products/photoshop.html)|
 
 ____________
