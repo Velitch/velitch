@@ -8,7 +8,9 @@ tags: [arduino, MaxMSP, software, controller]
 comments: true
 ---
 
-![](https://github.com/Velitch/velitch/blob/main/assets/img/ui_corkino.png?raw=true){: .mx-auto.d-block :}
+![](https://github.com/Velitch/velitch/blob/main/assets/img/img_maxmsp/presentation~%20corkino_ui.png?raw=true){: .mx-auto.d-block :}
+
+![](https://github.com/Velitch/velitch/blob/main/assets/img/img_maxmsp/dsp~%20corkino_ui.png?raw=true){: .mx-auto.d-block :}
 
 
 ______________
