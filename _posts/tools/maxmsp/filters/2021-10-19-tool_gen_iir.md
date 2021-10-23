@@ -10,11 +10,11 @@ comments: true
 
 **Infinite Impulse Response** - The direct signal “feeds back” around the delay line. The feedback comb filter is a special case of an Infinite Impulse Response (IIR), since there is feedback from the delayed output to the input.
 
-![](https://upload.wikimedia.org/wikipedia/commons/2/2a/Comb_filter_feedback.svg){: .mx-auto.d-block :}
+![](https://velitch.github.io/velitch/assets/img/diagrams/iir.png){: .mx-auto.d-block :}
 
 General structure of a feedback comb filter is described by the difference equation:
 
-![](https://wikimedia.org/api/rest_v1/media/math/render/svg/aab660dee16e819787a26d5de6162532f6da0da3){: .mx-auto.d-block :}
+![](https://velitch.github.io/velitch/assets/img/diagrams/formula_iir.png){: .mx-auto.d-block :}
 
 ![](https://github.com/Velitch/velitch/blob/main/assets/img/img_maxmsp/gen~%20iir.gif?raw=true){: .mx-auto.d-block :}
 
