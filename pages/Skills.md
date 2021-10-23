@@ -44,34 +44,35 @@ ____________
 
 |LEVEL|NAME|
 |:---:|:---:|
-|3|Csound|
-|2|Faust|
-|2|Python|
-|4|arduino|
-|3|HTML|
-|3|CSS|
-|2|JavaScript|
-|1|R|
+|3|[Csound](https://csound.com/)|
+|2|[Faust](https://faust.grame.fr/)|
+|2|[Python](https://www.python.org/)|
+|4|[arduino](https://www.arduino.cc/)|
+|3|[HTML](https://en.m.wikipedia.org/wiki/HTML)|
+|3|[CSS](https://en.m.wikipedia.org/wiki/CSS)|
+|5|[Markdown](https://en.m.wikipedia.org/wiki/Markdown)|
+|2|[JavaScript](https://en.m.wikipedia.org/wiki/JavaScript)|
+|1|[R](https://en.m.wikipedia.org/wiki/R_(programming_language))|
 
 #### Audio/Video Softwares
 
 |LEVEL|NAME|
 |:---:|:---:|
-|5|MaxMSP|
-|5|Ableton Live|
+|5|[MaxMSP](https://cycling74.com/)|
+|5|[Ableton Live](https://www.ableton.com/en/)|
 |5|other DAWs|
-|5|Audacity|
-|4|LilyPond|
-|2|TouchDesigner|
+|5|[Audacity](https://www.audacityteam.org/)|
+|4|[LilyPond](https://lilypond.org/index.it.html)|
+|2|[TouchDesigner](https://derivative.ca/)|
 
 #### Adobe Softwares
 
 |LEVEL|NAME|
 |:---:|:---:|
-|5|Adobe Audition|
-|5|Adobe Illustrator|
-|5|Adobe InDesign|
-|5|Adobe Premiere Pro|
-|4|Adobe Photoshop|
+|5|[Adobe Audition](https://www.adobe.com/products/audition.html)|
+|5|[Adobe Illustrator](https://www.adobe.com/products/photoshop.html)|
+|5|[Adobe InDesign](https://www.adobe.com/products/indesign.html)|
+|5|[Adobe Premiere Pro](https://www.adobe.com/products/premiere.html)|
+|4|[Adobe Photoshop](https://www.adobe.com/products/photoshop.html)|
 
 ____________
