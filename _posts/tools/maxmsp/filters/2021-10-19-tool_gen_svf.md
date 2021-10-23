@@ -1,4 +1,4 @@
-- <a href="https://velitch.github.io/velitch/assets/maxmsp_tools/reverb/freeverb.zip">**gen~ freeverb.maxpat** (6KB)<a/>---
+---
 layout: post
 title: gen~ svf
 subtitle: MaxMSP Tools
