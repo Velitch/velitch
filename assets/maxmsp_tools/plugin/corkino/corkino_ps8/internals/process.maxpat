@@ -75,13 +75,12 @@
 				"box" : 				{
 					"fontname" : "Helvetica",
 					"id" : "obj-8",
-					"linecount" : 2,
 					"maxclass" : "newobj",
 					"numinlets" : 6,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 454.75, 97.875, 92.0, 37.0 ],
-					"text" : "scale 0. 1023. 0. 80."
+					"patching_rect" : [ 454.75, 97.875, 117.0, 23.0 ],
+					"text" : "scale 0. 1023. 0. 12."
 				}
 
 			}
