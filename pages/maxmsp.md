@@ -22,15 +22,15 @@ subtitle: Tools
 - [**gen~ schroeder JCRev** (gen)](https://velitch.github.io/velitch/2021-10-19-tool_gen_schroeder_JCRev/)
 
 
-### Effects
+//### Effects
 
-- [**gen~ chorus** (gen, codebox)](https://velitch.github.io/velitch/2021-10-19-tool_gen_chorus/))
-- [**gen~ flanger** (gen, codebox)](https://velitch.github.io/velitch/2021-10-19-tool_gen_flanger/))
-- [**gen~ doppler** (gen, codebox)](https://velitch.github.io/velitch/2021-10-19-tool_gen_doppler/))
+//- [**gen~ chorus** (gen, codebox)](https://velitch.github.io/velitch/2021-10-19-tool_gen_chorus/))
+//- [**gen~ flanger** (gen, codebox)](https://velitch.github.io/velitch/2021-10-19-tool_gen_flanger/))
+//- [**gen~ doppler** (gen, codebox)](https://velitch.github.io/velitch/2021-10-19-tool_gen_doppler/))
 
-### Synthesis
+//### Synthesis
 
-- [**gen~ karplus strong** (gen, codebox)](https://velitch.github.io/velitch/2021-10-19-tool_gen_karplus/))
+//- [**gen~ karplus strong** (gen, codebox)](https://velitch.github.io/velitch/2021-10-19-tool_gen_karplus/))
 
 ### Plugins
 
