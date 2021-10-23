@@ -58,21 +58,21 @@ ____________
 
 |LEVEL|NAME|
 |:---:|:---:|
-|5|MaxMSP|
-|5|Ableton Live|
+|5|[MaxMSP](https://cycling74.com/)|
+|5|[Ableton Live](https://www.ableton.com/en/)|
 |5|other DAWs|
-|5|Audacity|
-|4|LilyPond|
-|2|TouchDesigner|
+|5|[Audacity](https://www.audacityteam.org/)|
+|4|[LilyPond](https://lilypond.org/index.it.html)|
+|2|[TouchDesigner](https://derivative.ca/)|
 
 #### Adobe Softwares
 
 |LEVEL|NAME|
 |:---:|:---:|
-|5|Adobe Audition|
-|5|Adobe Illustrator|
-|5|Adobe InDesign|
-|5|Adobe Premiere Pro|
-|4|Adobe Photoshop|
+|5|[Adobe Audition](aaa)|
+|5|[Adobe Illustrator](aaa)|
+|5|[Adobe InDesign](aaa)|
+|5|[Adobe Premiere Pro](aaa)|
+|4|[Adobe Photoshop](aaa)|
 
 ____________
