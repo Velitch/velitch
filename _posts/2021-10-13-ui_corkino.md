@@ -26,4 +26,5 @@ Documents:
 Software:
 
 - <a href="https://velitch.github.io/velitch/assets/maxmsp_tools/plugin/corkino/corkino_ui.zip">**corkino UI for MaxMSP** (8,08 MB)<a/>
-- <a href="https://velitch.github.io/velitch/assets/maxmsp_tools/plugin/corkino/Arduino2Max_Uno.zip">**arduino2Max_Uno** (2 KB)<a/>
+- <a href="https://velitch.github.io/velitch/assets/maxmsp_tools/plugin/corkino/corkino_ps8.zip">**corkino~ ps8** (8,09 MB)<a/>
+- <a href="https://velitch.github.io/velitch/assets/maxmsp_tools/plugin/corkino/corkino_ps8.zip">**corkino~ psc8** (8,09 MB)<a/>
