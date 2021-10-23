@@ -11,12 +11,17 @@ comments: true
 **Comb Filter** - is a filter implemented by adding a delayed version of a signal to itself, causing constructive and destructive interference. The frequency response of a comb filter consists of a series of regularly spaced notches, giving the appearance of a comb.
 Comb filters exist in two forms, [Infinite Impulse Response](https://velitch.github.io/velitch/2021-10-19-tool_gen_iir/) and [Finite Impulse Response](https://velitch.github.io/velitch/2021-10-19-tool_gen_fir/); which refer to the direction in which signals are delayed before they are added to the input.
 
-______________
-
-**Feedback Comb Filter**
+<img src="https://velitch.github.io/velitch/assets/img/diagrams/comb.png" alt=""/>
+    <p>My Caption here</p> text-align:center;
+    
 ![](https://velitch.github.io/velitch/assets/img/diagrams/comb.png){: .mx-auto.d-block :}
+  <p>My Caption here</p>
 
 ![](https://velitch.github.io/velitch/assets/img/diagrams/formula_comb.png){: .mx-auto.d-block :}
+
+______________
+
+**gen~ combfilter**
 
 ![](https://github.com/Velitch/velitch/blob/main/assets/img/img_maxmsp/gen~%20combfilter.png?raw=true){: .mx-auto.d-block :}
 
