@@ -12,10 +12,7 @@ comments: true
 Comb filters exist in two forms, [Infinite Impulse Response](https://velitch.github.io/velitch/2021-10-19-tool_gen_iir/) and [Finite Impulse Response](https://velitch.github.io/velitch/2021-10-19-tool_gen_fir/); which refer to the direction in which signals are delayed before they are added to the input.
 
 <img src="https://velitch.github.io/velitch/assets/img/diagrams/comb.png" alt=""/>
-    <p>My Caption here</p> text-align:center;
-    
-![](https://velitch.github.io/velitch/assets/img/diagrams/comb.png){: .mx-auto.d-block :}
-  <p>My Caption here</p>
+<p style="text-align: center;">Feedback Comb Filter</p>
 
 ![](https://velitch.github.io/velitch/assets/img/diagrams/formula_comb.png){: .mx-auto.d-block :}
 
