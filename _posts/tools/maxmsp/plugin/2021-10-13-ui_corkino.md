@@ -20,12 +20,12 @@ comments: true
 
 <img src="https://velitch.github.io/velitch/assets/img/diagrams/ps8_m2.png" alt=""/>
 
-
+<div class="container-fluid audioCenter">
 <audio controls controlsList="nodownload noplaybackrate">
   <source src="https://velitch.github.io/velitch/assets/audio/20211024_pc8_didgeridoo.mp3" type="audio/mp3">
 Your browser does not support the audio element.
 </audio>
-
+  </div>
 ______________
 
 **DOWNLOADS**
