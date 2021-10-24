@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 41.0, 84.0, 1468.0, 713.0 ],
+		"rect" : [ 34.0, 77.0, 1468.0, 713.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 1,
 		"default_fontsize" : 12.0,
@@ -620,9 +620,9 @@
 					"fontsize" : 16.0,
 					"id" : "obj-201",
 					"maxclass" : "newobj",
-					"numinlets" : 6,
-					"numoutlets" : 7,
-					"outlettype" : [ "signal", "signal", "signal", "signal", "", "signal", "" ],
+					"numinlets" : 7,
+					"numoutlets" : 8,
+					"outlettype" : [ "signal", "signal", "signal", "signal", "signal", "", "signal", "" ],
 					"patching_rect" : [ 1025.458032190799713, 288.75, 520.417291164398193, 27.0 ],
 					"text" : "process"
 				}
@@ -6788,15 +6788,11 @@
 					"presentation" : 1,
 					"presentation_rect" : [ 1798.583333969116211, 513.875001321236255, 36.0, 284.0 ],
 					"saved_attribute_attributes" : 					{
-						"tribordercolor" : 						{
-							"expression" : ""
-						}
-,
-						"slidercolor" : 						{
-							"expression" : ""
-						}
-,
 						"trioncolor" : 						{
+							"expression" : ""
+						}
+,
+						"tricolor" : 						{
 							"expression" : ""
 						}
 ,
@@ -6804,7 +6800,11 @@
 							"expression" : ""
 						}
 ,
-						"tricolor" : 						{
+						"slidercolor" : 						{
+							"expression" : ""
+						}
+,
+						"tribordercolor" : 						{
 							"expression" : ""
 						}
 ,
@@ -6845,15 +6845,11 @@
 					"presentation" : 1,
 					"presentation_rect" : [ 652.750000476837158, 524.666666746139413, 36.0, 284.0 ],
 					"saved_attribute_attributes" : 					{
-						"tribordercolor" : 						{
-							"expression" : ""
-						}
-,
-						"slidercolor" : 						{
-							"expression" : ""
-						}
-,
 						"trioncolor" : 						{
+							"expression" : ""
+						}
+,
+						"tricolor" : 						{
 							"expression" : ""
 						}
 ,
@@ -6861,7 +6857,11 @@
 							"expression" : ""
 						}
 ,
-						"tricolor" : 						{
+						"slidercolor" : 						{
+							"expression" : ""
+						}
+,
+						"tribordercolor" : 						{
 							"expression" : ""
 						}
 ,
@@ -6902,15 +6902,11 @@
 					"presentation" : 1,
 					"presentation_rect" : [ 564.583333969116211, 524.666666746139413, 36.0, 284.0 ],
 					"saved_attribute_attributes" : 					{
-						"tribordercolor" : 						{
-							"expression" : ""
-						}
-,
-						"slidercolor" : 						{
-							"expression" : ""
-						}
-,
 						"trioncolor" : 						{
+							"expression" : ""
+						}
+,
+						"tricolor" : 						{
 							"expression" : ""
 						}
 ,
@@ -6918,7 +6914,11 @@
 							"expression" : ""
 						}
 ,
-						"tricolor" : 						{
+						"slidercolor" : 						{
+							"expression" : ""
+						}
+,
+						"tribordercolor" : 						{
 							"expression" : ""
 						}
 ,
@@ -7304,11 +7304,11 @@
 					"presentation" : 1,
 					"presentation_rect" : [ 622.250000476837158, 204.478660235802295, 75.5, 63.25 ],
 					"saved_attribute_attributes" : 					{
-						"activebgoncolor" : 						{
+						"inactivetextoncolor" : 						{
 							"expression" : ""
 						}
 ,
-						"inactivetextoncolor" : 						{
+						"activebgoncolor" : 						{
 							"expression" : ""
 						}
 ,
@@ -9242,14 +9242,14 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-307", 0 ],
-					"source" : [ "obj-101", 1 ]
+					"source" : [ "obj-101", 0 ]
 				}
 
 			}
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-310", 0 ],
-					"source" : [ "obj-101", 0 ]
+					"source" : [ "obj-101", 1 ]
 				}
 
 			}
@@ -10827,105 +10827,105 @@
 ,
 		"dependency_cache" : [ 			{
 				"name" : "cleopatra_negra-acqua.png",
-				"bootpath" : "~/Desktop/velitch/velitch/assets/maxmsp_tools/plugin/corkino/corkino_ps8",
+				"bootpath" : "~/Desktop/velitch/velitch/assets/maxmsp_tools/plugin/corkino/corkino_ps8/internals",
 				"patcherrelativepath" : ".",
 				"type" : "PNG",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "cleopatra_negra.png",
-				"bootpath" : "~/Desktop/velitch/velitch/assets/maxmsp_tools/plugin/corkino/corkino_ps8",
+				"bootpath" : "~/Desktop/velitch/velitch/assets/maxmsp_tools/plugin/corkino/corkino_ps8/internals",
 				"patcherrelativepath" : ".",
 				"type" : "PNG",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "5f9077103a79d.png",
-				"bootpath" : "~/Desktop/velitch/velitch/assets/maxmsp_tools/plugin/corkino/corkino_ps8",
+				"bootpath" : "~/Desktop/velitch/velitch/assets/maxmsp_tools/plugin/corkino/corkino_ps8/internals",
 				"patcherrelativepath" : ".",
 				"type" : "PNG",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "logo.png",
-				"bootpath" : "~/Desktop/velitch/velitch/assets/maxmsp_tools/plugin/corkino/corkino_ps8",
+				"bootpath" : "~/Desktop/velitch/velitch/assets/maxmsp_tools/plugin/corkino/corkino_ps8/internals",
 				"patcherrelativepath" : ".",
 				"type" : "PNG",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "ps8.gendsp",
-				"bootpath" : "~/Desktop/velitch/velitch/assets/maxmsp_tools/plugin/corkino/corkino_ps8",
+				"bootpath" : "~/Desktop/velitch/velitch/assets/maxmsp_tools/plugin/corkino/corkino_ps8/internals",
 				"patcherrelativepath" : ".",
 				"type" : "gDSP",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "GKV_filter_library.genexpr",
-				"bootpath" : "~/Desktop/velitch/velitch/assets/maxmsp_tools/plugin/corkino/corkino_ps8",
-				"patcherrelativepath" : ".",
+				"bootpath" : "~/Desktop/velitch/velitch/assets/maxmsp_tools/plugin/corkino/corkino_psc8/internals",
+				"patcherrelativepath" : "../../corkino_psc8/internals",
 				"type" : "GenX",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "process.maxpat",
-				"bootpath" : "~/Desktop/velitch/velitch/assets/maxmsp_tools/plugin/corkino/corkino_ps8",
+				"bootpath" : "~/Desktop/velitch/velitch/assets/maxmsp_tools/plugin/corkino/corkino_ps8/internals",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "smooth.gendsp",
-				"bootpath" : "~/Desktop/velitch/velitch/assets/maxmsp_tools/plugin/corkino/corkino_ps8",
+				"bootpath" : "~/Desktop/velitch/velitch/assets/maxmsp_tools/plugin/corkino/corkino_ps8/internals",
 				"patcherrelativepath" : ".",
 				"type" : "gDSP",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "freeverb.gendsp",
-				"bootpath" : "~/Desktop/velitch/velitch/assets/maxmsp_tools/plugin/corkino/corkino_ps8",
+				"bootpath" : "~/Desktop/velitch/velitch/assets/maxmsp_tools/plugin/corkino/corkino_ps8/internals",
 				"patcherrelativepath" : ".",
 				"type" : "gDSP",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "GKV_filter_library.genexpr",
-				"bootpath" : "~/Desktop/velitch/velitch/assets/maxmsp_tools/plugin/corkino/corkino_ps8",
+				"bootpath" : "~/Desktop/velitch/velitch/assets/maxmsp_tools/plugin/corkino/corkino_ps8/internals",
 				"patcherrelativepath" : ".",
 				"type" : "GenX",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "GKV_filter_library.genexpr",
-				"bootpath" : "~/Desktop/velitch/velitch/assets/maxmsp_tools/plugin/corkino/corkino_ps8",
+				"bootpath" : "~/Desktop/velitch/velitch/assets/maxmsp_tools/plugin/corkino/corkino_ps8/internals",
 				"patcherrelativepath" : ".",
 				"type" : "GenX",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "GKV_filter_library.genexpr",
-				"bootpath" : "~/Desktop/velitch/velitch/assets/maxmsp_tools/plugin/corkino/corkino_ps8",
+				"bootpath" : "~/Desktop/velitch/velitch/assets/maxmsp_tools/plugin/corkino/corkino_ps8/internals",
 				"patcherrelativepath" : ".",
 				"type" : "GenX",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "GKV_filter_library.genexpr",
-				"bootpath" : "~/Desktop/velitch/velitch/assets/maxmsp_tools/plugin/corkino/corkino_ps8",
+				"bootpath" : "~/Desktop/velitch/velitch/assets/maxmsp_tools/plugin/corkino/corkino_ps8/internals",
 				"patcherrelativepath" : ".",
 				"type" : "GenX",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "svf.gendsp",
-				"bootpath" : "~/Desktop/velitch/velitch/assets/maxmsp_tools/plugin/corkino/corkino_ps8",
+				"bootpath" : "~/Desktop/velitch/velitch/assets/maxmsp_tools/plugin/corkino/corkino_ps8/internals",
 				"patcherrelativepath" : ".",
 				"type" : "gDSP",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "gains.maxpat",
-				"bootpath" : "~/Desktop/velitch/velitch/assets/maxmsp_tools/plugin/corkino/corkino_ps8",
+				"bootpath" : "~/Desktop/velitch/velitch/assets/maxmsp_tools/plugin/corkino/corkino_ps8/internals",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
@@ -10983,7 +10983,13 @@
 , 			{
 				"name" : "jpatcher001",
 				"default" : 				{
+					"accentcolor" : [ 0.0, 0.0, 0.0, 1.0 ],
 					"fontname" : [ "Verdana" ],
+					"elementcolor" : [ 0.37684, 0.398617, 0.461834, 1.0 ],
+					"fontface" : [ 0 ],
+					"color" : [ 0.031373, 0.541176, 0.498039, 1.0 ],
+					"bgcolor" : [ 0.461105, 0.492646, 0.591878, 1.0 ],
+					"selectioncolor" : [ 0.466667, 0.254902, 0.607843, 1.0 ],
 					"bgfillcolor" : 					{
 						"type" : "gradient",
 						"color" : [ 0.290196, 0.309804, 0.301961, 1.0 ],
@@ -10993,13 +10999,7 @@
 						"proportion" : 0.39,
 						"autogradient" : 0
 					}
-,
-					"selectioncolor" : [ 0.466667, 0.254902, 0.607843, 1.0 ],
-					"fontface" : [ 0 ],
-					"accentcolor" : [ 0.0, 0.0, 0.0, 1.0 ],
-					"color" : [ 0.031373, 0.541176, 0.498039, 1.0 ],
-					"bgcolor" : [ 0.461105, 0.492646, 0.591878, 1.0 ],
-					"elementcolor" : [ 0.37684, 0.398617, 0.461834, 1.0 ]
+
 				}
 ,
 				"parentstyle" : "asd",
@@ -11106,8 +11106,8 @@
 				"name" : "tap-dark",
 				"default" : 				{
 					"fontname" : [ "Ableton Sans Light Regular" ],
-					"locked_bgcolor" : [ 0.133333, 0.133333, 0.133333, 1.0 ],
 					"textcolor" : [ 0.847058823529412, 0.847058823529412, 0.847058823529412, 1.0 ],
+					"locked_bgcolor" : [ 0.133333, 0.133333, 0.133333, 1.0 ],
 					"editing_bgcolor" : [ 0.133333, 0.133333, 0.133333, 1.0 ]
 				}
 ,
@@ -11117,6 +11117,11 @@
 , 			{
 				"name" : "vibrato",
 				"default" : 				{
+					"accentcolor" : [ 0.501961, 0.501961, 0.501961, 1.0 ],
+					"patchlinecolor" : [ 0.501960784313725, 0.0, 0.501960784313725, 1.0 ],
+					"color" : [ 0.0, 0.749019607843137, 0.501960784313725, 1.0 ],
+					"bgcolor" : [ 0.0, 0.0, 0.0, 1.0 ],
+					"selectioncolor" : [ 0.929412, 0.929412, 0.352941, 1.0 ],
 					"bgfillcolor" : 					{
 						"type" : "gradient",
 						"color" : [ 0.2, 0.2, 0.2, 1.0 ],
@@ -11126,12 +11131,7 @@
 						"proportion" : 0.5,
 						"autogradient" : 0.0
 					}
-,
-					"selectioncolor" : [ 0.929412, 0.929412, 0.352941, 1.0 ],
-					"accentcolor" : [ 0.501961, 0.501961, 0.501961, 1.0 ],
-					"color" : [ 0.0, 0.749019607843137, 0.501960784313725, 1.0 ],
-					"bgcolor" : [ 0.0, 0.0, 0.0, 1.0 ],
-					"patchlinecolor" : [ 0.501960784313725, 0.0, 0.501960784313725, 1.0 ]
+
 				}
 ,
 				"parentstyle" : "",
