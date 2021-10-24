@@ -14,11 +14,11 @@ comments: true
 
 ## Plugins
 
-#### ps4
+#### ps8
 
-<img src="https://velitch.github.io/velitch/assets/img/diagrams/ps4_m1.png" alt=""/>
+<img src="https://velitch.github.io/velitch/assets/img/diagrams/ps8_m1.png" alt=""/>
 
-<img src="https://velitch.github.io/velitch/assets/img/diagrams/ps4_m2.png" alt=""/>
+<img src="https://velitch.github.io/velitch/assets/img/diagrams/ps8_m2.png" alt=""/>
 
 ______________
 
