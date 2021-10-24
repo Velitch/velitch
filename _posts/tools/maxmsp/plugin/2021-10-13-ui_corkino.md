@@ -12,6 +12,13 @@ comments: true
 
 ![](https://github.com/Velitch/velitch/blob/main/assets/img/img_maxmsp/dsp~%20corkino_ui.png?raw=true){: .mx-auto.d-block :}
 
+## Plugins
+
+#### ps4
+
+![](https://velitch.github.io/velitch/assets/img/diagrams/ps4.png){: .mx-auto.d-block :}
+
+
 
 ______________
 
