@@ -16,11 +16,8 @@ comments: true
 
 #### ps4
 
-![](https://velitch.github.io/velitch/assets/img/diagrams/ps4_m1.png){: .mx-auto.d-block :}
-<img src="https://velitch.github.io/velitch/assets/img/diagrams/comb.png" alt=""/>
+<img src="https://velitch.github.io/velitch/assets/img/diagrams/ps4_m1.png" alt=""/>
 <p style="text-align: center;"><i>Module 1</i></p>
-
-
 
 ______________
 
