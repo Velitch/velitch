@@ -162,13 +162,12 @@
 				"box" : 				{
 					"fontname" : "Helvetica",
 					"id" : "obj-14",
-					"linecount" : 2,
 					"maxclass" : "newobj",
 					"numinlets" : 6,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 294.75, 97.875, 90.0, 37.0 ],
-					"text" : "scale 0. 1023. 0. 100."
+					"patching_rect" : [ 294.75, 97.875, 117.0, 23.0 ],
+					"text" : "scale 0. 1023. 0. 30."
 				}
 
 			}
@@ -805,8 +804,8 @@
 				"name" : "helpfile_label-1",
 				"default" : 				{
 					"fontname" : [ "Arial" ],
-					"textcolor" : [ 0.501961, 0.501961, 0.501961, 1.0 ],
-					"fontsize" : [ 13.0 ]
+					"fontsize" : [ 13.0 ],
+					"textcolor" : [ 0.501961, 0.501961, 0.501961, 1.0 ]
 				}
 ,
 				"parentstyle" : "",
@@ -817,11 +816,11 @@
 				"default" : 				{
 					"accentcolor" : [ 0.0, 0.0, 0.0, 1.0 ],
 					"fontname" : [ "Verdana" ],
+					"bgcolor" : [ 0.461105, 0.492646, 0.591878, 1.0 ],
 					"elementcolor" : [ 0.37684, 0.398617, 0.461834, 1.0 ],
+					"selectioncolor" : [ 0.466667, 0.254902, 0.607843, 1.0 ],
 					"fontface" : [ 0 ],
 					"color" : [ 0.031373, 0.541176, 0.498039, 1.0 ],
-					"bgcolor" : [ 0.461105, 0.492646, 0.591878, 1.0 ],
-					"selectioncolor" : [ 0.466667, 0.254902, 0.607843, 1.0 ],
 					"bgfillcolor" : 					{
 						"type" : "gradient",
 						"color" : [ 0.290196, 0.309804, 0.301961, 1.0 ],
@@ -918,8 +917,8 @@
 , 			{
 				"name" : "rsliderGold",
 				"default" : 				{
-					"color" : [ 0.646639, 0.821777, 0.854593, 1.0 ],
-					"bgcolor" : [ 0.764706, 0.592157, 0.101961, 1.0 ]
+					"bgcolor" : [ 0.764706, 0.592157, 0.101961, 1.0 ],
+					"color" : [ 0.646639, 0.821777, 0.854593, 1.0 ]
 				}
 ,
 				"parentstyle" : "",
@@ -938,9 +937,9 @@
 				"name" : "tap-dark",
 				"default" : 				{
 					"fontname" : [ "Ableton Sans Light Regular" ],
-					"textcolor" : [ 0.847058823529412, 0.847058823529412, 0.847058823529412, 1.0 ],
+					"editing_bgcolor" : [ 0.133333, 0.133333, 0.133333, 1.0 ],
 					"locked_bgcolor" : [ 0.133333, 0.133333, 0.133333, 1.0 ],
-					"editing_bgcolor" : [ 0.133333, 0.133333, 0.133333, 1.0 ]
+					"textcolor" : [ 0.847058823529412, 0.847058823529412, 0.847058823529412, 1.0 ]
 				}
 ,
 				"parentstyle" : "",
@@ -950,10 +949,9 @@
 				"name" : "vibrato",
 				"default" : 				{
 					"accentcolor" : [ 0.501961, 0.501961, 0.501961, 1.0 ],
-					"patchlinecolor" : [ 0.501960784313725, 0.0, 0.501960784313725, 1.0 ],
-					"color" : [ 0.0, 0.749019607843137, 0.501960784313725, 1.0 ],
 					"bgcolor" : [ 0.0, 0.0, 0.0, 1.0 ],
 					"selectioncolor" : [ 0.929412, 0.929412, 0.352941, 1.0 ],
+					"color" : [ 0.0, 0.749019607843137, 0.501960784313725, 1.0 ],
 					"bgfillcolor" : 					{
 						"type" : "gradient",
 						"color" : [ 0.2, 0.2, 0.2, 1.0 ],
@@ -963,7 +961,8 @@
 						"proportion" : 0.5,
 						"autogradient" : 0.0
 					}
-
+,
+					"patchlinecolor" : [ 0.501960784313725, 0.0, 0.501960784313725, 1.0 ]
 				}
 ,
 				"parentstyle" : "",

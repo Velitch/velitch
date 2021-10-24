@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 34.0, 77.0, 1468.0, 713.0 ],
+		"rect" : [ 41.0, 84.0, 1468.0, 713.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 1,
 		"default_fontsize" : 12.0,
@@ -40,6 +40,31 @@
 		"showontab" : 0,
 		"assistshowspatchername" : 0,
 		"boxes" : [ 			{
+				"box" : 				{
+					"format" : 6,
+					"id" : "obj-283",
+					"maxclass" : "flonum",
+					"numinlets" : 1,
+					"numoutlets" : 2,
+					"outlettype" : [ "", "bang" ],
+					"parameter_enable" : 0,
+					"patching_rect" : [ 1857.166525542736053, 190.597272854339167, 50.0, 23.0 ]
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"id" : "obj-278",
+					"maxclass" : "newobj",
+					"numinlets" : 2,
+					"numoutlets" : 1,
+					"outlettype" : [ "signal" ],
+					"patching_rect" : [ 1845.499850869178772, 228.000006794929504, 29.5, 23.0 ],
+					"text" : "*~"
+				}
+
+			}
+, 			{
 				"box" : 				{
 					"fontface" : 1,
 					"fontsize" : 14.0,
@@ -6875,15 +6900,7 @@
 					"presentation" : 1,
 					"presentation_rect" : [ 1798.583333969116211, 513.875001321236255, 36.0, 284.0 ],
 					"saved_attribute_attributes" : 					{
-						"trioncolor" : 						{
-							"expression" : ""
-						}
-,
 						"tricolor" : 						{
-							"expression" : ""
-						}
-,
-						"textcolor" : 						{
 							"expression" : ""
 						}
 ,
@@ -6891,7 +6908,15 @@
 							"expression" : ""
 						}
 ,
+						"trioncolor" : 						{
+							"expression" : ""
+						}
+,
 						"tribordercolor" : 						{
+							"expression" : ""
+						}
+,
+						"textcolor" : 						{
 							"expression" : ""
 						}
 ,
@@ -6932,15 +6957,7 @@
 					"presentation" : 1,
 					"presentation_rect" : [ 652.750000476837158, 524.666666746139413, 36.0, 284.0 ],
 					"saved_attribute_attributes" : 					{
-						"trioncolor" : 						{
-							"expression" : ""
-						}
-,
 						"tricolor" : 						{
-							"expression" : ""
-						}
-,
-						"textcolor" : 						{
 							"expression" : ""
 						}
 ,
@@ -6948,7 +6965,15 @@
 							"expression" : ""
 						}
 ,
+						"trioncolor" : 						{
+							"expression" : ""
+						}
+,
 						"tribordercolor" : 						{
+							"expression" : ""
+						}
+,
+						"textcolor" : 						{
 							"expression" : ""
 						}
 ,
@@ -6989,15 +7014,7 @@
 					"presentation" : 1,
 					"presentation_rect" : [ 564.583333969116211, 524.666666746139413, 36.0, 284.0 ],
 					"saved_attribute_attributes" : 					{
-						"trioncolor" : 						{
-							"expression" : ""
-						}
-,
 						"tricolor" : 						{
-							"expression" : ""
-						}
-,
-						"textcolor" : 						{
 							"expression" : ""
 						}
 ,
@@ -7005,7 +7022,15 @@
 							"expression" : ""
 						}
 ,
+						"trioncolor" : 						{
+							"expression" : ""
+						}
+,
 						"tribordercolor" : 						{
+							"expression" : ""
+						}
+,
+						"textcolor" : 						{
 							"expression" : ""
 						}
 ,
@@ -7311,7 +7336,7 @@
 					"fontname" : "Roboto Black",
 					"fontsize" : 16.0,
 					"id" : "obj-2",
-					"items" : [ "COM_1", ",", "COM_2", ",", "COM_3", ",", "COM_4", ",", "COM_5", ",", "COM_6" ],
+					"items" : [ "COM3", ",", "COM_2", ",", "COM_3", ",", "COM_4", ",", "COM_5", ",", "COM_6" ],
 					"labelclick" : 1,
 					"maxclass" : "umenu",
 					"numinlets" : 1,
@@ -7391,7 +7416,7 @@
 					"presentation" : 1,
 					"presentation_rect" : [ 622.250000476837158, 204.478660235802295, 75.5, 63.25 ],
 					"saved_attribute_attributes" : 					{
-						"inactivetextoncolor" : 						{
+						"textoncolor" : 						{
 							"expression" : ""
 						}
 ,
@@ -7407,11 +7432,11 @@
 							"expression" : ""
 						}
 ,
-						"activebgcolor" : 						{
+						"inactivetextoncolor" : 						{
 							"expression" : ""
 						}
 ,
-						"textoncolor" : 						{
+						"activebgcolor" : 						{
 							"expression" : ""
 						}
 ,
@@ -8580,7 +8605,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"offcolor" : [ 0.07843137254902, 0.094117647058824, 0.435294117647059, 1.0 ],
-					"oncolor" : [ 0.0, 0.38, 0.99, 0.469208211143695 ],
+					"oncolor" : [ 0.0, 0.38, 0.99, 1.0 ],
 					"outlettype" : [ "int" ],
 					"parameter_enable" : 1,
 					"patching_rect" : [ 881.083345055580139, 557.617355763912201, 24.0, 24.0 ],
@@ -8692,7 +8717,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"offcolor" : [ 0.07843137254902, 0.094117647058824, 0.435294117647059, 1.0 ],
-					"oncolor" : [ 0.0, 0.38, 0.99, 0.175953079178886 ],
+					"oncolor" : [ 0.0, 0.38, 0.99, 0.058651026392962 ],
 					"outlettype" : [ "int" ],
 					"parameter_enable" : 1,
 					"patching_rect" : [ 720.33333957195282, 557.617355763912201, 24.0, 24.0 ],
@@ -8728,7 +8753,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"offcolor" : [ 0.07843137254902, 0.094117647058824, 0.435294117647059, 1.0 ],
-					"oncolor" : [ 0.0, 0.38, 0.99, 0.189638318670577 ],
+					"oncolor" : [ 0.0, 0.38, 0.99, 0.218963831867058 ],
 					"outlettype" : [ "int" ],
 					"parameter_enable" : 1,
 					"patching_rect" : [ 642.583341360092163, 557.617355763912201, 24.0, 24.0 ],
@@ -8764,7 +8789,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"offcolor" : [ 0.07843137254902, 0.094117647058824, 0.435294117647059, 1.0 ],
-					"oncolor" : [ 0.0, 0.38, 0.99, 0.161290322580645 ],
+					"oncolor" : [ 0.0, 0.38, 0.99, 0.073313782991202 ],
 					"outlettype" : [ "int" ],
 					"parameter_enable" : 1,
 					"patching_rect" : [ 566.16667652130127, 557.617355763912201, 24.0, 24.0 ],
@@ -8800,7 +8825,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"offcolor" : [ 0.07843137254902, 0.094117647058824, 0.435294117647059, 1.0 ],
-					"oncolor" : [ 0.0, 0.38, 0.99, 0.0 ],
+					"oncolor" : [ 0.0, 0.38, 0.99, 0.058651026392962 ],
 					"outlettype" : [ "int" ],
 					"parameter_enable" : 1,
 					"patching_rect" : [ 491.083345055580139, 557.617355763912201, 24.0, 24.0 ],
@@ -9342,24 +9367,7 @@
 			}
 , 			{
 				"patchline" : 				{
-					"destination" : [ "obj-296", 0 ],
-					"order" : 0,
-					"source" : [ "obj-107", 0 ]
-				}
-
-			}
-, 			{
-				"patchline" : 				{
-					"destination" : [ "obj-297", 0 ],
-					"order" : 1,
-					"source" : [ "obj-107", 0 ]
-				}
-
-			}
-, 			{
-				"patchline" : 				{
-					"destination" : [ "obj-45", 2 ],
-					"order" : 2,
+					"destination" : [ "obj-278", 0 ],
 					"source" : [ "obj-107", 0 ]
 				}
 
@@ -10180,6 +10188,30 @@
 			}
 , 			{
 				"patchline" : 				{
+					"destination" : [ "obj-296", 0 ],
+					"order" : 0,
+					"source" : [ "obj-278", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-297", 0 ],
+					"order" : 1,
+					"source" : [ "obj-278", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-45", 2 ],
+					"order" : 2,
+					"source" : [ "obj-278", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
 					"destination" : [ "obj-10", 0 ],
 					"source" : [ "obj-279", 0 ]
 				}
@@ -10196,6 +10228,13 @@
 				"patchline" : 				{
 					"destination" : [ "obj-287", 0 ],
 					"source" : [ "obj-282", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-278", 1 ],
+					"source" : [ "obj-283", 0 ]
 				}
 
 			}
@@ -10928,84 +10967,84 @@
 ,
 		"dependency_cache" : [ 			{
 				"name" : "cleopatra_negra-acqua.png",
-				"bootpath" : "~/Desktop/velitch/velitch/assets/maxmsp_tools/plugin/corkino/corkino_ps8/internals",
+				"bootpath" : "~/Desktop/velitch/velitch/assets/maxmsp_tools/plugin/corkino/corkino_psc8/internals",
 				"patcherrelativepath" : ".",
 				"type" : "PNG",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "cleopatra_negra.png",
-				"bootpath" : "~/Desktop/velitch/velitch/assets/maxmsp_tools/plugin/corkino/corkino_ps8/internals",
+				"bootpath" : "~/Desktop/velitch/velitch/assets/maxmsp_tools/plugin/corkino/corkino_psc8/internals",
 				"patcherrelativepath" : ".",
 				"type" : "PNG",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "5f9077103a79d.png",
-				"bootpath" : "~/Desktop/velitch/velitch/assets/maxmsp_tools/plugin/corkino/corkino_ps8/internals",
+				"bootpath" : "~/Desktop/velitch/velitch/assets/maxmsp_tools/plugin/corkino/corkino_psc8/internals",
 				"patcherrelativepath" : ".",
 				"type" : "PNG",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "logo.png",
-				"bootpath" : "~/Desktop/velitch/velitch/assets/maxmsp_tools/plugin/corkino/corkino_ps8/internals",
+				"bootpath" : "~/Desktop/velitch/velitch/assets/maxmsp_tools/plugin/corkino/corkino_psc8/internals",
 				"patcherrelativepath" : ".",
 				"type" : "PNG",
 				"implicit" : 1
 			}
 , 			{
-				"name" : "psc8.gendsp",
+				"name" : "ps8.gendsp",
 				"bootpath" : "~/Desktop/velitch/velitch/assets/maxmsp_tools/plugin/corkino/corkino_ps8/internals",
-				"patcherrelativepath" : ".",
+				"patcherrelativepath" : "../../corkino_ps8/internals",
 				"type" : "gDSP",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "GKV_filter_library.genexpr",
-				"bootpath" : "~/Desktop/velitch/velitch/assets/maxmsp_tools/plugin/corkino/corkino_ps8/internals",
+				"bootpath" : "~/Desktop/velitch/velitch/assets/maxmsp_tools/plugin/corkino/corkino_psc8/internals",
 				"patcherrelativepath" : ".",
 				"type" : "GenX",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "process.maxpat",
-				"bootpath" : "~/Desktop/velitch/velitch/assets/maxmsp_tools/plugin/corkino/corkino_ps8/internals",
+				"bootpath" : "~/Desktop/velitch/velitch/assets/maxmsp_tools/plugin/corkino/corkino_psc8/internals",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "smooth.gendsp",
-				"bootpath" : "~/Desktop/velitch/velitch/assets/maxmsp_tools/plugin/corkino/corkino_ps8/internals",
+				"bootpath" : "~/Desktop/velitch/velitch/assets/maxmsp_tools/plugin/corkino/corkino_psc8/internals",
 				"patcherrelativepath" : ".",
 				"type" : "gDSP",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "svf.gendsp",
-				"bootpath" : "~/Desktop/velitch/velitch/assets/maxmsp_tools/plugin/corkino/corkino_ps8/internals",
+				"bootpath" : "~/Desktop/velitch/velitch/assets/maxmsp_tools/plugin/corkino/corkino_psc8/internals",
 				"patcherrelativepath" : ".",
 				"type" : "gDSP",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "gains.maxpat",
-				"bootpath" : "~/Desktop/velitch/velitch/assets/maxmsp_tools/plugin/corkino/corkino_ps8/internals",
+				"bootpath" : "~/Desktop/velitch/velitch/assets/maxmsp_tools/plugin/corkino/corkino_psc8/internals",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "comb.gendsp",
-				"bootpath" : "~/Desktop/velitch/velitch/assets/maxmsp_tools/plugin/corkino/corkino_ps8/internals",
+				"bootpath" : "~/Desktop/velitch/velitch/assets/maxmsp_tools/plugin/corkino/corkino_psc8/internals",
 				"patcherrelativepath" : ".",
 				"type" : "gDSP",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "GKV_Filter_Library.genexpr",
-				"bootpath" : "~/Desktop/velitch/velitch/assets/maxmsp_tools/plugin/corkino/corkino_ps8/internals",
+				"bootpath" : "~/Desktop/velitch/velitch/assets/maxmsp_tools/plugin/corkino/corkino_psc8/internals",
 				"patcherrelativepath" : ".",
 				"type" : "GenX",
 				"implicit" : 1
@@ -11053,8 +11092,8 @@
 				"name" : "helpfile_label-1",
 				"default" : 				{
 					"fontname" : [ "Arial" ],
-					"textcolor" : [ 0.501961, 0.501961, 0.501961, 1.0 ],
-					"fontsize" : [ 13.0 ]
+					"fontsize" : [ 13.0 ],
+					"textcolor" : [ 0.501961, 0.501961, 0.501961, 1.0 ]
 				}
 ,
 				"parentstyle" : "",
@@ -11065,11 +11104,11 @@
 				"default" : 				{
 					"accentcolor" : [ 0.0, 0.0, 0.0, 1.0 ],
 					"fontname" : [ "Verdana" ],
+					"bgcolor" : [ 0.461105, 0.492646, 0.591878, 1.0 ],
 					"elementcolor" : [ 0.37684, 0.398617, 0.461834, 1.0 ],
+					"selectioncolor" : [ 0.466667, 0.254902, 0.607843, 1.0 ],
 					"fontface" : [ 0 ],
 					"color" : [ 0.031373, 0.541176, 0.498039, 1.0 ],
-					"bgcolor" : [ 0.461105, 0.492646, 0.591878, 1.0 ],
-					"selectioncolor" : [ 0.466667, 0.254902, 0.607843, 1.0 ],
 					"bgfillcolor" : 					{
 						"type" : "gradient",
 						"color" : [ 0.290196, 0.309804, 0.301961, 1.0 ],
@@ -11166,8 +11205,8 @@
 , 			{
 				"name" : "rsliderGold",
 				"default" : 				{
-					"color" : [ 0.646639, 0.821777, 0.854593, 1.0 ],
-					"bgcolor" : [ 0.764706, 0.592157, 0.101961, 1.0 ]
+					"bgcolor" : [ 0.764706, 0.592157, 0.101961, 1.0 ],
+					"color" : [ 0.646639, 0.821777, 0.854593, 1.0 ]
 				}
 ,
 				"parentstyle" : "",
@@ -11186,9 +11225,9 @@
 				"name" : "tap-dark",
 				"default" : 				{
 					"fontname" : [ "Ableton Sans Light Regular" ],
-					"textcolor" : [ 0.847058823529412, 0.847058823529412, 0.847058823529412, 1.0 ],
+					"editing_bgcolor" : [ 0.133333, 0.133333, 0.133333, 1.0 ],
 					"locked_bgcolor" : [ 0.133333, 0.133333, 0.133333, 1.0 ],
-					"editing_bgcolor" : [ 0.133333, 0.133333, 0.133333, 1.0 ]
+					"textcolor" : [ 0.847058823529412, 0.847058823529412, 0.847058823529412, 1.0 ]
 				}
 ,
 				"parentstyle" : "",
@@ -11198,10 +11237,9 @@
 				"name" : "vibrato",
 				"default" : 				{
 					"accentcolor" : [ 0.501961, 0.501961, 0.501961, 1.0 ],
-					"patchlinecolor" : [ 0.501960784313725, 0.0, 0.501960784313725, 1.0 ],
-					"color" : [ 0.0, 0.749019607843137, 0.501960784313725, 1.0 ],
 					"bgcolor" : [ 0.0, 0.0, 0.0, 1.0 ],
 					"selectioncolor" : [ 0.929412, 0.929412, 0.352941, 1.0 ],
+					"color" : [ 0.0, 0.749019607843137, 0.501960784313725, 1.0 ],
 					"bgfillcolor" : 					{
 						"type" : "gradient",
 						"color" : [ 0.2, 0.2, 0.2, 1.0 ],
@@ -11211,7 +11249,8 @@
 						"proportion" : 0.5,
 						"autogradient" : 0.0
 					}
-
+,
+					"patchlinecolor" : [ 0.501960784313725, 0.0, 0.501960784313725, 1.0 ]
 				}
 ,
 				"parentstyle" : "",
