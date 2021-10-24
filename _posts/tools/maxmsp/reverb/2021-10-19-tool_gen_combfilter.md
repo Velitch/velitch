@@ -14,7 +14,11 @@ Comb filters exist in two forms, [Infinite Impulse Response](https://velitch.git
 <img src="https://velitch.github.io/velitch/assets/img/diagrams/comb.png" alt=""/>
 <p style="text-align: center;"><i>Feedback Comb Filter</i></p>
 
+A difference equation describing the feedback comb filter can be written in "direct form 1":
+
 ![](https://velitch.github.io/velitch/assets/img/diagrams/formula_comb.png){: .mx-auto.d-block :}
+
+The feedback comb filter is a special case of an Infinite Impulse Response (IIR) ("recursive") digital filter, since there is feedback from the delayed output to the input.
 
 ______________
 
