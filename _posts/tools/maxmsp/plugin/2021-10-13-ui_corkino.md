@@ -20,6 +20,12 @@ comments: true
 
 <img src="https://velitch.github.io/velitch/assets/img/diagrams/ps8_m2.png" alt=""/>
 
+
+<audio controls>
+  <source src="https://velitch.github.io/velitch/assets/audio/20211024_pc8_didgeridoo.wav" type="audio/wav">
+Your browser does not support the audio element.
+</audio>
+
 ______________
 
 **DOWNLOADS**
