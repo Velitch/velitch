@@ -17,10 +17,8 @@ comments: true
 #### ps4
 
 <img src="https://velitch.github.io/velitch/assets/img/diagrams/ps4_m1.png" alt=""/>
-<p style="text-align: center;"><i>Module 1</i></p>
 
 <img src="https://velitch.github.io/velitch/assets/img/diagrams/ps4_m2.png" alt=""/>
-<p style="text-align: center;"><i>Module 2</i></p>
 
 ______________
 
