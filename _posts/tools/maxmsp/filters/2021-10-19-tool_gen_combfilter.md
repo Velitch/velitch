@@ -32,4 +32,4 @@ ______________
 
 **DOWNLOADS**
 
-- <a href="https://velitch.github.io/velitch/assets/maxmsp_tools/reverb/combfilter.zip">**gen~ combfilter.maxpat** (5KB)<a/>
+- <a href="https://velitch.github.io/velitch/assets/maxmsp_tools/filter/combfilter.zip">**gen~ combfilter.maxpat** (5KB)<a/>

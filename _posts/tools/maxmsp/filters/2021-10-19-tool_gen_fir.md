@@ -29,4 +29,4 @@ where _K_ is the delay length (measured in samples), and α is a scaling factor 
 
 **DOWNLOADS**
 
-- <a href="https://velitch.github.io/velitch/assets/maxmsp_tools/reverb/comb_fir.zip">**gen~ comb_fir** (4KB)<a/>
+- <a href="https://velitch.github.io/velitch/assets/maxmsp_tools/filters/comb_fir.zip">**gen~ comb_fir** (4KB)<a/>

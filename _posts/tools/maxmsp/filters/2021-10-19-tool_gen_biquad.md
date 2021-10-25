@@ -18,4 +18,4 @@ comments: true
 
 **DOWNLOADS**
 
-- <a href="https://velitch.github.io/velitch/assets/maxmsp_tools/reverb/biquad.zip">**gen~ biquad.maxpat** (5KB)<a/>
+- <a href="https://velitch.github.io/velitch/assets/maxmsp_tools/filters/biquad.zip">**gen~ biquad.maxpat** (5KB)<a/>

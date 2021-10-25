@@ -16,4 +16,4 @@ This patch shows the comparison between [Infinite Impulse Response](https://veli
 
 **DOWNLOADS**
 
-- <a href="https://velitch.github.io/velitch/assets/maxmsp_tools/reverb/comb_iir_vs_fir">**gen~ IIR vs FIR** (4KB)<a/>
+- <a href="https://velitch.github.io/velitch/assets/maxmsp_tools/filters/comb_iir_vs_fir">**gen~ IIR vs FIR** (4KB)<a/>

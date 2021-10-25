@@ -22,4 +22,4 @@ It is well known that the series combination of a feedforward and feedback [comb
 
 **DOWNLOADS**
 
-- <a href="https://velitch.github.io/velitch/assets/maxmsp_tools/filters/allpass.zip">**gen~ allpass.maxpat** (8KB)<a/>
+- <a href="https://velitch.github.io/velitch/assets/maxmsp_tools/filters/allpass.zip">**gen~ allpass.maxpat** (2KB)<a/>

@@ -28,4 +28,4 @@ General structure of a feedback comb filter is described by the difference equat
 
 **DOWNLOADS**
 
-- <a href="https://velitch.github.io/velitch/assets/maxmsp_tools/reverb/comb_iir">**gen~ comb_iir** (7KB)<a/>
+- <a href="https://velitch.github.io/velitch/assets/maxmsp_tools/filters/comb_iir">**gen~ comb_iir** (7KB)<a/>

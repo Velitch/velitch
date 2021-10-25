@@ -16,4 +16,4 @@ comments: true
 
 **DOWNLOADS**
 
-- <a href="https://velitch.github.io/velitch/assets/maxmsp_tools/reverb/svf.zip">**gen~ svf.maxpat** (5KB)<a/>
+- <a href="https://velitch.github.io/velitch/assets/maxmsp_tools/filters/svf.zip">**gen~ svf.maxpat** (5KB)<a/>

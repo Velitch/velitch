@@ -21,4 +21,4 @@ comments: true
 
 **DOWNLOADS**
 
-- <a href="https://velitch.github.io/velitch/assets/maxmsp_tools/reverb/onepole.zip">**gen~ onepole.maxpat** (4KB)<a/>
+- <a href="https://velitch.github.io/velitch/assets/maxmsp_tools/filters/onepole.zip">**gen~ onepole.maxpat** (4KB)<a/>
