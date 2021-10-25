@@ -296,5 +296,4 @@ delay_4.write(allpass3 + all2);
 ```
 
 **DOWNLOADS**
-
-  - [filter_library.genexpr](https://github.com/Velitch/BN_Musica_Elettronica/tree/main/IBN/COME-05-informatica-musicale-IBN/Filtri_gen/libraries)
+- <a href="https://velitch.github.io/velitch/assets/maxmsp_tools/filters/GKV_filter_library.genexpr">**filter_library.genexpr** (8KB)<a/>
