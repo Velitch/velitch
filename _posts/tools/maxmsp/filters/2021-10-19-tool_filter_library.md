@@ -296,4 +296,4 @@ delay_4.write(allpass3 + all2);
 ```
 
 **DOWNLOADS**
-- <a href="https://velitch.github.io/velitch/assets/maxmsp_tools/filters/GKV_filter_library.genexpr">**filter_library.genexpr** (8KB)<a/>
+- <a href="https://velitch.github.io/velitch/assets/maxmsp_tools/filters/GKV_filter_library.genexpr">**filter_library.genexpr** (7KB)<a/>
