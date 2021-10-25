@@ -14,19 +14,19 @@ comments: true
 
 ## Plugins Diagrams
 
-#### ps8
+#### PS8
 
 <img src="https://velitch.github.io/velitch/assets/img/diagrams/ps8_m1.png" alt=""/>
 
 <img src="https://velitch.github.io/velitch/assets/img/diagrams/ps8_m2.png" alt=""/>
 
-#### psc8
+#### PSC8
 
 <img src="https://velitch.github.io/velitch/assets/img/diagrams/psc8_m1.png" alt=""/>
 
 <img src="https://velitch.github.io/velitch/assets/img/diagrams/psc8_m2.png" alt=""/>
 
-
+#### How does PSC8 sounds?
 
 <div style="margin: 0 auto; display: table;">
 <audio controls controlsList="nodownload noplaybackrate">
@@ -34,7 +34,6 @@ comments: true
 Your browser does not support the audio element.
    </audio>
 </div>
-
 
 ______________
 
