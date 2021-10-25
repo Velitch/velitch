@@ -12,7 +12,7 @@ comments: true
 
 ![](https://github.com/Velitch/velitch/blob/main/assets/img/img_maxmsp/dsp~%20corkino_ui.png?raw=true){: .mx-auto.d-block :}
 
-## Plugins
+## Plugins Diagrams
 
 #### ps8
 
@@ -25,6 +25,7 @@ comments: true
 <img src="https://velitch.github.io/velitch/assets/img/diagrams/psc8_m1.png" alt=""/>
 
 <img src="https://velitch.github.io/velitch/assets/img/diagrams/psc8_m2.png" alt=""/>
+
 
 
 <div style="margin: 0 auto; display: table;">
