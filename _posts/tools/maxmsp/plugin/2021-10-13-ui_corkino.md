@@ -20,6 +20,11 @@ comments: true
 
 <img src="https://velitch.github.io/velitch/assets/img/diagrams/ps8_m2.png" alt=""/>
 
+#### psc8
+
+<img src="https://velitch.github.io/velitch/assets/img/diagrams/psc8_m1.png" alt=""/>
+
+<img src="https://velitch.github.io/velitch/assets/img/diagrams/psc8_m2.png" alt=""/>
 
 
 <div style="margin: 0 auto; display: table;">
