@@ -78,7 +78,7 @@
 			}
 , 			{
 				"box" : 				{
-					"code" : "require \"GKV_Filter_Library\"; \r\n\r\n//////fbcomb_lp_T60 (Xn, ms, T60, freqcut, gain)\r\nc1 = fbcomb_lp_T60 (in1, 131., in2, 4000., in3);\r\n\r\nc2 = fbcomb_lp_T60 (in1, 171., in2, 4000., in3);\r\n\r\nc3 = fbcomb_lp_T60 (in1, 191., in2, 4000., in3);\r\n\r\nc4 = fbcomb_lp_T60 (in1, 231., in2, 4000., in3);\r\n\r\nc5 = fbcomb_lp_T60 (in1, 291., in2, 4000., in3);\r\n\r\nc6 = fbcomb_lp_T60 (in1, 311., in2, 4000., in3);\r\n\r\nc7 = fbcomb_lp_T60 (in1, 371., in2, 4000., in3);\r\n\r\nc8 = fbcomb_lp_T60 (in1, 411., in2, 4000., in3);\r\n\r\nc9 = fbcomb_lp_T60 (in1, 431., in2, 4000., in3);\r\n\r\nc10 = fbcomb_lp_T60 (in1, 147., in2, 4000., in3);\r\n\r\nc11 = fbcomb_lp_T60 (in1, 153., in2, 4000., in3);\r\n\r\nc12 = fbcomb_lp_T60 (in1, 159., in2, 4000., in3);\r\n\r\nc13 = fbcomb_lp_T60 (in1, 161., in2, 4000., in3);\r\n\r\nc14 = fbcomb_lp_T60 (in1, 167., in2, 4000., in3);\r\n\r\nc15 = fbcomb_lp_T60 (in1, 171., in2, 4000., in3);\r\n\r\nc16 = fbcomb_lp_T60 (in1, 173., in2, 4000., in3);\r\n\r\nc17 = fbcomb_lp_T60 (in1, 179., in2, 4000., in3);\r\n\r\nc18 = fbcomb_lp_T60 (in1, 183., in2, 4000., in3);\r\n\r\nc19 = fbcomb_lp_T60 (in1, 189., in2, 4000., in3);\r\n\r\nc20 = fbcomb_lp_T60 (in1, 197., in2, 4000., in3);\r\n\r\n\r\n\r\ncoutL1 = (c1*0.3)+(c2*0.75)+(c3*0.55)+(c4*0.4)+(c5*0.4)+(c6*0.5)+(c7*0.45)+(c8*0.52)+(c9*0.59)+(c10*0.82);\r\ncoutR1 = (c1*0.7)+(c2*0.25)+(c3*0.45)+(c4*0.6)+(c5*0.6)+(c6*0.5)+(c7*0.55)+(c8*0.48)+(c9*0.41)+(c10*0.18);\r\n\r\n\r\ncoutL2 = ((c11*0.3)+(c12*0.75)+(c13*0.55)+(c14*0.4)+(c15*0.4)+(c16*0.5)+(c17*0.45)+(c18*0.52)+(c19*0.59)+(c20*0.82)/20.);\r\ncoutR2 = ((c11*0.7)+(c12*0.25)+(c13*0.45)+(c14*0.6)+(c15*0.6)+(c16*0.5)+(c17*0.55)+(c18*0.48)+(c19*0.41)+(c20*0.18)/20.);\r\n\r\n\r\nout1 = coutL1+coutL2;\r\n\r\nout2 = coutR1+coutR2;",
+					"code" : "require \"GKV_Filter_Library\"; \r\n\r\n//////fbcomb_lp_T60 (Xn, ms, T60, freqcut, gain)\r\nc1 = fbcomb_lp_T60 (in1, 131., in2, 8000., in3);\r\n\r\nc2 = fbcomb_lp_T60 (in1, 171., in2, 8000., in3);\r\n\r\nc3 = fbcomb_lp_T60 (in1, 191., in2, 8000., in3);\r\n\r\nc4 = fbcomb_lp_T60 (in1, 231., in2, 8000., in3);\r\n\r\nc5 = fbcomb_lp_T60 (in1, 291., in2, 8000., in3);\r\n\r\nc6 = fbcomb_lp_T60 (in1, 311., in2, 8000., in3);\r\n\r\nc7 = fbcomb_lp_T60 (in1, 371., in2, 8000., in3);\r\n\r\nc8 = fbcomb_lp_T60 (in1, 411., in2, 8000., in3);\r\n\r\nc9 = fbcomb_lp_T60 (in1, 431., in2, 8000., in3);\r\n\r\nc10 = fbcomb_lp_T60 (in1, 147., in2, 8000., in3);\r\n\r\nc11 = fbcomb_lp_T60 (in1, 153., in2, 8000., in3);\r\n\r\nc12 = fbcomb_lp_T60 (in1, 159., in2, 8000., in3);\r\n\r\nc13 = fbcomb_lp_T60 (in1, 161., in2, 8000., in3);\r\n\r\nc14 = fbcomb_lp_T60 (in1, 167., in2, 8000., in3);\r\n\r\nc15 = fbcomb_lp_T60 (in1, 171., in2, 8000., in3);\r\n\r\nc16 = fbcomb_lp_T60 (in1, 173., in2, 8000., in3);\r\n\r\nc17 = fbcomb_lp_T60 (in1, 179., in2, 8000., in3);\r\n\r\nc18 = fbcomb_lp_T60 (in1, 183., in2, 8000., in3);\r\n\r\nc19 = fbcomb_lp_T60 (in1, 189., in2, 8000., in3);\r\n\r\nc20 = fbcomb_lp_T60 (in1, 197., in2, 8000., in3);\r\n\r\n\r\n\r\ncoutL1 = (c1*0.3)+(c2*0.75)+(c3*0.55)+(c4*0.4)+(c5*0.4)+(c6*0.5)+(c7*0.45)+(c8*0.52)+(c9*0.59)+(c10*0.82);\r\ncoutR1 = (c1*0.7)+(c2*0.25)+(c3*0.45)+(c4*0.6)+(c5*0.6)+(c6*0.5)+(c7*0.55)+(c8*0.48)+(c9*0.41)+(c10*0.18);\r\n\r\n\r\ncoutL2 = ((c11*0.3)+(c12*0.75)+(c13*0.55)+(c14*0.4)+(c15*0.4)+(c16*0.5)+(c17*0.45)+(c18*0.52)+(c19*0.59)+(c20*0.82)/20.);\r\ncoutR2 = ((c11*0.7)+(c12*0.25)+(c13*0.45)+(c14*0.6)+(c15*0.6)+(c16*0.5)+(c17*0.55)+(c18*0.48)+(c19*0.41)+(c20*0.18)/20.);\r\n\r\n\r\nout1 = coutL1+coutL2;\r\n\r\nout2 = coutR1+coutR2;",
 					"fontface" : 0,
 					"fontname" : "<Monospaced>",
 					"fontsize" : 10.0,
@@ -153,7 +153,6 @@
 
 			}
  ],
-		"autosave" : 0,
 		"styles" : [ 			{
 				"name" : "AudioStatus_Menu",
 				"default" : 				{
@@ -220,8 +219,8 @@
 , 			{
 				"name" : "newobjYellow-1",
 				"default" : 				{
-					"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ],
-					"fontsize" : [ 12.059008 ]
+					"fontsize" : [ 12.059008 ],
+					"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ]
 				}
 ,
 				"parentstyle" : "",
@@ -239,8 +238,8 @@
 , 			{
 				"name" : "rsliderGold",
 				"default" : 				{
-					"color" : [ 0.646639, 0.821777, 0.854593, 1.0 ],
-					"bgcolor" : [ 0.764706, 0.592157, 0.101961, 1.0 ]
+					"bgcolor" : [ 0.764706, 0.592157, 0.101961, 1.0 ],
+					"color" : [ 0.646639, 0.821777, 0.854593, 1.0 ]
 				}
 ,
 				"parentstyle" : "",
