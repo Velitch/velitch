@@ -29,15 +29,14 @@ comments: true
 #### How does PSC8 sounds?
 
 ```
-
 date: 2021/10/24
 title: xxx
 author: Gabriela Krassimirova Velitchova
 performer: Lorenzo Giorgio
 exciter: didgeridoo
 resonator: PSC8
-
 ```
+
 
 <audio controls controlsList="nodownload noplaybackrate">
   <source src="https://velitch.github.io/velitch/assets/audio/20211024_pc8_didgeridoo.mp3" type="audio/mp3">
