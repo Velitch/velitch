@@ -13,7 +13,7 @@ Ci viene dunque facile citare il concetto di pregiudizio di Hans-Georg Gadamer. 
 Chiariamo ancora meglio cos'è un pregiudizio attraverso degli esempi:
 
 
-Esempio informatico:
+**Esempio informatico:**
 
 
 Quando scriviamo un programma in C non stiamo a scrivere il codice interno ai file h, in quanto sarebbe inutile, ma facciamo delle include,(= includiamo nel nostro programma delle librerie che sono standard del linguaggio). Queste librerie possiamo paragonarle al pregiudizio filosofico, inteso come una serie di cose che noi diamo per scontate. Le diamo per assodate anche se non abbiamo fatto esperienza diretta.
@@ -22,7 +22,7 @@ Quando scriviamo un programma in C non stiamo a scrivere il codice interno ai fi
 Se dobbiamo scrivere con una libreria che si occupa di MIDI e abbiamo un oggetto che ha come metodo set-note, non ci stiamo a preoccupare di come faccia il codice a leggere quel dato, ma ci accontentiamo dell'esistenza di questa funzione. Se vogliamo, è il principio dell'incapsulamento. Possiamo dire la stessa cosa del pregiudizio gadameriano, del pregiudizio scientifico, cioè una serie di dati incapsulati nelle nostre nozioni che diamo per scontati e li adoperiamo per andare avanti.
 
 
-Esempio musicale:
+**Esempio musicale:**
 
 
 Quasi tutti noi all'inizio della nostra esperienza musicale diamo per scontato che la musica sia quella tonale. È una specie di libreria nascosta dentro di noi che ci dice che la musica o è tonale o è qualcosa che non si capisce e che non possiamo chiamare musica. Tutti noi abbiamo avuto una fase nel nostro pensiero, se pur breve e in giovanissima età, qualcuno di noi forse ce l'ha ancora questa idea, ma comunque quello che ci interessa è capire che la tonalità é un elemento che può essere considerato un pregiudizio, cioè un assunto di base, che ci permette però di muoverci verso altri orizzonti.
@@ -31,5 +31,5 @@ Quasi tutti noi all'inizio della nostra esperienza musicale diamo per scontato c
 <p style="text-align:center">
 <a href="https://velitch.github.io/velitch/2021-11-02-01_01_il_paradigma/">< Previous </a>
 |
-<a href="https://velitch.github.io/velitch/pages/Projects/">Next ></a>
+<a href="https://velitch.github.io/velitch/2021-11-02-01_03_da_cosa_è_costituito_un_paradigma/">Next ></a>
 </p>
