@@ -41,4 +41,4 @@ subtitle: Tools
 - [**corkino**](https://velitch.github.io/velitch/2021-10-13-ui_corkino/)
 <!--- [**I'm Sitting in a Room**]()-->
 
-- [**acustica**](https://velitch.github.io/velitch/2021-11-02-acustica/)
+- [**Interazione acustica negli spazi e i meccanismi di percezione**](https://velitch.github.io/velitch/2021-11-02-acustica/)
