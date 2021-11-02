@@ -31,5 +31,5 @@ Quasi tutti noi all'inizio della nostra esperienza musicale diamo per scontato c
 <h3 style="text-align:center">
 <a href="https://velitch.github.io/velitch/2021-11-02-01_00_il_paradigma/">< Previous </a>
 |
-<a href="https://velitch.github.io/velitch/2021-11-02-01_03_da_cosa_è_costituito_un_paradigma/">Next ></a>
+<a href="https://velitch.github.io/velitch/2021-11-02-03_00_da_cosa_è_costituito_un_paradigma/">Next ></a>
 </h3>
