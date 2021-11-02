@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Il Concetto di Pregiudizio
+title: 3. Da Cosa è Costituito un Paradigma
 subtitle:
 tags: []
 comments: true
