@@ -6,7 +6,7 @@ tags: []
 comments: true
 ---
 
-![](https://velitch.github.io/velitch/assets/img/learn/il_paradigma_di_stockhausen/fig11.png){: .mx-auto.d-block :}
+![](https://velitch.github.io/velitch/assets/img/learn/il_paradigma_di_stockhausen/fig10.png){: .mx-auto.d-block :}
 
 Essi sono:
     • serialismo
