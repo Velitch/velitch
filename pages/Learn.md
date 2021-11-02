@@ -24,3 +24,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 - Interazione acustica negli spazi e meccanismi di percezione (ITA)
   - [**Come si affronta lo studio degli ambienti musicali?**](https://velitch.github.io/velitch/2021-11-02-acustica/)
+
+### History of Music
+
+  - Il Paradigma di Stockhausen (ITA)
+    - [**Come si affronta lo studio degli ambienti musicali?**](https://velitch.github.io/velitch/2021-11-02-01_01_intro/)
