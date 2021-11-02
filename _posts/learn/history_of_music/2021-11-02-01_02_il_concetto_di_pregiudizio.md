@@ -9,7 +9,7 @@ comments: true
 
 
 <p style="text-align:center">
-<a href="https://velitch.github.io/velitch/pages/Projects/">< Previous </a>
+<a href="https://velitch.github.io/velitch/2021-11-02-01_01_il_paradigma/">< Previous </a>
 |
 <a href="https://velitch.github.io/velitch/pages/Projects/">Next ></a>
 </p>
