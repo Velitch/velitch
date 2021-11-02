@@ -1,10 +1,17 @@
 ---
 layout: post
-title: Il Concetto di Pregiudizio
+title: 6. Generalizzazioni Principi Costruttivi
 subtitle:
 tags: []
 comments: true
 ---
+
+![](https://velitch.github.io/velitch/assets/img/learn/il_paradigma_di_stockhausen/fig13.png){: .mx-auto.d-block :}
+
+
+    1. serializzazione
+    2. genesi della forma
+    3. proiezione della formula
 
 
 <h3 style="text-align:center">

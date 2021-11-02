@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 5.4. Materali di Base di Stockhausen
+title: 5.4. Materiali di Base di Stockhausen
 subtitle:
 tags: []
 comments: true
