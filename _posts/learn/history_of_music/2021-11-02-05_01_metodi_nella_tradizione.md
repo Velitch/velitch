@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Il Concetto di Pregiudizio
+title: 5.1. Metodi nella Tradizione
 subtitle:
 tags: []
 comments: true

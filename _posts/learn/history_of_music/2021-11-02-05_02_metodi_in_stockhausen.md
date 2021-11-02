@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Il Concetto di Pregiudizio
+title: 5.2. Metodi in Stockhausen
 subtitle:
 tags: []
 comments: true

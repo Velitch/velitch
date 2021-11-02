@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Il Concetto di Pregiudizio
+title: 5.3. Principi operativi di Stockhausen
 subtitle:
 tags: []
 comments: true
