@@ -5,33 +5,21 @@ subtitle:
 tags: []
 comments: true
 ---
+Ricordiamoci che Stockhausen è fondamentalmente un mistico, parla di "respiro di Dio". La vibrazione è qualcosa che può essere:
 
-![](https://velitch.github.io/velitch/assets/img/learn/il_paradigma_di_stockhausen/fig2.png){: .mx-auto.d-block :}
-<p style="text-align:center"><i>fig.2</i></p>
+- **Periodica**: espressa in termini di frequenza e ampiezza.
 
+- **Aperiodica**: espressa in termini di probabilità.
 
-La _fig.2_ vuole rappresentare il rapporto di inclusione che hanno fra loro questi elementi.
+Tutto questo ha a che vedere con la teoria dei punti e dei gruppi e soprattutto nel modo di trattarli, perché a seconda che ci si riferisca a un ambito concettuale determinabile e quindi che fa parte di quest'area dell'onda periodica, oppure che ci si riferisca a un ambito non determinabile ma probabile, quindi sostanzialmente statistica contro determinismo, ci sono due modi di operare completamente diversi e a volte antagonisti, a volte integrati nel modo di trattare appunto i punti e i gruppi.
 
+La scala di questa vibrazione è variabile, nel senso che ciò che vibra può essere l'intero universo oppure una particella subatomica. Quello che è importante è che se tutto vibra e la qualità della vibrazione è unica questo significa che il macrocosmo può essere riprodotto dal microcosmo, oppure il microcosmo può riflettersi nel macrocosmo a scale differenti sulla base dell'esistenza di proporzioni. Se in sé le grandezze possono essere diverse, le proporzioni possono essere identiche. Questo permette di estendere le proporzioni a scale e parametri diversi.
 
-**Valori:** elementi fondativi, le fondamenta ultime delle nostre conoscenze.
+Questo significa che se io opero seguendo una certa proporzione a livello di microforma, se seguo la stessa proporzione a livello della macroforma è una cosa che ha senso, permettendo al micro ambito di riflettersi nel macro. Questo principio sta alla base dell'idea di Stockhausen. Questo gli permette di applicare la stessa serie a parametriche e scelte che sono su scale diverse.
 
-![](https://velitch.github.io/velitch/assets/img/learn/il_paradigma_di_stockhausen/fig3_1.png){: .mx-auto.d-block :}
+Tutto questo presuppone che le proporzioni siano riconoscibili e che abbiano un'identità che si offre alla percezione e che sia riconoscibile a tutti i livelli. Si tratta di una condizione ideale di quella che Stockhausen chiama percezione estesa.
 
-**Modelli:** metafore o rappresentazioni, immagini che ci servono a rendere l'idea della nostra ricerca.
-
-![](https://velitch.github.io/velitch/assets/img/learn/il_paradigma_di_stockhausen/fig3_2.png){: .mx-auto.d-block :}
-
-**Esemplari:** casi specifici in cui determinate teorie scientifiche possono essere esemplificate.
-Vediamo ora come tutto questo si può tradurre in un paradigma musicale.
-
-![](https://velitch.github.io/velitch/assets/img/learn/il_paradigma_di_stockhausen/fig4.png){: .mx-auto.d-block :}
-
-**Generalizzazioni:** punti di arrivo della ricerca che vengono dati per buoni e resi come elementi generali.
-
-![](https://velitch.github.io/velitch/assets/img/learn/il_paradigma_di_stockhausen/fig4_2.png){: .mx-auto.d-block :}s
-
-![](https://velitch.github.io/velitch/assets/img/learn/il_paradigma_di_stockhausen/fig5.png){: .mx-auto.d-block :}
-
+Questa scalabilità di proporzioni fa si che l'esistenza di uno spesso principio a livelli diversi conferisca alla composizione un'unità, una coerenza e per questo si parla di livelli strutturali unificati. I livelli della scrittura strutturale devo essere legati tra sé da una qualche forma di DNA numerico proporzionale quantitativo che li renda coerenti gli uni con gli altri.
 
 
 <h3 style="text-align:center">
