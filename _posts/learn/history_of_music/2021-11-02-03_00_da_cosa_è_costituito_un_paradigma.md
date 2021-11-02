@@ -35,7 +35,7 @@ Vediamo ora come tutto questo si può tradurre in un paradigma musicale.
 
 
 <h3 style="text-align:center">
-<a href="https://velitch.github.io/velitch/2021-11-02-01_01_il_paradigma/">< Previous </a>
+<a href="https://velitch.github.io/velitch/2021-11-02-02_00_il_concetto_di_pregiudizio/">< Previous </a>
 |
-<a href="https://velitch.github.io/velitch/pages/Projects/">Next ></a>
+<a href="https://velitch.github.io/velitch/2021-11-02-03_01_esemplari/">Next ></a>
 </h3>
