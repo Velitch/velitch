@@ -138,13 +138,13 @@ mobile-theme-col: "#1E1E30"
 #gtag: ""
 
 # Fill in your Google Analytics ID to track your website using Google Analytics
-#google_analytics: ""
+google_analytics: "UA-181003109-1"
 
 # Fill in your Cloudflare Analytics beacon token to track your website using Cloudflare Analytics
 #cloudflare_analytics: ""
 
 # Google Tag Manager ID
-#gtm: ""
+gtm: "GTM-W9GZSVS"
 
 # Matomo (aka Piwik) Web statistics
 # Uncomment the following section to enable Matomo. The opt-out parameter controls
