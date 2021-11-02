@@ -8,8 +8,8 @@ comments: true
 
 
 
-<p style="text-align:right">
-<a href="https://velitch.github.io/velitch/pages/Projects/">Previous ></a>
+<p style="text-align:center">
+<a href="https://velitch.github.io/velitch/pages/Projects/">< Previous </a>
 |
 <a href="https://velitch.github.io/velitch/pages/Projects/">Next ></a>
 </p>
