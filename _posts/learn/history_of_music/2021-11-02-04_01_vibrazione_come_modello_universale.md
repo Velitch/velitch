@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Il Concetto di Pregiudizio
+title: 4.1. Vibrazione come Modello Universale
 subtitle:
 tags: []
 comments: true
