@@ -24,6 +24,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 [<img src="https://velitch.github.io/velitch/assets/img/learn/acustica_percezione/acustica_percezione.png" align="right" />](https://velitch.github.io/velitch/pages/learn/acoustics/interazione_acustica_negli_spazi_e_meccanismi_di_percezione/)
 
+___________
+&nbsp;
+
 ### History of Music
 
 [<img src="https://velitch.github.io/velitch/assets/img/learn/il_paradigma_di_stockhausen/il_paradigm_di_stockhausen.png" align="right" />](https://velitch.github.io/velitch/pages/learn/history_of_music/il_paradigma_di_stockhausen/)
