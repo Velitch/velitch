@@ -22,7 +22,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 ### Acoustics
 
-[<img src="https://velitch.github.io/velitch/assets/img/learn/acustica_percezione/acustica_percezione.png" align="right" />](https://velitch.github.io/velitch/pages/learn/acustica_percezione/acustica_percezione/)
+[<img src="https://velitch.github.io/velitch/assets/img/learn/acustica_percezione/acustica_percezione.png" align="right" />](https://velitch.github.io/velitch/pages/learn/acoustics/interazione_acustica_negli_spazi_e_meccanismi_di_percezione/)
 
 ### History of Music
 
