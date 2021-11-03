@@ -21,14 +21,14 @@ La _fig.2_ vuole rappresentare il rapporto di inclusione che hanno fra loro ques
 
 ![](https://velitch.github.io/velitch/assets/img/learn/il_paradigma_di_stockhausen/fig3_2.png){: .mx-auto.d-block :}
 
-**Esemplari:** casi specifici in cui determinate teorie scientifiche possono essere esemplificate.
-Vediamo ora come tutto questo si può tradurre in un paradigma musicale.
+**Generalizzazioni:** punti di arrivo della ricerca che vengono dati per buoni e resi come elementi generali.
 
 ![](https://velitch.github.io/velitch/assets/img/learn/il_paradigma_di_stockhausen/fig4.png){: .mx-auto.d-block :}
 
-**Generalizzazioni:** punti di arrivo della ricerca che vengono dati per buoni e resi come elementi generali.
+**Esemplari:** casi specifici in cui determinate teorie scientifiche possono essere esemplificate.
+Vediamo ora come tutto questo si può tradurre in un paradigma musicale.
 
-![](https://velitch.github.io/velitch/assets/img/learn/il_paradigma_di_stockhausen/fig4_2.png){: .mx-auto.d-block :}s
+![](https://velitch.github.io/velitch/assets/img/learn/il_paradigma_di_stockhausen/fig4_2.png){: .mx-auto.d-block :}
 
 ![](https://velitch.github.io/velitch/assets/img/learn/il_paradigma_di_stockhausen/fig5.png){: .mx-auto.d-block :}
 
