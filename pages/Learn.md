@@ -22,8 +22,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 ### Acoustics
 
-- Interazione acustica negli spazi e meccanismi di percezione (ITA)
-  - [**Come si affronta lo studio degli ambienti musicali?**](https://velitch.github.io/velitch/2021-11-02-acustica/)
+[<img src="https://velitch.github.io/velitch/assets/img/learn/acustica_percezione/acustica_percezione.png" align="right" />](https://velitch.github.io/velitch/pages/learn/acustica_percezione/acustica_percezione/)
 
 ### History of Music
 
