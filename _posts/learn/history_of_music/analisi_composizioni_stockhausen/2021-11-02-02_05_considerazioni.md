@@ -21,5 +21,5 @@ di interessante.
 <h3 style="text-align:center">
 <a href="https://velitch.github.io/velitch/2021-11-02-02_04_01_gruppi_o_momenti/">< Previous </a>
 |
-<a href="https://velitch.github.io/velitch/2021-11-02-02_05_considerazioni/">Next ></a>
+<a href="https://velitch.github.io/velitch/2021-11-02-03_00_plus_minus/">Next ></a>
 </h3>
