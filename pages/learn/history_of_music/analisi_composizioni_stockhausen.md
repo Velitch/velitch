@@ -11,3 +11,4 @@ subtitle:
   - [**1.4. I tre studi a confronto**](https://velitch.github.io/velitch/2021-11-02-01_04_i_tre_brani_a_confronto/)
 - **2. Punkte, Gruppen, Momente**
   - [**2.1. Kontra-Punkte**](https://velitch.github.io/velitch/2021-11-02-02_01_kontra_punkte/)
+  - [**2.2. Gruppen**](https://velitch.github.io/velitch/2021-11-02-02_02_gruppen/)
