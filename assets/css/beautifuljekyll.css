@@ -494,6 +494,7 @@ footer .footer-custom-content {
 }
 .post-heading .post-meta {
   display: inline;
+  text-align: center;
 }
 @media (max-width: 767px) {
   .post-heading .post-meta {
