@@ -73,7 +73,8 @@
           {% endif %}
 
           {% if include.type == "post" %}
-      <span class="post-meta">Posted on {{ page.date | date: date_format }}</span> 
+            <hr class="small">
+            <p class="post-meta">Posted on {{ page.date | date: date_format }}</p> 
             {% if page.last-updated %}
               <span class="post-meta">
                 <span class="d-none d-md-inline middot">&middot;</span>
