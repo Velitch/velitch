@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Il Paradigma di Stockhausen
+title: Analisi Composizioni Karlheinz Stockhausen
 subtitle:
 ---
 
