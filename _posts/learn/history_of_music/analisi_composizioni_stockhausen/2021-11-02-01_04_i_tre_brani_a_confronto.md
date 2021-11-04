@@ -62,5 +62,5 @@ mentre gli inviluppi come dei triangoli che esprimono attacchi o rilasci.
 <h3 style="text-align:center">
 <a href="https://velitch.github.io/velitch/2021-11-02-01_02_studio_i/">< Previous </a>
 |
-<a href="https://velitch.github.io/velitch/2021-11-02-01_04_i_tre_brani_a_confronto/">Next ></a>
+<a href="https://velitch.github.io/velitch/2021-11-02-03_00_da_cosa_è_costituito_un_paradigma/">Next ></a>
 </h3>
