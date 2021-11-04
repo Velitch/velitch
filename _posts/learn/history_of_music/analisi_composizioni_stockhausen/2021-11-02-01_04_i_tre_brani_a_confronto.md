@@ -1,66 +1,79 @@
 ---
 layout: post
-title: 1.3. Studio II
+title: 1.4. I Tre Brani a Confronto
 subtitle:
 tags: []
 comments: true
 ---
-La forma generale di Studio II è molto più semplice e dura meno (circa 3'15").
 
-![](https://velitch.github.io/velitch/assets/img/learn/analisi_composizioni_stockhausen/rappr_Studie_II.png){: .mx-auto.d-block :}
+![](https://velitch.github.io/velitch/assets/img/learn/analisi_composizioni_stockhausen/fig.contronto-brani.jpg){: .mx-auto.d-block :}
 
-La sezione A si caratterizza per un rapporto più sintagmatico fra le misture, sembra che
-Stockhausen si preoccupi di più di una maggiore leggibilità del brano. Abbiamo misture
-prevalentemente giustapposte.
+Riassumendo possiamo dire che esiste un percorso evolutivo che porta dall'Etude del 1952 allo
+Studie II del 1954, che è ad esempio la durata che in Studie I è triplicata(rispetto all'Etude) per poter
+dire tutto ciò che c'è da dire con quel materiale, considerando l'introduzione della ridondanza
+artificiale come quella della ripetizione in eco e trasposizione. E poi identifichiamo un ritorno con la
+semplificazione dello spazio delle frequenze e con il pre allestimento di un sistema sonoro ad una
+durata più contenuta (con Studie II).
 
-Nella sezione B abbiamo prevalenza di polifonia che ritroviamo anche nella sezione numero 4.
+Il **materiale** è concreto nell'Etude per ragioni contestuali, mentre è di sintesi negli Studie.
 
-Nella sezione C abbiamo una presenza notevole di silenzi, quindi di misture isolate.
+L'**organizzazione** è seriale in tutti i casi.
 
-L'ultima parte è riassuntiva di tutto il processo e presenta sia misture giustapposte che sovrapposte.
+**Sistema delle frequenze** è serializzato ma basato su frequenze armoniche nel caso di Studie I,
+mentre è unificato in Studie II.
 
-La cosa interessante di Studio II è che quello che in Studio I era un principio organizzativo
-onnipresente, qui diventa un principio organizzatore della forma. Tutto questo in vista di una
-notevole semplificazione.
+La **timbrica** risulta abbastanza omogenea nell'Etude, risulta molto eterogenea nello Studie I e torna
+ad essere molto omogenea in Studie II.
 
-![](https://velitch.github.io/velitch/assets/img/learn/analisi_composizioni_stockhausen/studie_II_sheet.jpg){: .mx-auto.d-block :}
+La **disposizione del materiale** è stratificata nell'Etude, stratificata ma in modo variabile per lo
+Studie I mentre è organizzata in unità timbriche in Studie II, che sono come delle vere e proprie
+note.
 
-Esempio della prospettiva rinascimentale, che è un sistema di organizzazione dello spazio come
-spazio unificato. Nello spazio prospettico unificato rispetto all'occhio dell'osservatore, ogni cosa ha
-una sua dimensione ben precisa che dipende dalla sua distanza che si vuole rendere all'occhio
-rispetto all'oggetto osservato. Questo spazio è implacabile, nel senso che se una cosa è più lontana
-viene raffigurata più piccola e viceversa. Non ci sono motivazioni teologiche o psicologiche che
-posso alterare questo ordine, perché la scatola spaziale che è centrata sull'occhio dell'osservatore
-che dispone tutte le linee parallele lungo una linea di fuga è uno spazio unificato, spazio
-preesistente alla cose che vi vengono collocate.
+Quella di Studie II è una vera e propria **individuazione** (come avrebbero detto Adorno e Rognoni),
+perché semplifica notevolmente il problema della scelta. E consente di scrivere una partitura, che è
+una rappresentazione quasi perfetta, che rasenta quella rappresentabilità della musica tradizionale
+che ci è data dalla partitura.
 
-Nella tradizione antica, ma anche in molte raffigurazioni medioevali, non c'era questo principio.
-Nelle raffigurazioni simboliche è il significato della figura che ne determina la posizione spaziale e
-le dimensioni. Nella pittura più antica era come se lo spazio fosse la somma degli spazi individuali
-delle singole figure, mentre lo spazio vuoto era un elemento residuale. Nella prospettiva
-rinascimentale lo spazio vuoto è normativo, cioè uno spazio preesistente che fa soggiacere tutti gli
-elementi alle sue leggi particolari.
+La nostra esperienza di misture infatti non è tale da poterci far intendere come suoni una pagina
+della partitura di Studie II, ma sicuramente non ci sono scarti; capacità di rendere in modo univoco
+in una rappresentazione della musica, che è una capacità che vediamo nascere da quello che
+chiamiamo un pre-giudizio gadameriano, ovvero che la musica per avere una sua validazione,
+validità e certificazione, **deve avere un suo corrispettivo testuale**, un elemento che faccia da testo,
+elemento che potrebbe essere usato per riprodurre Studie II con altri mezzi.
 
-In questo caso Stockhausen effettua un tipo di individuazione simile a quella prospettica, perché
-comprende che creare uno spazio di frequenze per ogni mistura o ogni sezione diventa un po come
-una prospettiva polverizzata in tante prospettive diverse. Dunque quello che lui fa è organizzarsi
-preventivamente quello spazio di frequenze, spazio scalare implicito al pensiero seriale,
-organizzandolo col procedimento del temperamento per cui considera il rapporto 5:1, come se fosse
-il rapporto 2:1 dell'ottava, e considera la radice venticinquesima di 5 (ovvero 1.06649494220837)
-come il rapporto che ci permette di incrementare il valore della frequenza per moltiplicazioni
-successive. In pratica questo rapporto di 5:1 delle frequenze viene suddiviso in "tanti semitoni,
-gradi discreti" pari a un valore della frequenza moltiplicato per questo fattore di radice
-venticinquesima di cinque.
+C'è un però, poiché dato che Studie II è un brano per nastro magnetico, viene congelato in
+un'esecuzione unica, e mancando il tramite dell'esecutore, la rappresentazione astratta di questa
+musica, anche se è perfetta, risulta immotivata, e può risultare al massimo una partitura di lettura,
+perdendo il suo senso primario come partitura.
 
-Questo significa che la scelta delle frequenze non è più un tormento legato ad ogni singola mistura,
-qui abbiamo risolto a monte il problema con la creazione di un sistema sonoro, cioè di un sistema astratto che sceglie
-preliminarmente un insieme finito di frequenze a cui si può fare riferimento per scegliere i materiali delle singole misture.
-Dopodiché all'interno di questo spazio di frequenze le misture possono essere concepite come dei rettangoli,
-mentre gli inviluppi come dei triangoli che esprimono attacchi o rilasci.
+Questa partitura può essere descrittiva, prescrittiva(possiamo pensare che la partitura sia concepita
+prima della realizzazione su nastro), ma non è una partitura istruttiva, poiché non c'è esecuzione o
+istruzione da impartire, e dunque non c'è sostanziale utilità della partitura tradizionale.
 
+C'è dunque una fibrillazione del pre-giudizio, e dunque la concezione esistente esige che ci sia una
+rappresentazione grafica che faccia testo.
+
+Questa è la motivazione che porterà alla rappresentazione dettagliata di Kontakte, per i processi, per
+lo strumentario, per una resa del materiale musicale. Kontakte è un esempio della fibrillazione della
+mentalità testuale, chiaro esempio del fatto che ci debba essere un testo validante della musica. Ma
+nel caso di Studie II manca nell'elettronica la parte istruttiva, poiché le partiture di Kontakte e
+Studie II sono un lascito culturale, testimonianza di coerenza, controllo e autorialità (Stockhausen
+dunque esprime il fatto che abbia realizzato una cosa, dicendoci come l'ha fatta, dicendoci qual'è il
+suo DNA), segnando un'etica della scrittura, dove la scrittura diviene la testimonianza di un
+processo, di una scrittura, e di una capacità di controllare il mezzo.
+
+In Studie II tutte le riverberazioni sono fatte con camere di riverberazione, il che ci da
+un'informazione importante, che a Stockhausen gli poteva dar fastidio, e che lui cerca di risolvere
+questa collocazione sul piano della forma di suono riverberato e diretto, quini in presenza di spazi
+incongrui, mentre il fatto che tutto sia ottenuto con code riverberanti, fa si che lo spazio sonoro sia
+unificato come le frequenze. SI tratta di una semplificazione di una razionalizzazione che avvicina
+la pratica elettroacustica a quella della musica tradizionale; dunque Studie I da questo punto di vista
+sembra una composizione più avanzata e meno schiava di dictat della tradizione, esso è un paradosso,
+poiché Studie II avviene su un piano di astrazione maggiore rispetto a Studie I e dunque
+la qualità della composizione in Studie II risulta sicuramente migliorata.
 
 <h3 style="text-align:center">
-<a href="https://velitch.github.io/velitch/2021-11-02-01_02_studio_i/">< Previous </a>
+<a href="https://velitch.github.io/velitch/2021-11-02-01_02_studio_ii/">< Previous </a>
 |
 <a href="https://velitch.github.io/velitch/2021-11-02-03_00_da_cosa_è_costituito_un_paradigma/">Next ></a>
 </h3>
