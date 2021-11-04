@@ -73,7 +73,7 @@ poiché Studie II avviene su un piano di astrazione maggiore rispetto a Studie I
 la qualità della composizione in Studie II risulta sicuramente migliorata.
 
 <h3 style="text-align:center">
-<a href="https://velitch.github.io/velitch/2021-11-02-01_02_studio_ii/">< Previous </a>
+<a href="https://velitch.github.io/velitch/2021-11-02-01_03_studio_ii/">< Previous </a>
 |
 <a href="https://velitch.github.io/velitch/2021-11-02-03_00_da_cosa_è_costituito_un_paradigma/">Next ></a>
 </h3>
