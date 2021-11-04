@@ -30,3 +30,5 @@ ___________
 ### History of Music
 
 [<img src="https://velitch.github.io/velitch/assets/img/learn/il_paradigma_di_stockhausen/il_paradigm_di_stockhausen.png" align="right" />](https://velitch.github.io/velitch/pages/learn/history_of_music/il_paradigma_di_stockhausen/)
+
+[<img src="https://velitch.github.io/velitch/assets/img/learn/analisi_composizioni_stockhausen/post.png" align="right" />](https://velitch.github.io/velitch/pages/learn/history_of_music/analisi_composizioni_stockhausen/)
