@@ -15,3 +15,5 @@ subtitle:
   - [**2.3. Momente**](https://velitch.github.io/velitch/2021-11-02-02_03_00_momente/)
     - [**2.3.1. Moment Form**](https://velitch.github.io/velitch/2021-11-02-02_03_01_moment_form/)
     - [**2.3.2. Momenti K, M, D, I**](https://velitch.github.io/velitch/2021-11-02-02_03_02_momenti_kmdi/)
+  - [**2.4. Gesang der Jüngelinge**](https://velitch.github.io/velitch/2021-11-02-02_04_00_gesang_der_jungelinge/)
+    - [**2.4.1. Gruppi o Momenti?**](https://velitch.github.io/velitch/2021-11-02-02_04_01_gruppi_o_momenti/)
