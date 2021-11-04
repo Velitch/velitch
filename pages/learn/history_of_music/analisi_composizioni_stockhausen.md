@@ -12,4 +12,6 @@ subtitle:
 - **2. Punkte, Gruppen, Momente**
   - [**2.1. Kontra-Punkte**](https://velitch.github.io/velitch/2021-11-02-02_01_kontra_punkte/)
   - [**2.2. Gruppen**](https://velitch.github.io/velitch/2021-11-02-02_02_gruppen/)
-  - [**2.3. Momente**](https://velitch.github.io/velitch/2021-11-02-02_03_momente/)
+  - [**2.3. Momente**](https://velitch.github.io/velitch/2021-11-02-02_03_00_momente/)
+    - [**2.3.1. Moment Form**](https://velitch.github.io/velitch/2021-11-02-02_03_01_moment_form/)
+    - [**2.3.2. Momenti K, M, D, I**](https://velitch.github.io/velitch/2021-11-02-02_03_02_momenti_kmdi/)
