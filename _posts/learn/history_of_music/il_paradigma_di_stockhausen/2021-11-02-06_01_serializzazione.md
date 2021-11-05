@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Il Concetto di Pregiudizio
+title: 6.1. Serializzazzione
 subtitle:
 tags: []
 comments: true
