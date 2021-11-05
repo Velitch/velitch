@@ -14,7 +14,6 @@ Essi sono:
 - intuizione
 <br>
 <h3>Intuizione</h3>
-<br>
 <p style="text-align:justify;">
 Fa capo agli inserti arbitrari (momenti carnevaleschi, ovvero sospensione e sovvertimento delle regole). Nel mondo stockhauseniano, spiritualista ed esoterico, lontano dalla storia, dalla politica e dall'impegno sociale, mondo lontano dalla contingenza,  mira alla condivisione dei saperi mondo; intuizione che serve come momento di totale libertà inventiva (momenti carnevaleschi); musica intuitiva (con partiture verbali, partiture non giustificate da alcun principio operativo). Idea dell'intuizione come principio creativo.
 <br>
