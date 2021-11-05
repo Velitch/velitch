@@ -16,7 +16,7 @@ subtitle:
   <li><b>2. Punkte, Gruppen, Momente</b></li>
   <ul>  
   <li><a href="https://velitch.github.io/velitch/2021-11-02-02_01_kontra_punkte/"><b>2.1. Kontra-Punkte</b></a></li>
-  <li><a href=https://velitch.github.io/velitch/2021-11-02-02_02_gruppen/"><b>2.2. Gruppen</b></a></li>
+  <li><a href="https://velitch.github.io/velitch/2021-11-02-02_02_gruppen/"><b>2.2. Gruppen</b></a></li>
   <li><a href="https://velitch.github.io/velitch/2021-11-02-02_03_00_momente/"><b>2.3. Momente</b></a></li>
     <ul>  
     <li><a href="https://velitch.github.io/velitch/2021-11-02-02_03_01_moment_form/"><b>2.3.1. Moment Form</b></a></li>
@@ -27,7 +27,8 @@ subtitle:
   <li><a href="https://velitch.github.io/velitch/2021-11-02-02_04_01_gruppi_o_momenti/"><b>2.4.1. Gruppi o Momenti?</b></a></li>
     </ul>  
 <li><a href="https://velitch.github.io/velitch/2021-11-02-03_00_plus_minus/"><b>3. Plus-Minus</b></a></li>
-    <ul><a href="https://velitch.github.io/velitch/2021-11-02-03_01_regole/"><b>3.1. Regole</b></a></li>
+    <ul>
+    <li><a href="https://velitch.github.io/velitch/2021-11-02-03_01_regole/"><b>3.1. Regole</b></a></li>
   <li><a href="https://velitch.github.io/velitch/2021-11-02-03_02_00_partitura/"><b>3.2. Partitura</b></a></li>
     <ul>    
     <li><a href="https://velitch.github.io/velitch/2021-11-02-03_02_01_istruzioni/"><b>3.2.1. Istruzioni</b></a></li>
