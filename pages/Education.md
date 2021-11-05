@@ -24,16 +24,14 @@ Conservatory of Santa Cecilia, Rome
 
 ______________
 
-<div style="text-align:left;">
-<h2>Teaching Qualification</h2>
-<h4>24 CFA</h4>
-<br>
-<h6>2021 - (to date)</h6>
-<br>
+
+<h2 style="text-align:left;">Teaching Qualification</h2>
+<h4 style="text-align:left;">24 CFA</h4>
+<h6 style="text-align:left;">2021 - (to date)</h6>
 Conservatory of Santa Cecilia, Rome
-</div>
 
 [www.conservatoriosantacecilia.it](https://www.conservatoriosantacecilia.it)
+
 
 |COURSES|INSTRUCTORS|
 |:---:|:---:|
@@ -44,14 +42,11 @@ Conservatory of Santa Cecilia, Rome
 
 ______________
 
-<div style="text-align:left;">
-<h2>Neuroscience and Neuroimaging</h2>
-<h4>Specialization</h4>
-<br>
-<h6>2021 - (to date)</h6>
-<br>
+
+<h2 style="text-align:left;">Neuroscience and Neuroimaging</h2>
+<h4 style="text-align:left;">Specialization</h4>
+<h6 style="text-align:left;">2021 - (to date)</h6>
 Johns Hopkins University
-</div>
 
 [website](https://www.coursera.org/specializations/computational-neuroscience)
 
@@ -64,12 +59,10 @@ Johns Hopkins University
 
 ______________
 
-<div style="text-align:left;">
-<h2>Biennale Collage – CIMM 2019</h2>
-<h4>International Masterclass in Computer and Multimedia</h4>
-<br>
-<h6>2019</h6>
-<br>
+
+<h2 style="text-align:left;">Biennale Collage – CIMM 2019</h2>
+<h4 style="text-align:left;">International Masterclass in Computer and Multimedia</h4>
+<h6 style="text-align:left;">2019</h6>
 La biennale, Venezia
 </div>
 
