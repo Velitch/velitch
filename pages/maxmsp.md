@@ -17,15 +17,16 @@ subtitle: Tools
   <li><a href="https://velitch.github.io/velitch/2021-10-19-tool_gen_onepole/"><b>gen~ onepole</b></a></li>
   <li><a href="https://velitch.github.io/velitch/2021-10-19-tool_gen_svf/"><b>gen~ svf</b></a></li>
 </ul>
-<br>
 <h4>Reverb</h4>
   <ul>
   <li><a href="https://velitch.github.io/velitch/2021-10-19-tool_gen_freeverb/"><b>gen~ freeverb</b></a></li>
   <li><a href="https://velitch.github.io/velitch/2021-10-19-tool_gen_schroeder_JCRev/"><b>gen~ schroeder JCRev</b></a></li>
-<br>
+</ul>  
 <h4>Plugins</h4>
   <ul>
   <li><a href="https://velitch.github.io/velitch/2021-10-13-ui_corkino/"><b>corkino</b></a></li>
+</ul>
+</div>
 <!--
 
 ### Effects
