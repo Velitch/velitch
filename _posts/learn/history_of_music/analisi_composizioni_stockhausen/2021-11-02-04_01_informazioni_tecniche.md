@@ -6,22 +6,30 @@ tags: []
 comments: true
 ---
 
-In un brano come Mikrofonie il microfono diviene uno strumento. Oltre ad esso c'è un tam-tam che
-viene esplorato con oggetti e metodi di percussione, un po' come un sistema ricco di possibilità che
-viene saggiato. Come con un synth nuovo che si va esplorando qua e là: concetto di sistema sonoro,
-ovvero una virtualità di suoni che possiamo esplorare in mille modi ma che non riusciamo mai ad
-esaurire (un'opera musicale aperta è un sistema sonoro che non si lascia mai completare).
+![](https://velitch.github.io/velitch/assets/img/learn/analisi_composizioni_stockhausen/mikro.png){: .mx-auto.d-block :}
 
-In Mikrofonie vi sono zoommate del suono che consentono di far ascoltare il micro: diviene un
-sistema inesauribile e di cui la partitura non può darci tutti gli aspetti.
 
-Il pezzo è fatto anche di elementi spettacolari, se ho un esecutore dal vivo è una scelta di base e se
-ho bisogno di aggiungere un qualcosa, lo posso fare. Sono i fini dunque che determinano i mezzi.
-Diviene tutto dipendente dall'esigenza del momento, il problema è avere un'esigenza, deve esserci
-una necessità forte che mi spinge a fare certe cose.
+Brano che si basa su 2 squadre:
+1. una che agisce sul tam-tam (che ha una superficie piatta), che tende avere un suono che sul
+corpo tende a chiudersi, mentre il gong ha un suono che tende ad aprirsi
+- un esecutore dunque al tam-tam che sollecita il sistema sonoro
+- un esecutore al microfono, che lo allontana e lo gira, con un microfono quasi sicuramente
+cardiode
+- un esecutore al filtro, filtro Maihak w49 che ha due potenziometri separati che permettono di
+controllare con un solo insieme di movimenti sia la frequenza centrale e che l’ampiezza.
+
+2. la seconda è esattamente uguale alla prima squadra
+La coppia di squadre suona in modo antifonico. Ovviamente il controllo preciso della frequenza del
+filtro non è possibile e sono indicati i gesti. Abbiamo dunque più un movimento piuttosto che dei
+valori ben precisi.
+
+Le operazioni dell'esecutore sono scritte in maniera geroglifica, pittogrammi con gesti, indicazioni
+ritmiche, indicazioni tradizionali, indicazioni verbali sulla tipologia di oggetti per percuotere il tamtam.
+Stockhausen è ben consapevole che la partitura non è esaustiva, che è una partitura descrittiva di
+certi elementi e dunque non possiamo ricavare alcuni elementi.
 
 <h3 style="text-align:center">
-<a href="https://velitch.github.io/velitch2021-11-02-03_02_02_simboli/">< Previous </a>
+<a href="https://velitch.github.io/velitch/2021-11-02-04_00_mikrofonie_i/">< Previous </a>
 |
-<a href="https://velitch.github.io/velitch/2021-11-02-03_02_00_partitura/">Next ></a>
+<a href="https://velitch.github.io/velitch/2021-11-02-04_02_struttura/">Next ></a>
 </h3>
