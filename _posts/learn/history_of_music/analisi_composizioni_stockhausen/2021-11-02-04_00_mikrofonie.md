@@ -1,0 +1,27 @@
+---
+layout: post
+title: 4. Mikrofonie
+subtitle:
+tags: []
+comments: true
+---
+
+In un brano come Mikrofonie il microfono diviene uno strumento. Oltre ad esso c'è un tam-tam che
+viene esplorato con oggetti e metodi di percussione, un po' come un sistema ricco di possibilità che
+viene saggiato. Come con un synth nuovo che si va esplorando qua e là: concetto di sistema sonoro,
+ovvero una virtualità di suoni che possiamo esplorare in mille modi ma che non riusciamo mai ad
+esaurire (un'opera musicale aperta è un sistema sonoro che non si lascia mai completare).
+
+In Mikrofonie vi sono zoommate del suono che consentono di far ascoltare il micro: diviene un
+sistema inesauribile e di cui la partitura non può darci tutti gli aspetti.
+
+Il pezzo è fatto anche di elementi spettacolari, se ho un esecutore dal vivo è una scelta di base e se
+ho bisogno di aggiungere un qualcosa, lo posso fare. Sono i fini dunque che determinano i mezzi.
+Diviene tutto dipendente dall'esigenza del momento, il problema è avere un'esigenza, deve esserci
+una necessità forte che mi spinge a fare certe cose.
+
+<h3 style="text-align:center">
+<a href="https://velitch.github.io/velitch2021-11-02-03_02_02_simboli/">< Previous </a>
+|
+<a href="https://velitch.github.io/velitch/2021-11-02-03_02_00_partitura/">Next ></a>
+</h3>
