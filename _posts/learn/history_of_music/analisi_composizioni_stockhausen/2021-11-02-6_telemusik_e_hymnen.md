@@ -1,47 +1,52 @@
 ---
 layout: post
-title: 3.1. Regole
+title: 6. Telemusik e Hymnen
 subtitle:
 tags: []
 comments: true
 ---
 
-Siamo di fronte dunque a una scatola di montaggio sulla quale, direttori, esecutori, compositori si
-cimentano per la realizzazione. In cui essi sono chiamati a finalizzare la stesura finale a partire da
-un set di regole e materiali.
+Tabella del materiale usato in Telemusik:
 
-Queste regole e materiali, devono essere simili ad un gioco. Laddove siamo in presenza di regole
-ben determinate e di una mescolanze di obblighi e possibilità, ovvero dove ci sono meccanismi che
-mandano avanti la struttura temporale, Laddove siamo in presenza di obbiettivi; dove ci sono
-meccanismi simili al gioco siamo in presenza di una forma originaria, ovvero la forma ludica.
+|Country|Genre|Instrumentation/Environment|Title|
+|Japan|Gagaku court music|ryuteki (flute), hichiriki (reeds), sho (harmonium), drums, etc..|"Etenraku"|
+|Japan|Kabuki dance|Matsuri Bayashi ensemble: plucked string, flute, perc|"Yasai Aikata"|
+|Japan|Shinto dance|Aoi Matsuri Festival|"Daidai Kagura"|
+|Japan|Noh theater music|percussion (ōtsuzumi) w., M/F vocal, flute|"Hashi Benkei"|
+|Japan|Buddhist temple chants Koyasan Temple|"Senbotsusha Irei Heiwa Kigan Daihoyoh ceremony", "Shingon-Shu ceremony"|
+|Japan|Temple chant|from gyōdō procession, circular walking chant w., wooden shoes, Yakushiji Temple|"Jion-e"|
+|Japan|Conch music Omizutori Festival, Nara field recordings
+|Bali|Gamelan orchestra|rhythmic metallic and
+wood percussion|"Baris Bapan"|
+|Vietman|Music of the
+Montagnards|
+female voice, bamboo flutes, gamelan-like|"Song of the Festival of Love", "Concert of Bamboo Whistles", "Air de Gongs"|
+|China|Peking opera|Chinese flute and orchestra: flute, strings, fast percussion|"Keihosau"|
+|Spain|Flamenco guitar, castanets, rattles, male singing|"Sevillanas"|
+|Hungary|Hungarian folk song|children's song for violin, fast rhythmic drum tom|"Pista Bácsi, János Bácsi"|
+|Africa|South Saharan song|kalimba-like percussion w., group singing|"Ibani-Sansa"|
+|Amazon South America|Shipibo Indians song drums, ringing, blowpipes, girls exclamations|"Dance for Adolescent Girls"|
+|Amazon South America|Javahé Indians song|girls, panflutes, rattles, perc.|"Lullaby"|
+|Amazon South America|Suyá Indians song|low men's choir w rattles||
 
-Abbiamo esempi anche in Italia di forme compositive del genere come le partiture di Guaccero,
-come un modello del gioco che possiamo paragonarlo al gioco del calcio. Il gioco del calcio è un
-gioco che ci impone delle regole ben precise, accadimenti che non siamo sicuri che interverranno,
-siamo certi di determinate cose, ma non siamo in grado di determinare il dettaglio di cosa succederà
-in un determinato istante. C'è dunque un elemento aperto ed un elemento chiuso. Le regole del
-gioco, sono regole che servono a mandare avanti in maniera sensata il gioco, ovvero regole che
-creino differenze sostanziali a seconda che un determinato accadimento si svolga in un certo senso
-piuttosto che in un altro.
+Telemusik è un brano realizzato in Giappone e rilasciato originariamente a 5 piste. Ha una quantità
+di materiali musicali vastissima. Questo materiale così dozzinale rispetto alla varietà timbrica di
+Kontake da l'impressione di maggiore facilità.
 
-Nel gioco dell'oca, che è un tipo di procedimento stocastico, in cui un determinato stato del gioco
-determina lo stato successivo del giocatore. Plus-Minus assomiglia molto a un gioco dell'oca, anche
-se non è simile, poiché il movimento è incostante da una cella all'altra. Questo movimento
-incostante da una casella all'altra ci rimanda a questa metafora del gioco.
+Quando si sente la RM essa si riconosce e questo già di per se crea un effetto anti-estraniante,
+complice un filtraggio ad altissime frequenze, rende tutti i materiali talmente etorogenei. Ci si
+chiede dunque perché tutta questa collezione di materiali.
 
-Fin ora abbiamo detto che si tratta di:
-- una specie di gioco di società per musicisti
-- il risultato finale deve essere finalizzato da qualcuno sulla base delle regole(giocare la
-partita)
-- risultato finale sarà congelato alla fine
-- differenza sostanziale tra lo spettacolo gioco e lo spettacolo prefissato (se vediamo un film o
-piece teatrale sappiamo più o meno cosa succederà, come partitura scritta in tutti i suoi i
-dettagli, mentre nello spettacolo gioco in cui alcuni elementi sono determinati, altri sono
-determinabili, oppure in base a decisioni prese in fase di allestimento, ed il pezzo è completo
-solo quando lo sentiamo fino alla fine)
+In Hymnen invece i materiali musicali degli inni sono veramente un pretesto.
+
+Hymnen e Telemusik sono gli unici esemplari di musica concreta di Stockhausen in cui non è stato
+in grado di valorizzare le differenze dei materiali, e li ha prostrati tutti al suo volere. È la spinta
+della relatività progressiva che aveva portato al concepimento della formula che viene a mancare.
+
+Telemusik e Hymnen segnano un momento di passaggio nell'estetica di Stockhausen (che sentiamo
+anche in Stimmung), in un sincretismo egotico: tutte le religioni del mondo, tutti gli inni del mondo,
+tutti i pezzi di Stockhausen.
 
 <h3 style="text-align:center">
-<a href="https://velitch.github.io/velitch/2021-11-02-03_00_plus_minus/">< Previous </a>
-|
-<a href="https://velitch.github.io/velitch/2021-11-02-03_02_00_partitura/">Next ></a>
+<a href="https://velitch.github.io/velitch/2021-11-02-05_01_relazione_mikrofonie_i/">< Previous </a>
 </h3>
