@@ -4,7 +4,7 @@ title: Skills
 subtitle:
 ---
 
-## Languages
+<h2 style="text-align:left;">Languages</h2>
 
 ```
 Experience levels:
@@ -26,7 +26,7 @@ ____________
 
 ____________
 
-## Coding and Softwares
+<h2 style="text-align:left;">Coding and Softwares</h2>
 
 ```
 Experience levels:
@@ -40,7 +40,7 @@ Experience levels:
 
 ____________
 
-#### Coding
+<h4 style="text-align:left;">Coding</h4>
 
 |LEVEL|NAME|
 |:---:|:---:|
@@ -54,7 +54,7 @@ ____________
 |2|[JavaScript](https://en.m.wikipedia.org/wiki/JavaScript)|
 |1|[R](https://en.m.wikipedia.org/wiki/R_(programming_language))|
 
-#### Audio/Video Softwares
+<h4 style="text-align:left;">Audio/Video Softwares</h4>
 
 |LEVEL|NAME|
 |:---:|:---:|
@@ -65,7 +65,7 @@ ____________
 |4|[LilyPond](https://lilypond.org/index.it.html)|
 |2|[TouchDesigner](https://derivative.ca/)|
 
-#### Adobe Softwares
+<h4 style="text-align:left;">Adobe Softwares</h4>
 
 |LEVEL|NAME|
 |:---:|:---:|
