@@ -3,14 +3,14 @@ layout: page
 title: Education
 subtitle:
 ---
-
-## Electroacoustic Composition
-####  Bachelor's degree & Master's degree
-
-###### 2016 - (to date)
-
+<div style="text-align:left;">
+<h2>Electroacoustic Composition</h2>
+<h4>Bachelor's degree & Master's degree</h4>
+<br>
+<h6>2016 - (to date)</h6>
+<br>
 Conservatory of Santa Cecilia, Rome
-
+</div>
 [www.conservatoriosantacecilia.it](https://www.conservatoriosantacecilia.it)
 
 
@@ -26,12 +26,14 @@ Conservatory of Santa Cecilia, Rome
 
 ______________
 
-## Teaching Qualification
-####  24 CFA
-
-###### 2021 - (to date)
-
+<div style="text-align:left;">
+<h2>Teaching Qualification</h2>
+<h4>24 CFA</h4>
+<br>
+<h6>2021 - (to date)</h6>
+<br>
 Conservatory of Santa Cecilia, Rome
+</div>
 
 [www.conservatoriosantacecilia.it](https://www.conservatoriosantacecilia.it)
 
@@ -44,12 +46,14 @@ Conservatory of Santa Cecilia, Rome
 
 ______________
 
-## Neuroscience and Neuroimaging
-#### Specialization
-
-###### 2021 - (to date)
-
+<div style="text-align:left;">
+<h2>Neuroscience and Neuroimaging</h2>
+<h4>Specialization</h4>
+<br>
+<h6>2021 - (to date)</h6>
+<br>
 Johns Hopkins University
+</div>
 
 [website](https://www.coursera.org/specializations/computational-neuroscience)
 
@@ -62,13 +66,14 @@ Johns Hopkins University
 
 ______________
 
-## Biennale Collage – CIMM 2019
-
-#### International Masterclass in Computer and Multimedia
-
-###### 2019
-
+<div style="text-align:left;">
+<h2>Biennale Collage – CIMM 2019</h2>
+<h4>International Masterclass in Computer and Multimedia</h4>
+<br>
+<h6>2019</h6>
+<br>
 La biennale, Venezia
+</div>
 
 [website](https://www.labiennale.org/it/musica/2019/biennale-college-cimm-masterclass)
 
