@@ -25,7 +25,8 @@ subtitle:
 <li><a href="https://velitch.github.io/velitch/2021-11-02-02_04_00_gesang_der_jungelinge/"><b>2.4. Gesang der Jüngelinge</b></a></li>
     <ul>   
   <li><a href="https://velitch.github.io/velitch/2021-11-02-02_04_01_gruppi_o_momenti/"><b>2.4.1. Gruppi o Momenti?</b></a></li>
-    </ul>  
+    </ul>
+</ul> 
 <li><a href="https://velitch.github.io/velitch/2021-11-02-03_00_plus_minus/"><b>3. Plus-Minus</b></a></li>
     <ul>
     <li><a href="https://velitch.github.io/velitch/2021-11-02-03_01_regole/"><b>3.1. Regole</b></a></li>
@@ -47,5 +48,6 @@ subtitle:
   <li><a href="https://velitch.github.io/velitch/2021-11-02-05_01_relazione_mikrofonie_i/"><b>5.1. Relazione con Mikrofonie I</b></a></li>  
   </ul>
 <li><a href="https://velitch.github.io/velitch/2021-11-02-6_telemusik_e_hymnen/"><b>6. Telemusik e Hymnen</b></a></li>
+</ul>  
 </ul>  
 </div>
