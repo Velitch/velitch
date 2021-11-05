@@ -7,7 +7,7 @@ comments: true
 ---
 
 ![](https://velitch.github.io/velitch/assets/img/learn/il_paradigma_di_stockhausen/fig11.png){: .mx-auto.d-block :}
-<p style="text-align:justify;">
+<div style="text-align:justify;">
 <b>I materiali di lavoro sono</b>:
 <br>
 <br>
@@ -78,7 +78,7 @@ Rappresenta eventuali possibili movimenti all'interno del momento. Anche se Stoc
 <br>
 <br>
 Ricordandosi che la parola <b>processo</b> è in Stockhausen molto ambigua, poiché presume sia una tendenza temporale all'interno del momento, sia un materiale di lavoro con cui Stockhausen procede come una forma di materiale, sia una forma operativa o principio operativo; ma che alla fine significa nell'immaginario stockhauseniano: come viene sviluppato il decorso musicale.
-</p>
+</div>
 <br>
 <br>
 <h3 style="text-align:center">
