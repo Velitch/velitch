@@ -12,6 +12,7 @@ Essi sono:
 </p>
 - serialismo
 - intuizione
+<br>
 <h3>Intuizione</h3>
 <br>
 <p style="text-align:justify;">
