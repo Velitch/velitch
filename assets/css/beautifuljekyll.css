@@ -49,7 +49,7 @@ h1 {
   font-size: 2.25rem;
 }
 h2 {
-  font-size: 1.6rem;
+  font-size: 1.875rem;
 }
 h3 {
   font-size: 1.5rem;
@@ -679,7 +679,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
 }
 .intro-header .post-heading h2 {
   margin-top: 0;
-  font-size: 2.1875rem;
+  font-size: 1.875rem;
   text-align: center;
 }
 .intro-header .page-heading .page-subheading,
