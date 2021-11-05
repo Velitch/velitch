@@ -14,7 +14,7 @@ Di specifico in [_Mikrofonie II_](https://velitch.github.io/velitch/2021-11-02-0
 la dimensione autobiografica e metamusicale che realizza una forma particolare di relatività
 progressiva.
 
-[_Mikrofonie II_](https://velitch.github.io/velitch/2021-11-02-05_00_mikrofonie_ii/) è meno riuscito e meno famoso poiché mentre Mikrofonie I scende nell'inaudito grazie
+[_Mikrofonie II_](https://velitch.github.io/velitch/2021-11-02-05_00_mikrofonie_ii/) è meno riuscito e meno famoso poiché mentre [_Mikrofonie I_](https://velitch.github.io/velitch/2021-11-02-04_00_mikrofonie_i/) scende nell'inaudito grazie
 al microfono ed il tam-tam solista e grazie al filtraggio che insiste su materiale già enigmatico
 (materiale del tam-tam grattato), materiale non vegliato in nessun tipo di schema. Con il filtro
 l'esperienza diventa veramente estraniante.
