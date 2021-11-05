@@ -77,7 +77,7 @@ Intesa come:
 Rappresenta eventuali possibili movimenti all'interno del momento. Anche se Stockhausen ci ha detto che nel momento non succede nulla. È dunque ciò che succede all'interno del momento. Nel momento non dovrebbe succedere nulla, ma trattandosi come qualcosa che deve muoversi nel tempo, finisce per avere un comportamento anche lui. Comportamento che va dal <b>non succedere nulla all'applicarsi di un cambiamento o di un processo</b>.
 <br>
 <br>
-Ricordandosi che la parola <b>processo</b> è in Stockhausen molto ambigua, poiché presume sia una tendenza temporale all'interno del momento, sia un materiale di lavoro con cui Stockhausen procede come una forma di materiale, sia una forma operativa o principio operativo; ma che alla fine significa nell'immaginario stockhauseniano: come viene sviluppato il decorso musicale.
+Ricordandosi che la parola <a href="https://velitch.github.io/velitch/2021-11-02-05_05_processo/"><b>processo</b></a> è in Stockhausen molto ambigua, poiché presume sia una tendenza temporale all'interno del momento, sia un materiale di lavoro con cui Stockhausen procede come una forma di materiale, sia una forma operativa o principio operativo; ma che alla fine significa nell'immaginario stockhauseniano: come viene sviluppato il decorso musicale.
 </div>
 <br>
 <br>
