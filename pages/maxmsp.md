@@ -5,7 +5,7 @@ subtitle: Tools
 ---
 
 <div style="text-align:left;">
-<h4>Filters</h4>
+<h3>Filters</h3>
   <ul>
   <li><a href="https://velitch.github.io/velitch/2021-10-19-tool_filter_library/"><b>filter library</b></a></li>
   <li><a href="https://velitch.github.io/velitch/2021-10-19-tool_gen_allpass/"><b>gen~ allpass</b></a></li>
@@ -17,12 +17,12 @@ subtitle: Tools
   <li><a href="https://velitch.github.io/velitch/2021-10-19-tool_gen_onepole/"><b>gen~ onepole</b></a></li>
   <li><a href="https://velitch.github.io/velitch/2021-10-19-tool_gen_svf/"><b>gen~ svf</b></a></li>
 </ul>
-<h4>Reverb</h4>
+<h3>Reverb</h3>
   <ul>
   <li><a href="https://velitch.github.io/velitch/2021-10-19-tool_gen_freeverb/"><b>gen~ freeverb</b></a></li>
   <li><a href="https://velitch.github.io/velitch/2021-10-19-tool_gen_schroeder_JCRev/"><b>gen~ schroeder JCRev</b></a></li>
 </ul>  
-<h4>Plugins</h4>
+<h3>Plugins</h3>
   <ul>
   <li><a href="https://velitch.github.io/velitch/2021-10-13-ui_corkino/"><b>corkino</b></a></li>
 </ul>
