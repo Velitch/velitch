@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 4. Mikrofonie
+title: 4.1. Informazioni Tecniche
 subtitle:
 tags: []
 comments: true

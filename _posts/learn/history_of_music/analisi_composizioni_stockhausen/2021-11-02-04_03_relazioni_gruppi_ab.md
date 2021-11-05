@@ -1,27 +1,39 @@
 ---
 layout: post
-title: 4. Mikrofonie
+title: 4.3. Relazioni tra gruppo A e B
 subtitle:
 tags: []
 comments: true
 ---
 
-In un brano come Mikrofonie il microfono diviene uno strumento. Oltre ad esso c'è un tam-tam che
-viene esplorato con oggetti e metodi di percussione, un po' come un sistema ricco di possibilità che
-viene saggiato. Come con un synth nuovo che si va esplorando qua e là: concetto di sistema sonoro,
-ovvero una virtualità di suoni che possiamo esplorare in mille modi ma che non riusciamo mai ad
-esaurire (un'opera musicale aperta è un sistema sonoro che non si lascia mai completare).
+![](https://velitch.github.io/velitch/assets/img/learn/analisi_composizioni_stockhausen/simbmikro.png){: .mx-auto.d-block :}
 
-In Mikrofonie vi sono zoommate del suono che consentono di far ascoltare il micro: diviene un
-sistema inesauribile e di cui la partitura non può darci tutti gli aspetti.
+- I
+  - simile
+  - differente
+  - opposta
+- II
+  - di supporto
+  - neutra
+  - distruttiva
+- III
+  - incrementa
+  - resta costante
+  - diminuisce
 
-Il pezzo è fatto anche di elementi spettacolari, se ho un esecutore dal vivo è una scelta di base e se
-ho bisogno di aggiungere un qualcosa, lo posso fare. Sono i fini dunque che determinano i mezzi.
-Diviene tutto dipendente dall'esigenza del momento, il problema è avere un'esigenza, deve esserci
-una necessità forte che mi spinge a fare certe cose.
+Il bello è che alcuni aspetti di queste serie siano intuitivi mentre altri bisogna andarli a cercare. Vi è
+una contrapposizione drammatica nell'inquadrare tutti in modo seriale, deterministico e senza
+alternativa e possibilità, ma all'interno questi elementi deterministici presentano una grande
+differenza. Come se Stockhausen desse un ordine al bagaglio culturale degli esecutori.
+
+Il principio costruttivo della simmetria prevale su principi di simmetria locale. E bisogna sapere
+scegliere e saper razionalizzare le scelte che vanno a coprire una indefinita disponibilità di suono e
+comportamenti che è difficile imbrigliare acusticamente e sonoricamente.
+
+Negli elementi di TUTTI si ritrova il principio carnevalesco in cui alcune regole vengono sospese.
 
 <h3 style="text-align:center">
-<a href="https://velitch.github.io/velitch2021-11-02-03_02_02_simboli/">< Previous </a>
+<a href="https://velitch.github.io/velitch/2021-11-02-04_02_struttura/">< Previous </a>
 |
-<a href="https://velitch.github.io/velitch/2021-11-02-03_02_00_partitura/">Next ></a>
+<a href="https://velitch.github.io/velitch/2021-11-02-04_04_sezioni/">Next ></a>
 </h3>
