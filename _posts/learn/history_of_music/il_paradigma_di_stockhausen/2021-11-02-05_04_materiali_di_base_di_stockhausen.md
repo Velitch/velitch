@@ -28,7 +28,6 @@ comments: true
   <li>posizione</li>
 </ul>
 <br>
-<br>
 <b>I parametri dei gruppi</b>
 <br>
 <br>
@@ -40,7 +39,6 @@ Tutti questi parametri possono essere sottoposti a ulteriori parametri di tipo s
   <li>l'ambito</li>
   <li>la densità di questi parametri</li>
 </ul>
-<br>
 <br>
 Ad esempio le differenze tra densità di timbro di rumore bianco e sinusoide pura. Estremi che possono essere serializzati.
 <br>
@@ -59,7 +57,6 @@ I momenti sussumono dentro di se punti e gruppi come mondo operativo, aggiungend
   <li>tendenza temporale</li>
 </ul>
 <br>
-<br>
 <b>Organizzazione</b>
 <br>
 <br>
@@ -72,7 +69,7 @@ Intesa come:
 <ul>
   <li>Gestalt (profilo complessivo, che possiamo cogliere con unico sguardo)</li>
   <li>Struktur (cogliere elementi interni)</li>
-<br>
+</ul>
 <br>
 <b>Tendenza temporale</b>
 <br>
