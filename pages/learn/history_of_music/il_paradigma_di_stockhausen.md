@@ -13,14 +13,14 @@ subtitle:
     <li><a href="https://velitch.github.io/velitch/2021-11-02-03_01_esemplari/"><b>3.1. Esemplari</b></a></li>
     <li><a href="https://velitch.github.io/velitch/2021-11-02-03_02_valori/"><b>3.2. Valori</b></a></li>
 </ul>
-  <li><b>4. Modelli</b></a>
+  <li><b>4. Modelli</b></a></li>
   <ul>  
   <li><a href="https://velitch.github.io/velitch/2021-11-02-04_01_vibrazione_come_modello_universale/"><b>4.1. Vibrazione come movimento universale</b></a></li>
   <li><a href=https://velitch.github.io/velitch/2021-11-02-04_02_continuum/"><b>4.2. Continuum</b></a></li>
   <li><a href="https://velitch.github.io/velitch/2021-11-02-04_03_spirale/"><b>4.3. Spirale</b></a></li>
   <li><a href="https://velitch.github.io/velitch/2021-11-02-04_04_galassia/"><b>4.4. Galassia</b></a></li>
 </ul>
-  <li><b>5. Generalizzazioni: principi operativi</b></a>
+  <li><b>5. Generalizzazioni: principi operativi</b></a></li>
   <ul>   
   <li><a href="https://velitch.github.io/velitch/2021-11-02-05_01_metodi_nella_tradizione/"><b>5.1. Metodi nella tradizione</b></a></li>   
   <li><a href="https://velitch.github.io/velitch/2021-11-02-05_02_metodi_in_stockhausen/"><b>5.2. Metodi in Stockhausen</b></a></li>
