@@ -7,18 +7,23 @@ comments: true
 ---
 
 ![](https://velitch.github.io/velitch/assets/img/learn/il_paradigma_di_stockhausen/fig8.png){: .mx-auto.d-block :}
-
+<p style="text-align:justify;">
 I metodi per come la musica viene concepita dalla seconda metà del Novecento ad oggi prevede dei:
-
-**Principi operativi**:
+<br>
+<br>
+<b>Principi operativi</b>:
 È lo spazio concettuale all'interno del quale la musica si muove. Con esso intendiamo lo spazio nodale (qualcosa di molto ampio).
-
-**Materiali di base**:
+<br>
+<br>
+<b>Materiali di base</b>:
 Tutti quelli definito come i semilavorati ovvero elementi precomposti di cui la musica tradizionale si serve per esprimere i suoi enunciati (esemplari).
-
-**Principi costruttivi**:
+<br>
+<br>
+<b>Principi costruttivi</b>:
 Essi sono le varie forme, ovvero tutto ciò che è principio organizzativo formale.
-
+</p>
+<br>
+<br>
 <h3 style="text-align:center">
 <a href="https://velitch.github.io/velitch/2021-11-02-04_04_galassia">< Previous </a>
 |
