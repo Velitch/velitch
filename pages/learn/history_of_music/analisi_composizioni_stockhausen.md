@@ -4,30 +4,47 @@ title: Analisi Composizioni Karlheinz Stockhausen
 subtitle:
 ---
 
-- **1. I primi brani di Stockhausen**
-  - [**1.1. Etude**](https://velitch.github.io/velitch/2021-11-02-01_01_etude/)
-  - [**1.2. Studio I**](https://velitch.github.io/velitch/2021-11-02-01_02_studio_i/)
-  - [**1.3. Studio II**](https://velitch.github.io/velitch/2021-11-02-01_03_studio_ii/)
-  - [**1.4. I tre studi a confronto**](https://velitch.github.io/velitch/2021-11-02-01_04_i_tre_brani_a_confronto/)
-- **2. Punkte, Gruppen, Momente**
-  - [**2.1. Kontra-Punkte**](https://velitch.github.io/velitch/2021-11-02-02_01_kontra_punkte/)
-  - [**2.2. Gruppen**](https://velitch.github.io/velitch/2021-11-02-02_02_gruppen/)
-  - [**2.3. Momente**](https://velitch.github.io/velitch/2021-11-02-02_03_00_momente/)
-    - [**2.3.1. Moment Form**](https://velitch.github.io/velitch/2021-11-02-02_03_01_moment_form/)
-    - [**2.3.2. Momenti K, M, D, I**](https://velitch.github.io/velitch/2021-11-02-02_03_02_momenti_kmdi/)
-  - [**2.4. Gesang der Jüngelinge**](https://velitch.github.io/velitch/2021-11-02-02_04_00_gesang_der_jungelinge/)
-    - [**2.4.1. Gruppi o Momenti?**](https://velitch.github.io/velitch/2021-11-02-02_04_01_gruppi_o_momenti/)
-  - [**2.5. Considerazioni finali su punti, gruppi e momenti**](https://velitch.github.io/velitch/2021-11-02-02_05_considerazioni/)    
-- [**3. Plus-Minus**](https://velitch.github.io/velitch/2021-11-02-03_00_plus_minus/)
-  - [**3.1. Regole**](https://velitch.github.io/velitch/2021-11-02-03_01_regole/)
-  - [**3.2. Partitura**](https://velitch.github.io/velitch/2021-11-02-03_02_00_partitura/)
-    - [**3.2.1. Istruzioni**](https://velitch.github.io/velitch/2021-11-02-03_02_01_istruzioni/)
-    - [**3.2.2. Simboli**](https://velitch.github.io/velitch/2021-11-02-03_02_02_simboli/)
-- [**4. Mikrofonie I**](https://velitch.github.io/velitch/2021-11-02-04_00_mikrofonie_i/)
-  - [**4.1. Informazioni Tecniche**](https://velitch.github.io/velitch/2021-11-02-04_01_informazioni_tecniche/)
-  - [**4.2. Struttura**](https://velitch.github.io/velitch/2021-11-02-04_02_struttura/)
-  - [**4.3. Relazioni tra gruppo A e B**](https://velitch.github.io/velitch/2021-11-02-04_03_relazioni_gruppi_ab/)
-  - [**4.4. Sezioni**](https://velitch.github.io/velitch/2021-11-02-04_04_sezioni/)
-- [**5. Mikrofonie II**](https://velitch.github.io/velitch/2021-11-02-05_00_mikrofonie_ii/)
-  - [**5.1. Relazione con Mikrofonie I**](https://velitch.github.io/velitch/2021-11-02-05_01_relazione_mikrofonie_i/)
-- [**6. Telemusik e Hymnen**](https://velitch.github.io/velitch/2021-11-02-6_telemusik_e_hymnen/)
+<div style="text-align:left;">
+<ul>
+  <li><b>1. I primi brani di Stockhausen</b></li>
+  <ul>
+  <li><a href="https://velitch.github.io/velitch/2021-11-02-01_01_etude/"><b>1.1. Etude</b></a></li>
+  <li><a href="https://velitch.github.io/velitch/2021-11-02-01_02_studio_i/"><b>1.2. Studio I</b></a></li>
+  <li><a href="https://velitch.github.io/velitch/2021-11-02-01_03_studio_ii/"><b>1.3. Studio II</b></a></li>
+  <li><a href="https://velitch.github.io/velitch/2021-11-02-01_04_i_tre_brani_a_confronto/"><b>1.4. I tre studi a confronto</b></a></li>
+</ul>
+  <li><b>2. Punkte, Gruppen, Momente</b></li>
+  <ul>  
+  <li><a href="https://velitch.github.io/velitch/2021-11-02-02_01_kontra_punkte/"><b>2.1. Kontra-Punkte</b></a></li>
+  <li><a href=https://velitch.github.io/velitch/2021-11-02-02_02_gruppen/"><b>2.2. Gruppen</b></a></li>
+  <li><a href="https://velitch.github.io/velitch/2021-11-02-02_03_00_momente/"><b>2.3. Momente</b></a></li>
+    <ul>  
+    <li><a href="https://velitch.github.io/velitch/2021-11-02-02_03_01_moment_form/"><b>2.3.1. Moment Form</b></a></li>
+    <li><a href="https://velitch.github.io/velitch/2021-11-02-02_03_02_momenti_kmdi/"><b>2.3.2. Momenti K, M, D, I</b></a></li>
+    </ul>
+<li><a href="https://velitch.github.io/velitch/2021-11-02-02_04_00_gesang_der_jungelinge/"><b>2.4. Gesang der Jüngelinge</b></a></li>
+    <ul>   
+  <li><a href="https://velitch.github.io/velitch/2021-11-02-02_04_01_gruppi_o_momenti/"><b>2.4.1. Gruppi o Momenti?</b></a></li>
+    </ul>  
+<li><a href="https://velitch.github.io/velitch/2021-11-02-03_00_plus_minus/"><b>3. Plus-Minus</b></a></li>
+    <ul><a href="https://velitch.github.io/velitch/2021-11-02-03_01_regole/"><b>3.1. Regole</b></a></li>
+  <li><a href="https://velitch.github.io/velitch/2021-11-02-03_02_00_partitura/"><b>3.2. Partitura</b></a></li>
+    <ul>    
+    <li><a href="https://velitch.github.io/velitch/2021-11-02-03_02_01_istruzioni/"><b>3.2.1. Istruzioni</b></a></li>
+    <li><a href="https://velitch.github.io/velitch/2021-11-02-03_02_02_simboli/"><b>3.2.2. Simboli</b></a></li>  
+  </ul>   
+</ul>  
+<li><a href="https://velitch.github.io/velitch/2021-11-02-04_00_mikrofonie_i/"><b>4. Mikrofonie I</b></a></li>
+  <ul>
+  <li><a href="https://velitch.github.io/velitch/2021-11-02-04_01_informazioni_tecniche/"><b>4.1. Informazioni Tecniche</b></a></li>
+  <li><a href="https://velitch.github.io/velitch/2021-11-02-04_02_struttura/"><b>4.2. Struttura</b></a></li>
+  <li><a href="https://velitch.github.io/velitch/2021-11-02-04_03_relazioni_gruppi_ab/"><b>4.3. Relazioni tra gruppo A e B</b></a></li>
+  <li><a href="https://velitch.github.io/velitch/2021-11-02-04_04_sezioni/"><b>4.4. Sezioni</b></a></li>  
+  </ul>
+<li><a href="(https://velitch.github.io/velitch/2021-11-02-05_00_mikrofonie_ii/"><b>5. Mikrofonie II</b></a></li>
+  <ul>
+  <li><a href="https://velitch.github.io/velitch/2021-11-02-05_01_relazione_mikrofonie_i/"><b>5.1. Relazione con Mikrofonie I</b></a></li>  
+  </ul>
+<li><a href="https://velitch.github.io/velitch/2021-11-02-6_telemusik_e_hymnen/"><b>6. Telemusik e Hymnen</b></a></li>
+</ul>  
+</div>
