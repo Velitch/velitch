@@ -17,7 +17,7 @@ subtitle:
 - [**5. Generalizzazioni: principi operativi**](https://velitch.github.io/velitch/2021-11-02-05_00_generalizzazioni_principi_operativi/)
   - [**5.1. Metodi nella tradizione**](https://velitch.github.io/velitch/2021-11-02-05_01_metodi_nella_tradizione/)
   - [**5.2. Metodi in Stockhausen**](https://velitch.github.io/velitch/2021-11-02-05_02_metodi_in_stockhausen/)
-  - [**5.3. Principi operativi di Stockhauseni**](https://velitch.github.io/velitch/2021-11-02-05_03_principi_operativi_di_stockhausen/)
+  - [**5.3. Principi operativi di Stockhausen**](https://velitch.github.io/velitch/2021-11-02-05_03_principi_operativi_di_stockhausen/)
   - [**5.4. Materiali di base (o di lavoro) di Stockhausen**](https://velitch.github.io/velitch/2021-11-02-05_04_materiali_di_base_di_stockhausen/)
   - [**5.5. Processo**](https://velitch.github.io/velitch/2021-11-02-05_05_processo/)
 - [**6. Generalizzazioni: principi costruttivi**](https://velitch.github.io/velitch/2021-11-02-06_00_generalizzazioni_principi_costruttivi/)
