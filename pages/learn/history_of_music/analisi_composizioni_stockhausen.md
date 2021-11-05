@@ -31,4 +31,3 @@ subtitle:
 - [**5. Mikrofonie II**](https://velitch.github.io/velitch/2021-11-02-05_00_mikrofonie_ii/)
   - [**5.1. Relazione con Mikrofonie I**](https://velitch.github.io/velitch/2021-11-02-05_01_relazione_mikrofonie_i/)
 - [**6. Telemusik e Hymnen**](https://velitch.github.io/velitch/2021-11-02-6_telemusik_e_hymnen/)
-</ul>
