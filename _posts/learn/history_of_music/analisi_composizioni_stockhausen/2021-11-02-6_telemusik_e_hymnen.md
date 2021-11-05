@@ -15,12 +15,9 @@ Tabella del materiale usato in Telemusik:
 |Japan|Noh theater music|percussion (ōtsuzumi) w., M/F vocal, flute|"Hashi Benkei"|
 |Japan|Buddhist temple chants Koyasan Temple|"Senbotsusha Irei Heiwa Kigan Daihoyoh ceremony", "Shingon-Shu ceremony"|
 |Japan|Temple chant|from gyōdō procession, circular walking chant w., wooden shoes, Yakushiji Temple|"Jion-e"|
-|Japan|Conch music Omizutori Festival, Nara field recordings
-|Bali|Gamelan orchestra|rhythmic metallic and
-wood percussion|"Baris Bapan"|
-|Vietman|Music of the
-Montagnards|
-female voice, bamboo flutes, gamelan-like|"Song of the Festival of Love", "Concert of Bamboo Whistles", "Air de Gongs"|
+|Japan|Conch music Omizutori Festival, Nara field recordings|
+|Bali|Gamelan orchestra|rhythmic metallic and wood percussion|"Baris Bapan"|
+|Vietman|Music of the Montagnards|female voice, bamboo flutes, gamelan-like|"Song of the Festival of Love", "Concert of Bamboo Whistles", "Air de Gongs"|
 |China|Peking opera|Chinese flute and orchestra: flute, strings, fast percussion|"Keihosau"|
 |Spain|Flamenco guitar, castanets, rattles, male singing|"Sevillanas"|
 |Hungary|Hungarian folk song|children's song for violin, fast rhythmic drum tom|"Pista Bácsi, János Bácsi"|
