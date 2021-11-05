@@ -26,6 +26,7 @@ comments: true
   <li>dinamica</li>
   <li>timbro</li>
   <li>posizione</li>
+</ul>
 <br>
 <br>
 <b>I parametri dei gruppi</b>
@@ -38,6 +39,7 @@ Tutti questi parametri possono essere sottoposti a ulteriori parametri di tipo s
   <li>la direzione, in che direzione tendono ad andare le altezze</li>
   <li>l'ambito</li>
   <li>la densità di questi parametri</li>
+</ul>
 <br>
 <br>
 Ad esempio le differenze tra densità di timbro di rumore bianco e sinusoide pura. Estremi che possono essere serializzati.
@@ -55,6 +57,7 @@ I momenti sussumono dentro di se punti e gruppi come mondo operativo, aggiungend
 <ul>
   <li>organizzazione</li>
   <li>tendenza temporale</li>
+</ul>
 <br>
 <br>
 <b>Organizzazione</b>
