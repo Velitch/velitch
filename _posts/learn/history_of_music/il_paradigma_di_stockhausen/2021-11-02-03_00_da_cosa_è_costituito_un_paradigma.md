@@ -47,7 +47,6 @@ Vediamo ora come tutto questo si può tradurre in un paradigma musicale.
 <br>
 <br>
 ![](https://velitch.github.io/velitch/assets/img/learn/il_paradigma_di_stockhausen/fig5.png){: .mx-auto.d-block :}
-</p>
 <br>
 <br>
 <h3 style="text-align:center">
