@@ -3,11 +3,11 @@ layout: page
 title: Education
 subtitle:
 ---
-<div style="text-align:left;">
-<h2>Electroacoustic Composition</h2>
-<h4>Bachelor's degree & Master's degree</h4>
+
+<h2 style="text-align:left;">Electroacoustic Composition</h2>
+<h4 style="text-align:left;">Bachelor's degree & Master's degree</h4>
 <br>
-<h6>2016 - (to date)</h6>
+<h6 style="text-align:left;">2016 - (to date)</h6>
 <br>
 Conservatory of Santa Cecilia, Rome
 </div>
