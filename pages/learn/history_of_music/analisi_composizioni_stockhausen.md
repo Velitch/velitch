@@ -3,7 +3,7 @@ layout: page
 title: Analisi Composizioni Karlheinz Stockhausen
 subtitle:
 ---
-<p style='text-align: left;'>
+<ul style='text-align: left;'>
 - **1. I primi brani di Stockhausen**
   - [**1.1. Etude**](https://velitch.github.io/velitch/2021-11-02-01_01_etude/)
   - [**1.2. Studio I**](https://velitch.github.io/velitch/2021-11-02-01_02_studio_i/)
@@ -31,4 +31,4 @@ subtitle:
 - [**5. Mikrofonie II**](https://velitch.github.io/velitch/2021-11-02-05_00_mikrofonie_ii/)
   - [**5.1. Relazione con Mikrofonie I**](https://velitch.github.io/velitch/2021-11-02-05_01_relazione_mikrofonie_i/)
 - [**6. Telemusik e Hymnen**](https://velitch.github.io/velitch/2021-11-02-6_telemusik_e_hymnen/)
-</p>
+</ul>
