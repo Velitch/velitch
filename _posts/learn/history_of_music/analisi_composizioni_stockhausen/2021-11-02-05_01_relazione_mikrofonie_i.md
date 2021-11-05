@@ -10,17 +10,17 @@ comments: true
 - presenza di materiale prescrittivo
 - idea che ci sia una distorsione (I microfono, II RM)
 
-Di specifico in Mikrofonie II c'è autonomia per descrivere aspetti qualitativi delle voci e sopratutto
+Di specifico in [_Mikrofonie II_](https://velitch.github.io/velitch/2021-11-02-05_00_mikrofonie_ii/) c'è autonomia per descrivere aspetti qualitativi delle voci e sopratutto
 la dimensione autobiografica e metamusicale che realizza una forma particolare di relatività
 progressiva.
 
-Mikrofonie II è meno riuscito e meno famoso poiché mentre Mikrofonie I scende nell'inaudito grazie
+[_Mikrofonie II_](https://velitch.github.io/velitch/2021-11-02-05_00_mikrofonie_ii/) è meno riuscito e meno famoso poiché mentre Mikrofonie I scende nell'inaudito grazie
 al microfono ed il tam-tam solista e grazie al filtraggio che insiste su materiale già enigmatico
 (materiale del tam-tam grattato), materiale non vegliato in nessun tipo di schema. Con il filtro
 l'esperienza diventa veramente estraniante.
 
-In Mikrofonie I vi sono suoni che non si conoscono che vengono distorti e alterati anche dai filtri. In
-Mikrofonie II c'è uno split cognitivo e dunque il materiale che dovrebbe essere distorto non si
+In [_Mikrofonie I_](https://velitch.github.io/velitch/2021-11-02-04_00_mikrofonie_i/) vi sono suoni che non si conoscono che vengono distorti e alterati anche dai filtri. In
+[_Mikrofonie II_](https://velitch.github.io/velitch/2021-11-02-05_00_mikrofonie_ii/) c'è uno split cognitivo e dunque il materiale che dovrebbe essere distorto non si
 presenta già di suo come materiale inaudito, ma la sfida di portarlo nel terreno dell'inaudito, non
 riesce al meglio e sentiamo che la RM è di fatto un processo sovrapposto. Questa tipologia di
 modifica funzionerebbe meglio con degli strumenti che sono privi di topologia.

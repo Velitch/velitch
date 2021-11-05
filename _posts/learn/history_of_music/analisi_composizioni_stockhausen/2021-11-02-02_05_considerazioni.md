@@ -14,7 +14,7 @@ drammaturgia ricompare nelle composizioni di Stockhausen.
 di Stockhausen, anche se in realtà questa suddivisione ha avuto dei momenti di mescolanza, esse
 sono dunque delle generalizzazioni o dei punti di arrivo.)
 
-All'interno delle moment form, Stockhausen non serializza parametri, ma realizza movimenti
+All'interno delle [moment form](https://velitch.github.io/velitch/2021-11-02-02_03_01_moment_form/), Stockhausen non serializza parametri, ma realizza movimenti
 continui che descrivono un profilo generale. In un dato delta(t) puoi dire qualcosa ma non qualcosa
 di interessante.
 

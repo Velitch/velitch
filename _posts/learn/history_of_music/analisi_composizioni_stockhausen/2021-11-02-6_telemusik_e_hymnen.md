@@ -27,7 +27,7 @@ Tabella del materiale usato in Telemusik:
 |Amazon South America|Javahé Indians song|girls, panflutes, rattles, perc.|"Lullaby"|
 |Amazon South America|Suyá Indians song|low men's choir w rattles||
 
-Telemusik è un brano realizzato in Giappone e rilasciato originariamente a 5 piste. Ha una quantità
+_Telemusik_ è un brano realizzato in Giappone e rilasciato originariamente a 5 piste. Ha una quantità
 di materiali musicali vastissima. Questo materiale così dozzinale rispetto alla varietà timbrica di
 Kontake da l'impressione di maggiore facilità.
 
@@ -35,14 +35,14 @@ Quando si sente la RM essa si riconosce e questo già di per se crea un effetto 
 complice un filtraggio ad altissime frequenze, rende tutti i materiali talmente etorogenei. Ci si
 chiede dunque perché tutta questa collezione di materiali.
 
-In Hymnen invece i materiali musicali degli inni sono veramente un pretesto.
+In _Hymnen_ invece i materiali musicali degli inni sono veramente un pretesto.
 
-Hymnen e Telemusik sono gli unici esemplari di musica concreta di Stockhausen in cui non è stato
+_Hymnen_ e _Telemusik_ sono gli unici esemplari di musica concreta di Stockhausen in cui non è stato
 in grado di valorizzare le differenze dei materiali, e li ha prostrati tutti al suo volere. È la spinta
 della **relatività progressiva** che aveva portato al concepimento della formula che viene a mancare.
 
-Telemusik e Hymnen segnano un momento di passaggio nell'estetica di Stockhausen (che sentiamo
-anche in Stimmung), in un sincretismo egotico: tutte le religioni del mondo, tutti gli inni del mondo,
+_Telemusik_ e _Hymnen_ segnano un momento di passaggio nell'estetica di Stockhausen (che sentiamo
+anche in _Stimmung_), in un sincretismo egotico: tutte le religioni del mondo, tutti gli inni del mondo,
 tutti i pezzi di Stockhausen.
 
 <h3 style="text-align:center">
