@@ -16,7 +16,7 @@ subtitle:
   <li><b>4. Modelli</b></li>
   <ul>  
   <li><a href="https://velitch.github.io/velitch/2021-11-02-04_01_vibrazione_come_modello_universale/"><b>4.1. Vibrazione come movimento universale</b></a></li>
-  <li><a href=https://velitch.github.io/velitch/2021-11-02-04_02_continuum/"><b>4.2. Continuum</b></a></li>
+  <li><a href="https://velitch.github.io/velitch/2021-11-02-04_02_continuum/"><b>4.2. Continuum</b></a></li>
   <li><a href="https://velitch.github.io/velitch/2021-11-02-04_03_spirale/"><b>4.3. Spirale</b></a></li>
   <li><a href="https://velitch.github.io/velitch/2021-11-02-04_04_galassia/"><b>4.4. Galassia</b></a></li>
 </ul>
