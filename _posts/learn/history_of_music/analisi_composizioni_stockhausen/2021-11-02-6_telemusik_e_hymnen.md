@@ -41,7 +41,7 @@ In Hymnen invece i materiali musicali degli inni sono veramente un pretesto.
 
 Hymnen e Telemusik sono gli unici esemplari di musica concreta di Stockhausen in cui non è stato
 in grado di valorizzare le differenze dei materiali, e li ha prostrati tutti al suo volere. È la spinta
-della relatività progressiva che aveva portato al concepimento della formula che viene a mancare.
+della **relatività progressiva** che aveva portato al concepimento della formula che viene a mancare.
 
 Telemusik e Hymnen segnano un momento di passaggio nell'estetica di Stockhausen (che sentiamo
 anche in Stimmung), in un sincretismo egotico: tutte le religioni del mondo, tutti gli inni del mondo,
