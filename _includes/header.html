@@ -71,6 +71,8 @@
           {% endif %}
 
           {% if include.type == "post" %}
+          <h3>{% if page.title %}{{ page.title | strip_html }}{% else %}<br/>{% endif %}</h3>
+        {% endif %}
       <!--    <span class="post-meta">Posted on {{ page.date | date: date_format }}</span> -->
             {% if page.last-updated %}
               <span class="post-meta">
