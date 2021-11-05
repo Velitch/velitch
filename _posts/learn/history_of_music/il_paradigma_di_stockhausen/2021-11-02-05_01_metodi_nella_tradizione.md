@@ -16,7 +16,7 @@ I metodi per come la musica viene concepita dalla seconda metà del Novecento ad
 <br>
 <br>
 <b>Materiali di base</b>:
-Tutti quelli definito come i semilavorati ovvero elementi precomposti di cui la musica tradizionale si serve per esprimere i suoi enunciati (esemplari).
+Tutti quelli definito come i semilavorati ovvero elementi precomposti di cui la musica tradizionale si serve per esprimere i suoi enunciati <a href="https://velitch.github.io/velitch/2021-11-02-03_01_esemplari/">(esemplari)</a>.
 <br>
 <br>
 <b>Principi costruttivi</b>:
