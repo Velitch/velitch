@@ -4,6 +4,7 @@ title: Il Paradigma di Stockhausen
 subtitle:
 ---
 
+<div style="text-align:left;">
 <ul>
   <li><a href="https://velitch.github.io/velitch/2021-11-02-01_00_il_paradigma/"><b>1. Il Paradigma</b></a>
   <li><a href="https://velitch.github.io/velitch/2021-11-02-02_00_il_concetto_di_pregiudizio/"><b>2. Il Concetto di Pregiudizio</b></a>
@@ -35,3 +36,4 @@ subtitle:
   <li><a href="https://velitch.github.io/velitch/2021-11-02-06_04_schema/"><b>6.4. Schema</b></a>
 </ul>
 </ul>  
+</div>
