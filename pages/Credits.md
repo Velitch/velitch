@@ -6,7 +6,7 @@ subtitle:
 
 <div class="row">
   <div class="column">
-    <img src="/asset/img/credits/2020_02_08.png" width="25%">
+    <img src="/assets/img/credits/2020_02_08.png" width="25%">
     <img src="rocks.jpg" width="25%">
     <img src="falls2.jpg">
     <img src="paris.jpg">
