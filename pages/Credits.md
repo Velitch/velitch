@@ -1,5 +1,5 @@
 ---
 layout: page
-title: Experience
+title: Credits
 subtitle: 
 ---
