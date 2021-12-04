@@ -8,12 +8,12 @@ subtitle:
 
 <a href="http://www.scelsi.it/it/evento/omaggio-a-mario-bertoncini/"><b>Omaggio a Mario Bertoncini</b></a>
 
-####2021/09/27
+#### 2021/09/27
 
 
 <a href="http://www.scelsi.it/it/evento/dallo-scrigno-di-michiko-giovani-interpreti-a-dialogo-con-la-vocalita-contemporanea/"><b>Dallo scrigno di Michiko… Giovani interpreti a dialogo con la vocalità contemporanea</b></a>
 
-#####2021/09/14
+##### 2021/09/14
 
 
 2021/09/14
