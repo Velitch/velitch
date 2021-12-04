@@ -6,7 +6,7 @@ subtitle:
 
 ## WEBINARS
 
-### at Fondazione Isabella Scelsi
+### at Fondazione Isabella Scelsi:
 
 - <a href="http://www.scelsi.it/it/evento/omaggio-a-mario-bertoncini/"><b>Omaggio a Mario Bertoncini</b></a>
 
