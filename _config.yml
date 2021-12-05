@@ -127,15 +127,15 @@ footer-img: "assets/img/patt.png"
 mobile-theme-col: "#1E1E30"
 
 # For any extra visual customization, you can include additional CSS files in every page on your site. List any custom CSS files here
-site-css:
-- "/assets/css/stats.css"
-- "/assets/css/main.css"
+#site-css:
+#- "/assets/css/stats.css"
+#- "/assets/css/main.css"
 
 # If you have common JavaScript files that should be included in every page, list them here
-site-js:
-- "/assets/js/stats.js"
-- "/assets/js/plugins.js"
-- "/assets/js/pace.min.js"
+#site-js:
+#- "/assets/js/stats.js"
+#- "/assets/js/plugins.js"
+#- "/assets/js/pace.min.js"
 
 # --- Web Analytics Section --- #
 
