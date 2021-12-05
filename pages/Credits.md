@@ -6,7 +6,6 @@ subtitle:
 
 ## CONCERTS
 
-HTML CSS Result Skip Results Iframe
 <div class="wrapper">
   <h1>Parallax Flipping Cards</h1>
   <div class="cols">
